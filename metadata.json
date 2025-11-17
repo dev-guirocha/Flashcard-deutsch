@@ -1,0 +1,5 @@
+{
+  "name": "German Vocabulary Flashcards",
+  "description": "A simple and beautiful flashcard application to help users learn German vocabulary using English as a base language. The app provides categorized flashcards with example sentences to improve reading and grammar skills.",
+  "requestFramePermissions": []
+}
