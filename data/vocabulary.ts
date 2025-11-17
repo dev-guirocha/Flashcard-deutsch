@@ -1,43 +1,6 @@
-import { GoogleGenAI, Type } from "@google/genai";
-import type { Category } from '../types';
+import type { Category, Flashcard } from '../types';
 
-const flashcardSchema = {
-  type: Type.OBJECT,
-  properties: {
-    germanWord: { type: Type.STRING, description: "A single German word or a very short phrase." },
-    englishTranslation: { type: Type.STRING, description: "The English translation of the German word." },
-    germanSentence: { type: Type.STRING, description: "An example sentence in German using the word." },
-    englishSentenceTranslation: { type: Type.STRING, description: "The English translation of the example sentence." },
-  },
-  required: ["germanWord", "englishTranslation", "germanSentence", "englishSentenceTranslation"],
-};
-
-const categorySchema = {
-  type: Type.OBJECT,
-  properties: {
-    name: { type: Type.STRING, description: "The name of the vocabulary category (e.g., 'Greetings')." },
-    flashcards: {
-      type: Type.ARRAY,
-      items: flashcardSchema,
-      description: "A list of flashcards for this category."
-    },
-  },
-  required: ["name", "flashcards"],
-};
-
-const mainSchema = {
-  type: Type.OBJECT,
-  properties: {
-    categories: {
-      type: Type.ARRAY,
-      items: categorySchema,
-      description: "A list of vocabulary categories."
-    },
-  },
-  required: ["categories"],
-};
-
-const vocabularyList = `
+const rawVocabulary = `
 der;the (masculine);article
 die;the (feminine/plural);article
 das;the (neuter);article
@@ -821,64 +784,112 @@ bis bald;see you soon;expression
 bis später;see you later;expression
 tschüss;bye;expression
 auf Wiedersehen;goodbye;expression
-`;
+`
 
-export const generateFlashcardData = async (): Promise<Category[]> => {
-  if (!process.env.API_KEY) {
-    throw new Error("API_KEY environment variable not set");
-  }
+export type VocabularyEntry = {
+  germanWord: string;
+  englishTranslation: string;
+  category: string;
+  germanSentence?: string;
+  englishSentenceTranslation?: string;
+};
 
-  const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const cleanEntry = (entry: VocabularyEntry): VocabularyEntry => ({
+  germanWord: entry.germanWord.trim(),
+  englishTranslation: entry.englishTranslation.trim(),
+  category: entry.category.trim(),
+  germanSentence: entry.germanSentence?.trim(),
+  englishSentenceTranslation: entry.englishSentenceTranslation?.trim(),
+});
 
-  const prompt = `
-    You are an expert German language tutor. Your task is to generate a structured JSON object for a German vocabulary flashcard application.
-    Use the following list of words, which are provided in "germanWord;englishTranslation;category" format. For each item in the list, you must create a simple and clear German example sentence ('germanSentence') and its corresponding English translation ('englishSentenceTranslation').
-    Group the resulting flashcards into their respective categories as specified in the list. The final JSON output must strictly adhere to the provided schema.
+export const parseRawVocabulary = (raw: string): VocabularyEntry[] =>
+  raw
+    .split('\n')
+    .map((line) => line.trim())
+    .filter((line) => line.length > 0)
+    .map((line) => {
+      const [germanWord, englishTranslation, category] = line.split(';').map((part) => part.trim());
+      if (!germanWord || !englishTranslation || !category) {
+        return null;
+      }
+      return cleanEntry({ germanWord, englishTranslation, category });
+    })
+    .filter((entry): entry is VocabularyEntry => entry !== null);
 
-    Here is the list of words to use:
-    ${vocabularyList}
+export const baseVocabularyEntries = parseRawVocabulary(rawVocabulary);
 
-    The final JSON object must have a root key 'categories'. The value of 'categories' should be an array of category objects. Each category object must have a 'name' (string, from the provided list) and a 'flashcards' property (an array of flashcard objects). Each flashcard object must contain: 'germanWord', 'englishTranslation', 'germanSentence', and 'englishSentenceTranslation'. Ensure that words with the same category are grouped under a single category object.
-  `;
+const createFlashcard = (entry: VocabularyEntry): Flashcard => ({
+  germanWord: entry.germanWord,
+  englishTranslation: entry.englishTranslation,
+  germanSentence: entry.germanSentence,
+  englishSentenceTranslation: entry.englishSentenceTranslation,
+  category: entry.category,
+});
 
-  try {
-    const response = await ai.models.generateContent({
-      model: "gemini-2.5-flash",
-      contents: prompt,
-      config: {
-        responseMimeType: "application/json",
-        responseSchema: mainSchema,
-      },
+const cardKey = (entry: VocabularyEntry) =>
+  `${entry.category.trim().toLowerCase()}::${entry.germanWord.trim().toLowerCase()}`;
+
+export const buildCategoriesFromEntries = (entries: VocabularyEntry[]): Category[] => {
+  const categoryMap = new Map<string, Map<string, Flashcard>>();
+
+  entries.forEach((entry) => {
+    const categoryName = entry.category.trim();
+    if (!categoryMap.has(categoryName)) {
+      categoryMap.set(categoryName, new Map());
+    }
+    const cardsMap = categoryMap.get(categoryName)!;
+    cardsMap.set(entry.germanWord.trim().toLowerCase(), createFlashcard(entry));
+  });
+
+  return Array.from(categoryMap.entries())
+    .map(([name, cardsMap]) => ({
+      name,
+      flashcards: Array.from(cardsMap.values()),
+    }))
+    .sort((a, b) => a.name.localeCompare(b.name));
+};
+
+export const buildAllFlashcards = (categories: Category[]): Flashcard[] =>
+  categories.flatMap((category) =>
+    category.flashcards.map((card) => ({
+      ...card,
+      category: card.category ?? category.name,
+    }))
+  );
+
+export const entriesToCsv = (entries: VocabularyEntry[]): string =>
+  entries
+    .map((entry) =>
+      [entry.germanWord, entry.englishTranslation, entry.category].map((field) => field.replace(/;/g, ',')).join(';')
+    )
+    .join('\n');
+
+export const parseCsvEntries = (csvText: string): VocabularyEntry[] =>
+  csvText
+    .split('\n')
+    .map((line) => line.trim())
+    .filter((line) => line.length > 0)
+    .map((line) => {
+      const [germanWord, englishTranslation, category] = line.split(';').map((part) => part.trim());
+      if (!germanWord || !englishTranslation || !category) {
+        throw new Error('CSV entry is missing required fields.');
+      }
+      return cleanEntry({ germanWord, englishTranslation, category });
     });
 
-    const jsonText = response.text.trim();
-    const data = JSON.parse(jsonText);
-
-    if (data && Array.isArray(data.categories)) {
-      // De-duplicate verbs and other categories
-      const categoryMap = new Map<string, Category>();
-      (data.categories as Category[]).forEach(category => {
-          if (categoryMap.has(category.name)) {
-              const existingCategory = categoryMap.get(category.name)!;
-              const uniqueFlashcards = new Map<string, typeof category.flashcards[0]>();
-              
-              existingCategory.flashcards.forEach(fc => uniqueFlashcards.set(fc.germanWord, fc));
-              category.flashcards.forEach(fc => uniqueFlashcards.set(fc.germanWord, fc));
-
-              existingCategory.flashcards = Array.from(uniqueFlashcards.values());
-
-          } else {
-              categoryMap.set(category.name, category);
-          }
-      });
-
-      return Array.from(categoryMap.values());
-    } else {
-      console.error("Invalid data structure received:", data);
-      throw new Error("Failed to parse flashcard data from API response.");
-    }
-  } catch (error) {
-    console.error("Error generating flashcard data:", error);
-    throw new Error("Could not generate flashcard data. Please check the API key and network connection.");
+export const parseJsonEntries = (jsonText: string): VocabularyEntry[] => {
+  const parsed = JSON.parse(jsonText);
+  if (!Array.isArray(parsed)) {
+    throw new Error('JSON file must contain an array of vocabulary entries.');
   }
+
+  return parsed.map((entry) => {
+    if (!entry.germanWord || !entry.englishTranslation || !entry.category) {
+      throw new Error('Each entry must include germanWord, englishTranslation, and category.');
+    }
+    return cleanEntry(entry);
+  });
 };
+
+export const getFlashcardKey = (card: Flashcard): string =>
+  `${card.germanWord.trim().toLowerCase()}::${card.englishTranslation.trim().toLowerCase()}`;
