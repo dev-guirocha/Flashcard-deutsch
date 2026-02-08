@@ -1,0 +1,44 @@
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Build outputs
+dist/
+build/
+web-build/
+
+# Metro
+*.map
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/app/debug.keystore
+
+# iOS
+ios/Pods/
+ios/build/
+
+# Generated seed artifacts
+words_v1.json
+words_base_2000.json
+missing_report.json
+de-seed/words_v1.json
+de-seed/words_base_2000.json
+de-seed/missing_report.json
