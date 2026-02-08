@@ -36,9 +36,9 @@ ios/Pods/
 ios/build/
 
 # Generated seed artifacts
-words_v1.json
-words_base_2000.json
-missing_report.json
-de-seed/words_v1.json
-de-seed/words_base_2000.json
-de-seed/missing_report.json
+/words_v1.json
+/words_base_2000.json
+/missing_report.json
+/de-seed/words_v1.json
+/de-seed/words_base_2000.json
+/de-seed/missing_report.json
