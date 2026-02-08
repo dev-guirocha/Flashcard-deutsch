@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Flashcard Deutsch",
+    "slug": "flashcard-deutsch",
+    "icon": "./assets/icon.png",
+    "android": {
+      "icon": "./assets/icon.png",
+      "package": "com.dev.guirocha.flashcarddeutsch"
+    },
+    "ios": {
+      "bundleIdentifier": "com.dev.guirocha.flashcard-deutsch"
+    }
+  }
+}

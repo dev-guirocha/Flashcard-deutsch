@@ -1,0 +1,10002 @@
+[
+  {
+    "rank": 1,
+    "surface": "Ich",
+    "lemma": "ich"
+  },
+  {
+    "rank": 2,
+    "surface": "ist",
+    "lemma": "sein"
+  },
+  {
+    "rank": 3,
+    "surface": "ich",
+    "lemma": "ich"
+  },
+  {
+    "rank": 4,
+    "surface": "nicht",
+    "lemma": "nicht"
+  },
+  {
+    "rank": 5,
+    "surface": "Sie",
+    "lemma": "Sie"
+  },
+  {
+    "rank": 6,
+    "surface": "du",
+    "lemma": "du"
+  },
+  {
+    "rank": 7,
+    "surface": "das",
+    "lemma": "das"
+  },
+  {
+    "rank": 8,
+    "surface": "die",
+    "lemma": "die"
+  },
+  {
+    "rank": 9,
+    "surface": "es",
+    "lemma": "es"
+  },
+  {
+    "rank": 10,
+    "surface": "und",
+    "lemma": "und"
+  },
+  {
+    "rank": 11,
+    "surface": "der",
+    "lemma": "der"
+  },
+  {
+    "rank": 12,
+    "surface": "zu",
+    "lemma": "zu"
+  },
+  {
+    "rank": 13,
+    "surface": "sie",
+    "lemma": "sie"
+  },
+  {
+    "rank": 14,
+    "surface": "Das",
+    "lemma": "das"
+  },
+  {
+    "rank": 15,
+    "surface": "ein",
+    "lemma": "ein"
+  },
+  {
+    "rank": 16,
+    "surface": "in",
+    "lemma": "in"
+  },
+  {
+    "rank": 17,
+    "surface": "wir",
+    "lemma": "wir"
+  },
+  {
+    "rank": 18,
+    "surface": "Du",
+    "lemma": "Du"
+  },
+  {
+    "rank": 19,
+    "surface": "mir",
+    "lemma": "mir"
+  },
+  {
+    "rank": 20,
+    "surface": "mit",
+    "lemma": "mit"
+  },
+  {
+    "rank": 21,
+    "surface": "Was",
+    "lemma": "was"
+  },
+  {
+    "rank": 22,
+    "surface": "den",
+    "lemma": "der"
+  },
+  {
+    "rank": 23,
+    "surface": "mich",
+    "lemma": "mich"
+  },
+  {
+    "rank": 24,
+    "surface": "was",
+    "lemma": "was"
+  },
+  {
+    "rank": 25,
+    "surface": "auf",
+    "lemma": "auf"
+  },
+  {
+    "rank": 26,
+    "surface": "dass",
+    "lemma": "dass"
+  },
+  {
+    "rank": 27,
+    "surface": "er",
+    "lemma": "er"
+  },
+  {
+    "rank": 28,
+    "surface": "eine",
+    "lemma": "eine"
+  },
+  {
+    "rank": 29,
+    "surface": "Es",
+    "lemma": "es"
+  },
+  {
+    "rank": 30,
+    "surface": "hat",
+    "lemma": "haben"
+  },
+  {
+    "rank": 31,
+    "surface": "Wir",
+    "lemma": "wir"
+  },
+  {
+    "rank": 32,
+    "surface": "Und",
+    "lemma": "und"
+  },
+  {
+    "rank": 33,
+    "surface": "so",
+    "lemma": "so"
+  },
+  {
+    "rank": 34,
+    "surface": "sind",
+    "lemma": "sein"
+  },
+  {
+    "rank": 35,
+    "surface": "von",
+    "lemma": "von"
+  },
+  {
+    "rank": 36,
+    "surface": "dich",
+    "lemma": "dich"
+  },
+  {
+    "rank": 37,
+    "surface": "war",
+    "lemma": "war"
+  },
+  {
+    "rank": 38,
+    "surface": "haben",
+    "lemma": "haben"
+  },
+  {
+    "rank": 39,
+    "surface": "für",
+    "lemma": "für"
+  },
+  {
+    "rank": 40,
+    "surface": "Ja",
+    "lemma": "ja"
+  },
+  {
+    "rank": 41,
+    "surface": "hier",
+    "lemma": "hier"
+  },
+  {
+    "rank": 42,
+    "surface": "an",
+    "lemma": "an"
+  },
+  {
+    "rank": 43,
+    "surface": "habe",
+    "lemma": "haben"
+  },
+  {
+    "rank": 44,
+    "surface": "Er",
+    "lemma": "er"
+  },
+  {
+    "rank": 45,
+    "surface": "bin",
+    "lemma": "sein"
+  },
+  {
+    "rank": 46,
+    "surface": "wie",
+    "lemma": "wie"
+  },
+  {
+    "rank": 47,
+    "surface": "noch",
+    "lemma": "noch"
+  },
+  {
+    "rank": 48,
+    "surface": "dir",
+    "lemma": "dir"
+  },
+  {
+    "rank": 49,
+    "surface": "uns",
+    "lemma": "uns"
+  },
+  {
+    "rank": 50,
+    "surface": "sich",
+    "lemma": "sich"
+  },
+  {
+    "rank": 51,
+    "surface": "Die",
+    "lemma": "die"
+  },
+  {
+    "rank": 52,
+    "surface": "nur",
+    "lemma": "nur"
+  },
+  {
+    "rank": 53,
+    "surface": "einen",
+    "lemma": "ein"
+  },
+  {
+    "rank": 54,
+    "surface": "Nein",
+    "lemma": "nein"
+  },
+  {
+    "rank": 55,
+    "surface": "dem",
+    "lemma": "der"
+  },
+  {
+    "rank": 56,
+    "surface": "ihn",
+    "lemma": "ihn"
+  },
+  {
+    "rank": 57,
+    "surface": "auch",
+    "lemma": "auch"
+  },
+  {
+    "rank": 58,
+    "surface": "hast",
+    "lemma": "haben"
+  },
+  {
+    "rank": 59,
+    "surface": "sein",
+    "lemma": "sein"
+  },
+  {
+    "rank": 60,
+    "surface": "ihr",
+    "lemma": "ihr"
+  },
+  {
+    "rank": 61,
+    "surface": "da",
+    "lemma": "da"
+  },
+  {
+    "rank": 62,
+    "surface": "aus",
+    "lemma": "aus"
+  },
+  {
+    "rank": 63,
+    "surface": "kann",
+    "lemma": "können"
+  },
+  {
+    "rank": 64,
+    "surface": "aber",
+    "lemma": "aber"
+  },
+  {
+    "rank": 65,
+    "surface": "Aber",
+    "lemma": "aber"
+  },
+  {
+    "rank": 66,
+    "surface": "schon",
+    "lemma": "schon"
+  },
+  {
+    "rank": 67,
+    "surface": "wenn",
+    "lemma": "wenn"
+  },
+  {
+    "rank": 68,
+    "surface": "wird",
+    "lemma": "werden"
+  },
+  {
+    "rank": 69,
+    "surface": "um",
+    "lemma": "um"
+  },
+  {
+    "rank": 70,
+    "surface": "Wie",
+    "lemma": "wie"
+  },
+  {
+    "rank": 71,
+    "surface": "als",
+    "lemma": "als"
+  },
+  {
+    "rank": 72,
+    "surface": "bist",
+    "lemma": "sein"
+  },
+  {
+    "rank": 73,
+    "surface": "im",
+    "lemma": "in"
+  },
+  {
+    "rank": 74,
+    "surface": "mal",
+    "lemma": "mal"
+  },
+  {
+    "rank": 75,
+    "surface": "doch",
+    "lemma": "doch"
+  },
+  {
+    "rank": 76,
+    "surface": "gut",
+    "lemma": "gut"
+  },
+  {
+    "rank": 77,
+    "surface": "meine",
+    "lemma": "mein"
+  },
+  {
+    "rank": 78,
+    "surface": "jetzt",
+    "lemma": "jetzt"
+  },
+  {
+    "rank": 79,
+    "surface": "weiß",
+    "lemma": "wissen"
+  },
+  {
+    "rank": 80,
+    "surface": "Wenn",
+    "lemma": "wenn"
+  },
+  {
+    "rank": 81,
+    "surface": "werden",
+    "lemma": "werden"
+  },
+  {
+    "rank": 82,
+    "surface": "Der",
+    "lemma": "der"
+  },
+  {
+    "rank": 83,
+    "surface": "nach",
+    "lemma": "nach"
+  },
+  {
+    "rank": 84,
+    "surface": "ja",
+    "lemma": "ja"
+  },
+  {
+    "rank": 85,
+    "surface": "Oh",
+    "lemma": "oh"
+  },
+  {
+    "rank": 86,
+    "surface": "oder",
+    "lemma": "oder"
+  },
+  {
+    "rank": 87,
+    "surface": "dann",
+    "lemma": "dann"
+  },
+  {
+    "rank": 88,
+    "surface": "will",
+    "lemma": "wollen"
+  },
+  {
+    "rank": 89,
+    "surface": "mein",
+    "lemma": "mein"
+  },
+  {
+    "rank": 90,
+    "surface": "mehr",
+    "lemma": "mehr"
+  },
+  {
+    "rank": 91,
+    "surface": "keine",
+    "lemma": "kein"
+  },
+  {
+    "rank": 92,
+    "surface": "etwas",
+    "lemma": "etwas"
+  },
+  {
+    "rank": 93,
+    "surface": "alles",
+    "lemma": "alles"
+  },
+  {
+    "rank": 94,
+    "surface": "muss",
+    "lemma": "müssen"
+  },
+  {
+    "rank": 95,
+    "surface": "immer",
+    "lemma": "immer"
+  },
+  {
+    "rank": 96,
+    "surface": "nichts",
+    "lemma": "nichts"
+  },
+  {
+    "rank": 97,
+    "surface": "man",
+    "lemma": "man"
+  },
+  {
+    "rank": 98,
+    "surface": "wieder",
+    "lemma": "wieder"
+  },
+  {
+    "rank": 99,
+    "surface": "bei",
+    "lemma": "bei"
+  },
+  {
+    "rank": 100,
+    "surface": "hab",
+    "lemma": "haben"
+  },
+  {
+    "rank": 101,
+    "surface": "machen",
+    "lemma": "machen"
+  },
+  {
+    "rank": 102,
+    "surface": "vor",
+    "lemma": "vor"
+  },
+  {
+    "rank": 103,
+    "surface": "Mann",
+    "lemma": "Mann"
+  },
+  {
+    "rank": 104,
+    "surface": "ihm",
+    "lemma": "ihm"
+  },
+  {
+    "rank": 105,
+    "surface": "einem",
+    "lemma": "ein"
+  },
+  {
+    "rank": 106,
+    "surface": "tun",
+    "lemma": "tun"
+  },
+  {
+    "rank": 107,
+    "surface": "zum",
+    "lemma": "zu"
+  },
+  {
+    "rank": 108,
+    "surface": "können",
+    "lemma": "können"
+  },
+  {
+    "rank": 109,
+    "surface": "sagen",
+    "lemma": "sagen"
+  },
+  {
+    "rank": 110,
+    "surface": "werde",
+    "lemma": "werden"
+  },
+  {
+    "rank": 111,
+    "surface": "denn",
+    "lemma": "denn"
+  },
+  {
+    "rank": 112,
+    "surface": "Ist",
+    "lemma": "sein"
+  },
+  {
+    "rank": 113,
+    "surface": "Ein",
+    "lemma": "ein"
+  },
+  {
+    "rank": 114,
+    "surface": "Warum",
+    "lemma": "warum"
+  },
+  {
+    "rank": 115,
+    "surface": "einer",
+    "lemma": "ein"
+  },
+  {
+    "rank": 116,
+    "surface": "gehen",
+    "lemma": "gehen"
+  },
+  {
+    "rank": 117,
+    "surface": "sehen",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 118,
+    "surface": "sehr",
+    "lemma": "sehr"
+  },
+  {
+    "rank": 119,
+    "surface": "geht",
+    "lemma": "gehen"
+  },
+  {
+    "rank": 120,
+    "surface": "alle",
+    "lemma": "alle"
+  },
+  {
+    "rank": 121,
+    "surface": "über",
+    "lemma": "über"
+  },
+  {
+    "rank": 122,
+    "surface": "müssen",
+    "lemma": "müssen"
+  },
+  {
+    "rank": 123,
+    "surface": "diese",
+    "lemma": "dieser"
+  },
+  {
+    "rank": 124,
+    "surface": "einfach",
+    "lemma": "einfach"
+  },
+  {
+    "rank": 125,
+    "surface": "euch",
+    "lemma": "euch"
+  },
+  {
+    "rank": 126,
+    "surface": "des",
+    "lemma": "der"
+  },
+  {
+    "rank": 127,
+    "surface": "nie",
+    "lemma": "nie"
+  },
+  {
+    "rank": 128,
+    "surface": "Also",
+    "lemma": "also"
+  },
+  {
+    "rank": 129,
+    "surface": "Wo",
+    "lemma": "wo"
+  },
+  {
+    "rank": 130,
+    "surface": "los",
+    "lemma": "los"
+  },
+  {
+    "rank": 131,
+    "surface": "Zeit",
+    "lemma": "Zeit"
+  },
+  {
+    "rank": 132,
+    "surface": "Ihnen",
+    "lemma": "Ihnen"
+  },
+  {
+    "rank": 133,
+    "surface": "gibt",
+    "lemma": "geben"
+  },
+  {
+    "rank": 134,
+    "surface": "wirklich",
+    "lemma": "wirklich"
+  },
+  {
+    "rank": 135,
+    "surface": "Hey",
+    "lemma": "hey"
+  },
+  {
+    "rank": 136,
+    "surface": "Danke",
+    "lemma": "danke"
+  },
+  {
+    "rank": 137,
+    "surface": "deine",
+    "lemma": "dein"
+  },
+  {
+    "rank": 138,
+    "surface": "würde",
+    "lemma": "werden"
+  },
+  {
+    "rank": 139,
+    "surface": "soll",
+    "lemma": "sollen"
+  },
+  {
+    "rank": 140,
+    "surface": "Da",
+    "lemma": "da"
+  },
+  {
+    "rank": 141,
+    "surface": "hatte",
+    "lemma": "haben"
+  },
+  {
+    "rank": 142,
+    "surface": "Hier",
+    "lemma": "hier"
+  },
+  {
+    "rank": 143,
+    "surface": "wissen",
+    "lemma": "wissen"
+  },
+  {
+    "rank": 144,
+    "surface": "bitte",
+    "lemma": "bitte"
+  },
+  {
+    "rank": 145,
+    "surface": "viel",
+    "lemma": "viel"
+  },
+  {
+    "rank": 146,
+    "surface": "Dann",
+    "lemma": "dann"
+  },
+  {
+    "rank": 147,
+    "surface": "So",
+    "lemma": "so"
+  },
+  {
+    "rank": 148,
+    "surface": "gesagt",
+    "lemma": "sagen"
+  },
+  {
+    "rank": 149,
+    "surface": "Ihr",
+    "lemma": "Ihr"
+  },
+  {
+    "rank": 150,
+    "surface": "am",
+    "lemma": "an"
+  },
+  {
+    "rank": 151,
+    "surface": "kein",
+    "lemma": "kein"
+  },
+  {
+    "rank": 152,
+    "surface": "Komm",
+    "lemma": "kommen"
+  },
+  {
+    "rank": 153,
+    "surface": "Wer",
+    "lemma": "wer"
+  },
+  {
+    "rank": 154,
+    "surface": "zurück",
+    "lemma": "zurück"
+  },
+  {
+    "rank": 155,
+    "surface": "wurde",
+    "lemma": "werden"
+  },
+  {
+    "rank": 156,
+    "surface": "In",
+    "lemma": "in"
+  },
+  {
+    "rank": 157,
+    "surface": "wollte",
+    "lemma": "wollen"
+  },
+  {
+    "rank": 158,
+    "surface": "Frau",
+    "lemma": "Frau"
+  },
+  {
+    "rank": 159,
+    "surface": "Leben",
+    "lemma": "Leben"
+  },
+  {
+    "rank": 160,
+    "surface": "wäre",
+    "lemma": "sein"
+  },
+  {
+    "rank": 161,
+    "surface": "wo",
+    "lemma": "wo"
+  },
+  {
+    "rank": 162,
+    "surface": "damit",
+    "lemma": "damit"
+  },
+  {
+    "rank": 163,
+    "surface": "Nicht",
+    "lemma": "nicht"
+  },
+  {
+    "rank": 164,
+    "surface": "Gott",
+    "lemma": "Gott"
+  },
+  {
+    "rank": 165,
+    "surface": "Leute",
+    "lemma": "Leute"
+  },
+  {
+    "rank": 166,
+    "surface": "kannst",
+    "lemma": "können"
+  },
+  {
+    "rank": 167,
+    "surface": "heute",
+    "lemma": "heute"
+  },
+  {
+    "rank": 168,
+    "surface": "meinen",
+    "lemma": "mein"
+  },
+  {
+    "rank": 169,
+    "surface": "dieser",
+    "lemma": "dieser"
+  },
+  {
+    "rank": 170,
+    "surface": "dein",
+    "lemma": "dein"
+  },
+  {
+    "rank": 171,
+    "surface": "kommt",
+    "lemma": "kommen"
+  },
+  {
+    "rank": 172,
+    "surface": "kommen",
+    "lemma": "kommen"
+  },
+  {
+    "rank": 173,
+    "surface": "willst",
+    "lemma": "wollen"
+  },
+  {
+    "rank": 174,
+    "surface": "Na",
+    "lemma": "na"
+  },
+  {
+    "rank": 175,
+    "surface": "wollen",
+    "lemma": "wollen"
+  },
+  {
+    "rank": 176,
+    "surface": "sicher",
+    "lemma": "sicher"
+  },
+  {
+    "rank": 177,
+    "surface": "ganz",
+    "lemma": "ganz"
+  },
+  {
+    "rank": 178,
+    "surface": "Jetzt",
+    "lemma": "jetzt"
+  },
+  {
+    "rank": 179,
+    "surface": "Mein",
+    "lemma": "mein"
+  },
+  {
+    "rank": 180,
+    "surface": "Mr",
+    "lemma": "Mr"
+  },
+  {
+    "rank": 181,
+    "surface": "also",
+    "lemma": "also"
+  },
+  {
+    "rank": 182,
+    "surface": "zur",
+    "lemma": "zu"
+  },
+  {
+    "rank": 183,
+    "surface": "Hast",
+    "lemma": "haben"
+  },
+  {
+    "rank": 184,
+    "surface": "Gut",
+    "lemma": "gut"
+  },
+  {
+    "rank": 185,
+    "surface": "hätte",
+    "lemma": "haben"
+  },
+  {
+    "rank": 186,
+    "surface": "weil",
+    "lemma": "weil"
+  },
+  {
+    "rank": 187,
+    "surface": "tut",
+    "lemma": "tun"
+  },
+  {
+    "rank": 188,
+    "surface": "Hallo",
+    "lemma": "hallo"
+  },
+  {
+    "rank": 189,
+    "surface": "Okay",
+    "lemma": "okay"
+  },
+  {
+    "rank": 190,
+    "surface": "macht",
+    "lemma": "machen"
+  },
+  {
+    "rank": 191,
+    "surface": "waren",
+    "lemma": "sein"
+  },
+  {
+    "rank": 192,
+    "surface": "bis",
+    "lemma": "bis"
+  },
+  {
+    "rank": 193,
+    "surface": "Vielleicht",
+    "lemma": "vielleicht"
+  },
+  {
+    "rank": 194,
+    "surface": "könnte",
+    "lemma": "können"
+  },
+  {
+    "rank": 195,
+    "surface": "Eine",
+    "lemma": "ein"
+  },
+  {
+    "rank": 196,
+    "surface": "Bitte",
+    "lemma": "Bitte"
+  },
+  {
+    "rank": 197,
+    "surface": "weg",
+    "lemma": "weg"
+  },
+  {
+    "rank": 198,
+    "surface": "seine",
+    "lemma": "sein"
+  },
+  {
+    "rank": 199,
+    "surface": "lassen",
+    "lemma": "lassen"
+  },
+  {
+    "rank": 200,
+    "surface": "Vater",
+    "lemma": "Vater"
+  },
+  {
+    "rank": 201,
+    "surface": "gesehen",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 202,
+    "surface": "Nun",
+    "lemma": "nun"
+  },
+  {
+    "rank": 203,
+    "surface": "gerade",
+    "lemma": "gerade"
+  },
+  {
+    "rank": 204,
+    "surface": "Alles",
+    "lemma": "alles"
+  },
+  {
+    "rank": 205,
+    "surface": "glaube",
+    "lemma": "glauben"
+  },
+  {
+    "rank": 206,
+    "surface": "Tag",
+    "lemma": "Tag"
+  },
+  {
+    "rank": 207,
+    "surface": "ab",
+    "lemma": "ab"
+  },
+  {
+    "rank": 208,
+    "surface": "Geld",
+    "lemma": "Geld"
+  },
+  {
+    "rank": 209,
+    "surface": "gemacht",
+    "lemma": "machen"
+  },
+  {
+    "rank": 210,
+    "surface": "nein",
+    "lemma": "nein"
+  },
+  {
+    "rank": 211,
+    "surface": "Sir",
+    "lemma": "Sir"
+  },
+  {
+    "rank": 212,
+    "surface": "sollte",
+    "lemma": "sollen"
+  },
+  {
+    "rank": 213,
+    "surface": "sagte",
+    "lemma": "sagen"
+  },
+  {
+    "rank": 214,
+    "surface": "keinen",
+    "lemma": "kein"
+  },
+  {
+    "rank": 215,
+    "surface": "durch",
+    "lemma": "durch"
+  },
+  {
+    "rank": 216,
+    "surface": "zwei",
+    "lemma": "zwei"
+  },
+  {
+    "rank": 217,
+    "surface": "diesen",
+    "lemma": "dieser"
+  },
+  {
+    "rank": 218,
+    "surface": "passiert",
+    "lemma": "passieren"
+  },
+  {
+    "rank": 219,
+    "surface": "wohl",
+    "lemma": "wohl"
+  },
+  {
+    "rank": 220,
+    "surface": "vielleicht",
+    "lemma": "vielleicht"
+  },
+  {
+    "rank": 221,
+    "surface": "ihre",
+    "lemma": "ihre"
+  },
+  {
+    "rank": 222,
+    "surface": "Mutter",
+    "lemma": "Mutter"
+  },
+  {
+    "rank": 223,
+    "surface": "reden",
+    "lemma": "reden"
+  },
+  {
+    "rank": 224,
+    "surface": "anderen",
+    "lemma": "anderer"
+  },
+  {
+    "rank": 225,
+    "surface": "dachte",
+    "lemma": "denken"
+  },
+  {
+    "rank": 226,
+    "surface": "daß",
+    "lemma": "daß"
+  },
+  {
+    "rank": 227,
+    "surface": "möchte",
+    "lemma": "mögen"
+  },
+  {
+    "rank": 228,
+    "surface": "wirst",
+    "lemma": "werden"
+  },
+  {
+    "rank": 229,
+    "surface": "gehört",
+    "lemma": "gehören"
+  },
+  {
+    "rank": 230,
+    "surface": "weißt",
+    "lemma": "wissen"
+  },
+  {
+    "rank": 231,
+    "surface": "Keine",
+    "lemma": "keine"
+  },
+  {
+    "rank": 232,
+    "surface": "raus",
+    "lemma": "raus"
+  },
+  {
+    "rank": 233,
+    "surface": "Meine",
+    "lemma": "meine"
+  },
+  {
+    "rank": 234,
+    "surface": "paar",
+    "lemma": "paar"
+  },
+  {
+    "rank": 235,
+    "surface": "besser",
+    "lemma": "gut"
+  },
+  {
+    "rank": 236,
+    "surface": "ob",
+    "lemma": "ob"
+  },
+  {
+    "rank": 237,
+    "surface": "her",
+    "lemma": "her"
+  },
+  {
+    "rank": 238,
+    "surface": "musst",
+    "lemma": "müssen"
+  },
+  {
+    "rank": 239,
+    "surface": "Ordnung",
+    "lemma": "Ordnung"
+  },
+  {
+    "rank": 240,
+    "surface": "meiner",
+    "lemma": "mein"
+  },
+  {
+    "rank": 241,
+    "surface": "klar",
+    "lemma": "klar"
+  },
+  {
+    "rank": 242,
+    "surface": "ihnen",
+    "lemma": "ihnen"
+  },
+  {
+    "rank": 243,
+    "surface": "Los",
+    "lemma": "Los"
+  },
+  {
+    "rank": 244,
+    "surface": "diesem",
+    "lemma": "dieser"
+  },
+  {
+    "rank": 245,
+    "surface": "meinem",
+    "lemma": "mein"
+  },
+  {
+    "rank": 246,
+    "surface": "lange",
+    "lemma": "lange"
+  },
+  {
+    "rank": 247,
+    "surface": "Lass",
+    "lemma": "lassen"
+  },
+  {
+    "rank": 248,
+    "surface": "dieses",
+    "lemma": "dieser"
+  },
+  {
+    "rank": 249,
+    "surface": "helfen",
+    "lemma": "helfen"
+  },
+  {
+    "rank": 250,
+    "surface": "unsere",
+    "lemma": "unser"
+  },
+  {
+    "rank": 251,
+    "surface": "Weg",
+    "lemma": "Weg"
+  },
+  {
+    "rank": 252,
+    "surface": "selbst",
+    "lemma": "selbst"
+  },
+  {
+    "rank": 253,
+    "surface": "Nur",
+    "lemma": "nur"
+  },
+  {
+    "rank": 254,
+    "surface": "finden",
+    "lemma": "finden"
+  },
+  {
+    "rank": 255,
+    "surface": "Mal",
+    "lemma": "Mal"
+  },
+  {
+    "rank": 256,
+    "surface": "jemand",
+    "lemma": "jemand"
+  },
+  {
+    "rank": 257,
+    "surface": "denke",
+    "lemma": "denken"
+  },
+  {
+    "rank": 258,
+    "surface": "Ach",
+    "lemma": "ach"
+  },
+  {
+    "rank": 259,
+    "surface": "Nacht",
+    "lemma": "Nacht"
+  },
+  {
+    "rank": 260,
+    "surface": "genau",
+    "lemma": "genau"
+  },
+  {
+    "rank": 261,
+    "surface": "gar",
+    "lemma": "gar"
+  },
+  {
+    "rank": 262,
+    "surface": "sagt",
+    "lemma": "sagen"
+  },
+  {
+    "rank": 263,
+    "surface": "Welt",
+    "lemma": "Welt"
+  },
+  {
+    "rank": 264,
+    "surface": "Auf",
+    "lemma": "auf"
+  },
+  {
+    "rank": 265,
+    "surface": "Mädchen",
+    "lemma": "Mädchen"
+  },
+  {
+    "rank": 266,
+    "surface": "ins",
+    "lemma": "in"
+  },
+  {
+    "rank": 267,
+    "surface": "hin",
+    "lemma": "hin"
+  },
+  {
+    "rank": 268,
+    "surface": "vom",
+    "lemma": "von"
+  },
+  {
+    "rank": 269,
+    "surface": "schön",
+    "lemma": "schön"
+  },
+  {
+    "rank": 270,
+    "surface": "warum",
+    "lemma": "warum"
+  },
+  {
+    "rank": 271,
+    "surface": "weiter",
+    "lemma": "weiter"
+  },
+  {
+    "rank": 272,
+    "surface": "Leid",
+    "lemma": "Leid"
+  },
+  {
+    "rank": 273,
+    "surface": "gleich",
+    "lemma": "gleich"
+  },
+  {
+    "rank": 274,
+    "surface": "wer",
+    "lemma": "wer"
+  },
+  {
+    "rank": 275,
+    "surface": "Man",
+    "lemma": "man"
+  },
+  {
+    "rank": 276,
+    "surface": "ohne",
+    "lemma": "ohne"
+  },
+  {
+    "rank": 277,
+    "surface": "Menschen",
+    "lemma": "Mensch"
+  },
+  {
+    "rank": 278,
+    "surface": "deinen",
+    "lemma": "dein"
+  },
+  {
+    "rank": 279,
+    "surface": "leid",
+    "lemma": "leid"
+  },
+  {
+    "rank": 280,
+    "surface": "Wieso",
+    "lemma": "wieso"
+  },
+  {
+    "rank": 281,
+    "surface": "dort",
+    "lemma": "dort"
+  },
+  {
+    "rank": 282,
+    "surface": "Als",
+    "lemma": "als"
+  },
+  {
+    "rank": 283,
+    "surface": "Hause",
+    "lemma": "Haus"
+  },
+  {
+    "rank": 284,
+    "surface": "sollten",
+    "lemma": "sollen"
+  },
+  {
+    "rank": 285,
+    "surface": "davon",
+    "lemma": "davon"
+  },
+  {
+    "rank": 286,
+    "surface": "zusammen",
+    "lemma": "zusammen"
+  },
+  {
+    "rank": 287,
+    "surface": "geben",
+    "lemma": "geben"
+  },
+  {
+    "rank": 288,
+    "surface": "Ok",
+    "lemma": "Ok"
+  },
+  {
+    "rank": 289,
+    "surface": "Hör",
+    "lemma": "hören"
+  },
+  {
+    "rank": 290,
+    "surface": "machst",
+    "lemma": "machen"
+  },
+  {
+    "rank": 291,
+    "surface": "Freund",
+    "lemma": "Freund"
+  },
+  {
+    "rank": 292,
+    "surface": "richtig",
+    "lemma": "richtig"
+  },
+  {
+    "rank": 293,
+    "surface": "Angst",
+    "lemma": "Angst"
+  },
+  {
+    "rank": 294,
+    "surface": "Bist",
+    "lemma": "sein"
+  },
+  {
+    "rank": 295,
+    "surface": "Tut",
+    "lemma": "tun"
+  },
+  {
+    "rank": 296,
+    "surface": "Mit",
+    "lemma": "mit"
+  },
+  {
+    "rank": 297,
+    "surface": "viele",
+    "lemma": "viel"
+  },
+  {
+    "rank": 298,
+    "surface": "sieht",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 299,
+    "surface": "Haus",
+    "lemma": "Haus"
+  },
+  {
+    "rank": 300,
+    "surface": "tot",
+    "lemma": "tot"
+  },
+  {
+    "rank": 301,
+    "surface": "sollen",
+    "lemma": "sollen"
+  },
+  {
+    "rank": 302,
+    "surface": "ganze",
+    "lemma": "ganz"
+  },
+  {
+    "rank": 303,
+    "surface": "andere",
+    "lemma": "anderer"
+  },
+  {
+    "rank": 304,
+    "surface": "getan",
+    "lemma": "tun"
+  },
+  {
+    "rank": 305,
+    "surface": "okay",
+    "lemma": "okay"
+  },
+  {
+    "rank": 306,
+    "surface": "rein",
+    "lemma": "rein"
+  },
+  {
+    "rank": 307,
+    "surface": "Diese",
+    "lemma": "dieser"
+  },
+  {
+    "rank": 308,
+    "surface": "Moment",
+    "lemma": "Moment"
+  },
+  {
+    "rank": 309,
+    "surface": "bleiben",
+    "lemma": "bleiben"
+  },
+  {
+    "rank": 310,
+    "surface": "brauchen",
+    "lemma": "brauchen"
+  },
+  {
+    "rank": 311,
+    "surface": "Weil",
+    "lemma": "weil"
+  },
+  {
+    "rank": 312,
+    "surface": "Kinder",
+    "lemma": "Kind"
+  },
+  {
+    "rank": 313,
+    "surface": "unter",
+    "lemma": "unter"
+  },
+  {
+    "rank": 314,
+    "surface": "Arbeit",
+    "lemma": "Arbeit"
+  },
+  {
+    "rank": 315,
+    "surface": "Für",
+    "lemma": "für"
+  },
+  {
+    "rank": 316,
+    "surface": "Problem",
+    "lemma": "Problem"
+  },
+  {
+    "rank": 317,
+    "surface": "dafür",
+    "lemma": "dafür"
+  },
+  {
+    "rank": 318,
+    "surface": "Herr",
+    "lemma": "Herr"
+  },
+  {
+    "rank": 319,
+    "surface": "Haben",
+    "lemma": "haben"
+  },
+  {
+    "rank": 320,
+    "surface": "wegen",
+    "lemma": "wegen"
+  },
+  {
+    "rank": 321,
+    "surface": "geht's",
+    "lemma": "es"
+  },
+  {
+    "rank": 322,
+    "surface": "liebe",
+    "lemma": "lieber"
+  },
+  {
+    "rank": 323,
+    "surface": "genug",
+    "lemma": "genug"
+  },
+  {
+    "rank": 324,
+    "surface": "dabei",
+    "lemma": "dabei"
+  },
+  {
+    "rank": 325,
+    "surface": "bringen",
+    "lemma": "bringen"
+  },
+  {
+    "rank": 326,
+    "surface": "Ihre",
+    "lemma": "Ihre"
+  },
+  {
+    "rank": 327,
+    "surface": "'ne",
+    "lemma": "eine"
+  },
+  {
+    "rank": 328,
+    "surface": "gegen",
+    "lemma": "gegen"
+  },
+  {
+    "rank": 329,
+    "surface": "Weißt",
+    "lemma": "wissen"
+  },
+  {
+    "rank": 330,
+    "surface": "Sag",
+    "lemma": "sagen"
+  },
+  {
+    "rank": 331,
+    "surface": "schnell",
+    "lemma": "schnell"
+  },
+  {
+    "rank": 332,
+    "surface": "nun",
+    "lemma": "nun"
+  },
+  {
+    "rank": 333,
+    "surface": "eines",
+    "lemma": "ein"
+  },
+  {
+    "rank": 334,
+    "surface": "brauche",
+    "lemma": "brauchen"
+  },
+  {
+    "rank": 335,
+    "surface": "Abend",
+    "lemma": "Abend"
+  },
+  {
+    "rank": 336,
+    "surface": "hatten",
+    "lemma": "haben"
+  },
+  {
+    "rank": 337,
+    "surface": "Jahre",
+    "lemma": "Jahr"
+  },
+  {
+    "rank": 338,
+    "surface": "Mach",
+    "lemma": "machen"
+  },
+  {
+    "rank": 339,
+    "surface": "Bruder",
+    "lemma": "Bruder"
+  },
+  {
+    "rank": 340,
+    "surface": "Sache",
+    "lemma": "Sache"
+  },
+  {
+    "rank": 341,
+    "surface": "hören",
+    "lemma": "hören"
+  },
+  {
+    "rank": 342,
+    "surface": "komm",
+    "lemma": "kommen"
+  },
+  {
+    "rank": 343,
+    "surface": "Sohn",
+    "lemma": "Sohn"
+  },
+  {
+    "rank": 344,
+    "surface": "seit",
+    "lemma": "seit"
+  },
+  {
+    "rank": 345,
+    "surface": "Morgen",
+    "lemma": "Morgen"
+  },
+  {
+    "rank": 346,
+    "surface": "drei",
+    "lemma": "drei"
+  },
+  {
+    "rank": 347,
+    "surface": "steht",
+    "lemma": "stehen"
+  },
+  {
+    "rank": 348,
+    "surface": "Scheiße",
+    "lemma": "Scheiße"
+  },
+  {
+    "rank": 349,
+    "surface": "mag",
+    "lemma": "mögen"
+  },
+  {
+    "rank": 350,
+    "surface": "sei",
+    "lemma": "sein"
+  },
+  {
+    "rank": 351,
+    "surface": "unser",
+    "lemma": "unser"
+  },
+  {
+    "rank": 352,
+    "surface": "konnte",
+    "lemma": "können"
+  },
+  {
+    "rank": 353,
+    "surface": "habt",
+    "lemma": "haben"
+  },
+  {
+    "rank": 354,
+    "surface": "Oder",
+    "lemma": "oder"
+  },
+  {
+    "rank": 355,
+    "surface": "einmal",
+    "lemma": "einmal"
+  },
+  {
+    "rank": 356,
+    "surface": "heißt",
+    "lemma": "heißen"
+  },
+  {
+    "rank": 357,
+    "surface": "OK",
+    "lemma": "OK"
+  },
+  {
+    "rank": 358,
+    "surface": "Willst",
+    "lemma": "wollen"
+  },
+  {
+    "rank": 359,
+    "surface": "Kopf",
+    "lemma": "Kopf"
+  },
+  {
+    "rank": 360,
+    "surface": "Hilfe",
+    "lemma": "Hilfe"
+  },
+  {
+    "rank": 361,
+    "surface": "Familie",
+    "lemma": "Familie"
+  },
+  {
+    "rank": 362,
+    "surface": "Geh",
+    "lemma": "gehen"
+  },
+  {
+    "rank": 363,
+    "surface": "Baby",
+    "lemma": "Baby"
+  },
+  {
+    "rank": 364,
+    "surface": "Dich",
+    "lemma": "dich"
+  },
+  {
+    "rank": 365,
+    "surface": "Sind",
+    "lemma": "sein"
+  },
+  {
+    "rank": 366,
+    "surface": "erst",
+    "lemma": "erst"
+  },
+  {
+    "rank": 367,
+    "surface": "fertig",
+    "lemma": "fertig"
+  },
+  {
+    "rank": 368,
+    "surface": "gefunden",
+    "lemma": "finden"
+  },
+  {
+    "rank": 369,
+    "surface": "seid",
+    "lemma": "sein"
+  },
+  {
+    "rank": 370,
+    "surface": "kam",
+    "lemma": "kommen"
+  },
+  {
+    "rank": 371,
+    "surface": "nehmen",
+    "lemma": "nehmen"
+  },
+  {
+    "rank": 372,
+    "surface": "morgen",
+    "lemma": "morgen"
+  },
+  {
+    "rank": 373,
+    "surface": "sprechen",
+    "lemma": "sprechen"
+  },
+  {
+    "rank": 374,
+    "surface": "Mir",
+    "lemma": "mir"
+  },
+  {
+    "rank": 375,
+    "surface": "sofort",
+    "lemma": "sofort"
+  },
+  {
+    "rank": 376,
+    "surface": "Kann",
+    "lemma": "können"
+  },
+  {
+    "rank": 377,
+    "surface": "Hat",
+    "lemma": "haben"
+  },
+  {
+    "rank": 378,
+    "surface": "Jahren",
+    "lemma": "Jahr"
+  },
+  {
+    "rank": 379,
+    "surface": "Kind",
+    "lemma": "Kind"
+  },
+  {
+    "rank": 380,
+    "surface": "seinen",
+    "lemma": "sein"
+  },
+  {
+    "rank": 381,
+    "surface": "Genau",
+    "lemma": "genau"
+  },
+  {
+    "rank": 382,
+    "surface": "daran",
+    "lemma": "daran"
+  },
+  {
+    "rank": 383,
+    "surface": "Junge",
+    "lemma": "Junge"
+  },
+  {
+    "rank": 384,
+    "surface": "Minuten",
+    "lemma": "Minute"
+  },
+  {
+    "rank": 385,
+    "surface": "bevor",
+    "lemma": "bevor"
+  },
+  {
+    "rank": 386,
+    "surface": "Stadt",
+    "lemma": "Stadt"
+  },
+  {
+    "rank": 387,
+    "surface": "beim",
+    "lemma": "bei"
+  },
+  {
+    "rank": 388,
+    "surface": "sterben",
+    "lemma": "sterben"
+  },
+  {
+    "rank": 389,
+    "surface": "warst",
+    "lemma": "sein"
+  },
+  {
+    "rank": 390,
+    "surface": "Recht",
+    "lemma": "Recht"
+  },
+  {
+    "rank": 391,
+    "surface": "glauben",
+    "lemma": "glauben"
+  },
+  {
+    "rank": 392,
+    "surface": "Warte",
+    "lemma": "warten"
+  },
+  {
+    "rank": 393,
+    "surface": "darüber",
+    "lemma": "darüber"
+  },
+  {
+    "rank": 394,
+    "surface": "deiner",
+    "lemma": "dein"
+  },
+  {
+    "rank": 395,
+    "surface": "deinem",
+    "lemma": "dein"
+  },
+  {
+    "rank": 396,
+    "surface": "Ende",
+    "lemma": "Ende"
+  },
+  {
+    "rank": 397,
+    "surface": "He",
+    "lemma": "he"
+  },
+  {
+    "rank": 398,
+    "surface": "Dinge",
+    "lemma": "Ding"
+  },
+  {
+    "rank": 399,
+    "surface": "Namen",
+    "lemma": "Namen"
+  },
+  {
+    "rank": 400,
+    "surface": "wahr",
+    "lemma": "wahr"
+  },
+  {
+    "rank": 401,
+    "surface": "Alle",
+    "lemma": "alle"
+  },
+  {
+    "rank": 402,
+    "surface": "allein",
+    "lemma": "allein"
+  },
+  {
+    "rank": 403,
+    "surface": "Natürlich",
+    "lemma": "natürlich"
+  },
+  {
+    "rank": 404,
+    "surface": "töten",
+    "lemma": "töten"
+  },
+  {
+    "rank": 405,
+    "surface": "Nichts",
+    "lemma": "nichts"
+  },
+  {
+    "rank": 406,
+    "surface": "Wirklich",
+    "lemma": "wirklich"
+  },
+  {
+    "rank": 407,
+    "surface": "bekommen",
+    "lemma": "bekommen"
+  },
+  {
+    "rank": 408,
+    "surface": "Männer",
+    "lemma": "Mann"
+  },
+  {
+    "rank": 409,
+    "surface": "vergessen",
+    "lemma": "vergessen"
+  },
+  {
+    "rank": 410,
+    "surface": "Doch",
+    "lemma": "doch"
+  },
+  {
+    "rank": 411,
+    "surface": "dazu",
+    "lemma": "dazu"
+  },
+  {
+    "rank": 412,
+    "surface": "gab",
+    "lemma": "geben"
+  },
+  {
+    "rank": 413,
+    "surface": "später",
+    "lemma": "spät"
+  },
+  {
+    "rank": 414,
+    "surface": "wusste",
+    "lemma": "wissen"
+  },
+  {
+    "rank": 415,
+    "surface": "Augen",
+    "lemma": "Auge"
+  },
+  {
+    "rank": 416,
+    "surface": "Dank",
+    "lemma": "Dank"
+  },
+  {
+    "rank": 417,
+    "surface": "Freunde",
+    "lemma": "Freund"
+  },
+  {
+    "rank": 418,
+    "surface": "Jungs",
+    "lemma": "Junge"
+  },
+  {
+    "rank": 419,
+    "surface": "halten",
+    "lemma": "halten"
+  },
+  {
+    "rank": 420,
+    "surface": "warten",
+    "lemma": "warten"
+  },
+  {
+    "rank": 421,
+    "surface": "Glück",
+    "lemma": "Glück"
+  },
+  {
+    "rank": 422,
+    "surface": "beide",
+    "lemma": "beide"
+  },
+  {
+    "rank": 423,
+    "surface": "gute",
+    "lemma": "gut"
+  },
+  {
+    "rank": 424,
+    "surface": "Dein",
+    "lemma": "dein"
+  },
+  {
+    "rank": 425,
+    "surface": "kennen",
+    "lemma": "kennen"
+  },
+  {
+    "rank": 426,
+    "surface": "Deine",
+    "lemma": "dein"
+  },
+  {
+    "rank": 427,
+    "surface": "'n",
+    "lemma": "ein"
+  },
+  {
+    "rank": 428,
+    "surface": "Hi",
+    "lemma": "hi"
+  },
+  {
+    "rank": 429,
+    "surface": "Dr",
+    "lemma": "Dr"
+  },
+  {
+    "rank": 430,
+    "surface": "Auto",
+    "lemma": "Auto"
+  },
+  {
+    "rank": 431,
+    "surface": "sage",
+    "lemma": "sagen"
+  },
+  {
+    "rank": 432,
+    "surface": "gehe",
+    "lemma": "gehen"
+  },
+  {
+    "rank": 433,
+    "surface": "komme",
+    "lemma": "kommen"
+  },
+  {
+    "rank": 434,
+    "surface": "Dir",
+    "lemma": "dir"
+  },
+  {
+    "rank": 435,
+    "surface": "mache",
+    "lemma": "machen"
+  },
+  {
+    "rank": 436,
+    "surface": "Von",
+    "lemma": "von"
+  },
+  {
+    "rank": 437,
+    "surface": "Uhr",
+    "lemma": "Uhr"
+  },
+  {
+    "rank": 438,
+    "surface": "sehe",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 439,
+    "surface": "Teufel",
+    "lemma": "Teufel"
+  },
+  {
+    "rank": 440,
+    "surface": "sonst",
+    "lemma": "sonst"
+  },
+  {
+    "rank": 441,
+    "surface": "Art",
+    "lemma": "Art"
+  },
+  {
+    "rank": 442,
+    "surface": "gern",
+    "lemma": "gern"
+  },
+  {
+    "rank": 443,
+    "surface": "Liebe",
+    "lemma": "Liebe"
+  },
+  {
+    "rank": 444,
+    "surface": "jeden",
+    "lemma": "jeder"
+  },
+  {
+    "rank": 445,
+    "surface": "könnten",
+    "lemma": "können"
+  },
+  {
+    "rank": 446,
+    "surface": "ihren",
+    "lemma": "ihr"
+  },
+  {
+    "rank": 447,
+    "surface": "Halt",
+    "lemma": "Halt"
+  },
+  {
+    "rank": 448,
+    "surface": "Fall",
+    "lemma": "Fall"
+  },
+  {
+    "rank": 449,
+    "surface": "Dad",
+    "lemma": "Dad"
+  },
+  {
+    "rank": 450,
+    "surface": "Film",
+    "lemma": "Film"
+  },
+  {
+    "rank": 451,
+    "surface": "bisschen",
+    "lemma": "bisschen"
+  },
+  {
+    "rank": 452,
+    "surface": "eigentlich",
+    "lemma": "eigentlich"
+  },
+  {
+    "rank": 453,
+    "surface": "weit",
+    "lemma": "weit"
+  },
+  {
+    "rank": 454,
+    "surface": "mach",
+    "lemma": "machen"
+  },
+  {
+    "rank": 455,
+    "surface": "Gib",
+    "lemma": "geben"
+  },
+  {
+    "rank": 456,
+    "surface": "vorbei",
+    "lemma": "vorbei"
+  },
+  {
+    "rank": 457,
+    "surface": "verstehe",
+    "lemma": "verstehen"
+  },
+  {
+    "rank": 458,
+    "surface": "danke",
+    "lemma": "danke"
+  },
+  {
+    "rank": 459,
+    "surface": "drin",
+    "lemma": "drin"
+  },
+  {
+    "rank": 460,
+    "surface": "Im",
+    "lemma": "in"
+  },
+  {
+    "rank": 461,
+    "surface": "Name",
+    "lemma": "Name"
+  },
+  {
+    "rank": 462,
+    "surface": "ganzen",
+    "lemma": "ganz"
+  },
+  {
+    "rank": 463,
+    "surface": "Musik",
+    "lemma": "Musik"
+  },
+  {
+    "rank": 464,
+    "surface": "würden",
+    "lemma": "werden"
+  },
+  {
+    "rank": 465,
+    "surface": "Tür",
+    "lemma": "Tür"
+  },
+  {
+    "rank": 466,
+    "surface": "verrückt",
+    "lemma": "verrückt"
+  },
+  {
+    "rank": 467,
+    "surface": "solltest",
+    "lemma": "sollen"
+  },
+  {
+    "rank": 468,
+    "surface": "denken",
+    "lemma": "denken"
+  },
+  {
+    "rank": 469,
+    "surface": "Noch",
+    "lemma": "noch"
+  },
+  {
+    "rank": 470,
+    "surface": "dran",
+    "lemma": "dran"
+  },
+  {
+    "rank": 471,
+    "surface": "Sieh",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 472,
+    "surface": "lieber",
+    "lemma": "lieb"
+  },
+  {
+    "rank": 473,
+    "surface": "Den",
+    "lemma": "der"
+  },
+  {
+    "rank": 474,
+    "surface": "leben",
+    "lemma": "leben"
+  },
+  {
+    "rank": 475,
+    "surface": "Guten",
+    "lemma": "gut"
+  },
+  {
+    "rank": 476,
+    "surface": "Um",
+    "lemma": "um"
+  },
+  {
+    "rank": 477,
+    "surface": "darauf",
+    "lemma": "darauf"
+  },
+  {
+    "rank": 478,
+    "surface": "Kein",
+    "lemma": "kein"
+  },
+  {
+    "rank": 479,
+    "surface": "stimmt",
+    "lemma": "stimmen"
+  },
+  {
+    "rank": 480,
+    "surface": "Kerl",
+    "lemma": "Kerl"
+  },
+  {
+    "rank": 481,
+    "surface": "letzte",
+    "lemma": "letzter"
+  },
+  {
+    "rank": 482,
+    "surface": "Job",
+    "lemma": "Job"
+  },
+  {
+    "rank": 483,
+    "surface": "verloren",
+    "lemma": "verlieren"
+  },
+  {
+    "rank": 484,
+    "surface": "wurden",
+    "lemma": "werden"
+  },
+  {
+    "rank": 485,
+    "surface": "kenne",
+    "lemma": "kennen"
+  },
+  {
+    "rank": 486,
+    "surface": "Ahnung",
+    "lemma": "Ahnung"
+  },
+  {
+    "rank": 487,
+    "surface": "seiner",
+    "lemma": "sein"
+  },
+  {
+    "rank": 488,
+    "surface": "Grund",
+    "lemma": "Grund"
+  },
+  {
+    "rank": 489,
+    "surface": "toll",
+    "lemma": "toll"
+  },
+  {
+    "rank": 490,
+    "surface": "Bis",
+    "lemma": "bis"
+  },
+  {
+    "rank": 491,
+    "surface": "Verdammt",
+    "lemma": "verdammen"
+  },
+  {
+    "rank": 492,
+    "surface": "bald",
+    "lemma": "bald"
+  },
+  {
+    "rank": 493,
+    "surface": "bereit",
+    "lemma": "bereit"
+  },
+  {
+    "rank": 494,
+    "surface": "all",
+    "lemma": "all"
+  },
+  {
+    "rank": 495,
+    "surface": "jemanden",
+    "lemma": "jemand"
+  },
+  {
+    "rank": 496,
+    "surface": "hinter",
+    "lemma": "hinter"
+  },
+  {
+    "rank": 497,
+    "surface": "Schon",
+    "lemma": "schon"
+  },
+  {
+    "rank": 498,
+    "surface": "Sehr",
+    "lemma": "sehr"
+  },
+  {
+    "rank": 499,
+    "surface": "Hand",
+    "lemma": "Hand"
+  },
+  {
+    "rank": 500,
+    "surface": "darf",
+    "lemma": "dürfen"
+  },
+  {
+    "rank": 501,
+    "surface": "Dieser",
+    "lemma": "dieser"
+  },
+  {
+    "rank": 502,
+    "surface": "Frauen",
+    "lemma": "Frau"
+  },
+  {
+    "rank": 503,
+    "surface": "Euch",
+    "lemma": "euch"
+  },
+  {
+    "rank": 504,
+    "surface": "Idee",
+    "lemma": "Idee"
+  },
+  {
+    "rank": 505,
+    "surface": "runter",
+    "lemma": "runter"
+  },
+  {
+    "rank": 506,
+    "surface": "Macht",
+    "lemma": "Macht"
+  },
+  {
+    "rank": 507,
+    "surface": "draußen",
+    "lemma": "draußen"
+  },
+  {
+    "rank": 508,
+    "surface": "lang",
+    "lemma": "lang"
+  },
+  {
+    "rank": 509,
+    "surface": "Land",
+    "lemma": "Land"
+  },
+  {
+    "rank": 510,
+    "surface": "lass",
+    "lemma": "lassen"
+  },
+  {
+    "rank": 511,
+    "surface": "Typ",
+    "lemma": "Typ"
+  },
+  {
+    "rank": 512,
+    "surface": "hätten",
+    "lemma": "haben"
+  },
+  {
+    "rank": 513,
+    "surface": "egal",
+    "lemma": "egal"
+  },
+  {
+    "rank": 514,
+    "surface": "arbeiten",
+    "lemma": "arbeiten"
+  },
+  {
+    "rank": 515,
+    "surface": "spät",
+    "lemma": "spät"
+  },
+  {
+    "rank": 516,
+    "surface": "stehen",
+    "lemma": "stehen"
+  },
+  {
+    "rank": 517,
+    "surface": "ok",
+    "lemma": "ok"
+  },
+  {
+    "rank": 518,
+    "surface": "Gute",
+    "lemma": "gut"
+  },
+  {
+    "rank": 519,
+    "surface": "gekommen",
+    "lemma": "kommen"
+  },
+  {
+    "rank": 520,
+    "surface": "Bei",
+    "lemma": "bei"
+  },
+  {
+    "rank": 521,
+    "surface": "etwa",
+    "lemma": "etwa"
+  },
+  {
+    "rank": 522,
+    "surface": "essen",
+    "lemma": "essen"
+  },
+  {
+    "rank": 523,
+    "surface": "kleine",
+    "lemma": "klein"
+  },
+  {
+    "rank": 524,
+    "surface": "jeder",
+    "lemma": "jeder"
+  },
+  {
+    "rank": 525,
+    "surface": "Schwester",
+    "lemma": "Schwester"
+  },
+  {
+    "rank": 526,
+    "surface": "Wasser",
+    "lemma": "Wasser"
+  },
+  {
+    "rank": 527,
+    "surface": "spielen",
+    "lemma": "spielen"
+  },
+  {
+    "rank": 528,
+    "surface": "Geschichte",
+    "lemma": "Geschichte"
+  },
+  {
+    "rank": 529,
+    "surface": "seinem",
+    "lemma": "sein"
+  },
+  {
+    "rank": 530,
+    "surface": "liegt",
+    "lemma": "liegen"
+  },
+  {
+    "rank": 531,
+    "surface": "sah",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 532,
+    "surface": "Mom",
+    "lemma": "Mom"
+  },
+  {
+    "rank": 533,
+    "surface": "Seite",
+    "lemma": "Seite"
+  },
+  {
+    "rank": 534,
+    "surface": "wenig",
+    "lemma": "wenig"
+  },
+  {
+    "rank": 535,
+    "surface": "ruhig",
+    "lemma": "ruhig"
+  },
+  {
+    "rank": 536,
+    "surface": "Frage",
+    "lemma": "Frage"
+  },
+  {
+    "rank": 537,
+    "surface": "meinst",
+    "lemma": "meinen"
+  },
+  {
+    "rank": 538,
+    "surface": "überhaupt",
+    "lemma": "überhaupt"
+  },
+  {
+    "rank": 539,
+    "surface": "fahren",
+    "lemma": "fahren"
+  },
+  {
+    "rank": 540,
+    "surface": "Ganz",
+    "lemma": "ganz"
+  },
+  {
+    "rank": 541,
+    "surface": "Gehen",
+    "lemma": "gehen"
+  },
+  {
+    "rank": 542,
+    "surface": "Essen",
+    "lemma": "Essen"
+  },
+  {
+    "rank": 543,
+    "surface": "Ruhe",
+    "lemma": "Ruhe"
+  },
+  {
+    "rank": 544,
+    "surface": "echt",
+    "lemma": "echt"
+  },
+  {
+    "rank": 545,
+    "surface": "versucht",
+    "lemma": "versuchen"
+  },
+  {
+    "rank": 546,
+    "surface": "Tochter",
+    "lemma": "Tochter"
+  },
+  {
+    "rank": 547,
+    "surface": "Kommt",
+    "lemma": "kommen"
+  },
+  {
+    "rank": 548,
+    "surface": "Einen",
+    "lemma": "ein"
+  },
+  {
+    "rank": 549,
+    "surface": "ging",
+    "lemma": "gehen"
+  },
+  {
+    "rank": 550,
+    "surface": "Jahr",
+    "lemma": "Jahr"
+  },
+  {
+    "rank": 551,
+    "surface": "braucht",
+    "lemma": "brauchen"
+  },
+  {
+    "rank": 552,
+    "surface": "fast",
+    "lemma": "fast"
+  },
+  {
+    "rank": 553,
+    "surface": "neue",
+    "lemma": "neu"
+  },
+  {
+    "rank": 554,
+    "surface": "geh",
+    "lemma": "gehen"
+  },
+  {
+    "rank": 555,
+    "surface": "ziemlich",
+    "lemma": "ziemlich"
+  },
+  {
+    "rank": 556,
+    "surface": "anders",
+    "lemma": "anders"
+  },
+  {
+    "rank": 557,
+    "surface": "siehst",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 558,
+    "surface": "Polizei",
+    "lemma": "Polizei"
+  },
+  {
+    "rank": 559,
+    "surface": "Stunden",
+    "lemma": "Stunde"
+  },
+  {
+    "rank": 560,
+    "surface": "musste",
+    "lemma": "müssen"
+  },
+  {
+    "rank": 561,
+    "surface": "Spiel",
+    "lemma": "Spiel"
+  },
+  {
+    "rank": 562,
+    "surface": "gewesen",
+    "lemma": "sein"
+  },
+  {
+    "rank": 563,
+    "surface": "gerne",
+    "lemma": "gerne"
+  },
+  {
+    "rank": 564,
+    "surface": "finde",
+    "lemma": "finden"
+  },
+  {
+    "rank": 565,
+    "surface": "erzählt",
+    "lemma": "erzählen"
+  },
+  {
+    "rank": 566,
+    "surface": "Tod",
+    "lemma": "Tod"
+  },
+  {
+    "rank": 567,
+    "surface": "Ort",
+    "lemma": "Ort"
+  },
+  {
+    "rank": 568,
+    "surface": "Chance",
+    "lemma": "Chance"
+  },
+  {
+    "rank": 569,
+    "surface": "bedeutet",
+    "lemma": "bedeuten"
+  },
+  {
+    "rank": 570,
+    "surface": "War",
+    "lemma": "sein"
+  },
+  {
+    "rank": 571,
+    "surface": "sag",
+    "lemma": "sagen"
+  },
+  {
+    "rank": 572,
+    "surface": "sagst",
+    "lemma": "sagen"
+  },
+  {
+    "rank": 573,
+    "surface": "fragen",
+    "lemma": "fragen"
+  },
+  {
+    "rank": 574,
+    "surface": "letzten",
+    "lemma": "letzter"
+  },
+  {
+    "rank": 575,
+    "surface": "sogar",
+    "lemma": "sogar"
+  },
+  {
+    "rank": 576,
+    "surface": "ersten",
+    "lemma": "erster"
+  },
+  {
+    "rank": 577,
+    "surface": "Sachen",
+    "lemma": "Sache"
+  },
+  {
+    "rank": 578,
+    "surface": "Wahrheit",
+    "lemma": "Wahrheit"
+  },
+  {
+    "rank": 579,
+    "surface": "einzige",
+    "lemma": "einziger"
+  },
+  {
+    "rank": 580,
+    "surface": "kurz",
+    "lemma": "kurz"
+  },
+  {
+    "rank": 581,
+    "surface": "denen",
+    "lemma": "denen"
+  },
+  {
+    "rank": 582,
+    "surface": "Kommen",
+    "lemma": "kommen"
+  },
+  {
+    "rank": 583,
+    "surface": "Spaß",
+    "lemma": "Spaß"
+  },
+  {
+    "rank": 584,
+    "surface": "Nach",
+    "lemma": "nach"
+  },
+  {
+    "rank": 585,
+    "surface": "oben",
+    "lemma": "oben"
+  },
+  {
+    "rank": 586,
+    "surface": "Mama",
+    "lemma": "Mama"
+  },
+  {
+    "rank": 587,
+    "surface": "schwer",
+    "lemma": "schwer"
+  },
+  {
+    "rank": 588,
+    "surface": "Schule",
+    "lemma": "Schule"
+  },
+  {
+    "rank": 589,
+    "surface": "je",
+    "lemma": "je"
+  },
+  {
+    "rank": 590,
+    "surface": "eben",
+    "lemma": "eben"
+  },
+  {
+    "rank": 591,
+    "surface": "Gesicht",
+    "lemma": "Gesicht"
+  },
+  {
+    "rank": 592,
+    "surface": "bestimmt",
+    "lemma": "bestimmen"
+  },
+  {
+    "rank": 593,
+    "surface": "treffen",
+    "lemma": "treffen"
+  },
+  {
+    "rank": 594,
+    "surface": "niemand",
+    "lemma": "niemand"
+  },
+  {
+    "rank": 595,
+    "surface": "Woche",
+    "lemma": "Woche"
+  },
+  {
+    "rank": 596,
+    "surface": "Entschuldigung",
+    "lemma": "Entschuldigung"
+  },
+  {
+    "rank": 597,
+    "surface": "Sorgen",
+    "lemma": "Sorge"
+  },
+  {
+    "rank": 598,
+    "surface": "warte",
+    "lemma": "warten"
+  },
+  {
+    "rank": 599,
+    "surface": "natürlich",
+    "lemma": "natürlich"
+  },
+  {
+    "rank": 600,
+    "surface": "schlecht",
+    "lemma": "schlecht"
+  },
+  {
+    "rank": 601,
+    "surface": "große",
+    "lemma": "groß"
+  },
+  {
+    "rank": 602,
+    "surface": "getötet",
+    "lemma": "töten"
+  },
+  {
+    "rank": 603,
+    "surface": "verstehen",
+    "lemma": "verstehen"
+  },
+  {
+    "rank": 604,
+    "surface": "hoffe",
+    "lemma": "hoffen"
+  },
+  {
+    "rank": 605,
+    "surface": "Ah",
+    "lemma": "ah"
+  },
+  {
+    "rank": 606,
+    "surface": "Sei",
+    "lemma": "sein"
+  },
+  {
+    "rank": 607,
+    "surface": "Zimmer",
+    "lemma": "Zimmer"
+  },
+  {
+    "rank": 608,
+    "surface": "hoch",
+    "lemma": "hoch"
+  },
+  {
+    "rank": 609,
+    "surface": "unserer",
+    "lemma": "unser"
+  },
+  {
+    "rank": 610,
+    "surface": "Tage",
+    "lemma": "Tag"
+  },
+  {
+    "rank": 611,
+    "surface": "Teil",
+    "lemma": "Teil"
+  },
+  {
+    "rank": 612,
+    "surface": "Wann",
+    "lemma": "wann"
+  },
+  {
+    "rank": 613,
+    "surface": "suchen",
+    "lemma": "suchen"
+  },
+  {
+    "rank": 614,
+    "surface": "verlassen",
+    "lemma": "verlassen"
+  },
+  {
+    "rank": 615,
+    "surface": "zeigen",
+    "lemma": "zeigen"
+  },
+  {
+    "rank": 616,
+    "surface": "wollten",
+    "lemma": "wollen"
+  },
+  {
+    "rank": 617,
+    "surface": "lässt",
+    "lemma": "lassen"
+  },
+  {
+    "rank": 618,
+    "surface": "Wort",
+    "lemma": "Wort"
+  },
+  {
+    "rank": 619,
+    "surface": "eins",
+    "lemma": "ein"
+  },
+  {
+    "rank": 620,
+    "surface": "zwischen",
+    "lemma": "zwischen"
+  },
+  {
+    "rank": 621,
+    "surface": "Woher",
+    "lemma": "woher"
+  },
+  {
+    "rank": 622,
+    "surface": "Schatz",
+    "lemma": "Schatz"
+  },
+  {
+    "rank": 623,
+    "surface": "Wissen",
+    "lemma": "Wissen"
+  },
+  {
+    "rank": 624,
+    "surface": "versuchen",
+    "lemma": "versuchen"
+  },
+  {
+    "rank": 625,
+    "surface": "Können",
+    "lemma": "Können"
+  },
+  {
+    "rank": 626,
+    "surface": "Kannst",
+    "lemma": "können"
+  },
+  {
+    "rank": 627,
+    "surface": "nett",
+    "lemma": "nett"
+  },
+  {
+    "rank": 628,
+    "surface": "Zu",
+    "lemma": "zu"
+  },
+  {
+    "rank": 629,
+    "surface": "kriegen",
+    "lemma": "kriegen"
+  },
+  {
+    "rank": 630,
+    "surface": "Geht",
+    "lemma": "gehen"
+  },
+  {
+    "rank": 631,
+    "surface": "Arsch",
+    "lemma": "Arsch"
+  },
+  {
+    "rank": 632,
+    "surface": "kleinen",
+    "lemma": "klein"
+  },
+  {
+    "rank": 633,
+    "surface": "Hab",
+    "lemma": "haben"
+  },
+  {
+    "rank": 634,
+    "surface": "weiss",
+    "lemma": "weiss"
+  },
+  {
+    "rank": 635,
+    "surface": "erste",
+    "lemma": "erster"
+  },
+  {
+    "rank": 636,
+    "surface": "läuft",
+    "lemma": "laufen"
+  },
+  {
+    "rank": 637,
+    "surface": "kommst",
+    "lemma": "kommen"
+  },
+  {
+    "rank": 638,
+    "surface": "Freundin",
+    "lemma": "Freundin"
+  },
+  {
+    "rank": 639,
+    "surface": "Mensch",
+    "lemma": "Mensch"
+  },
+  {
+    "rank": 640,
+    "surface": "beiden",
+    "lemma": "beide"
+  },
+  {
+    "rank": 641,
+    "surface": "Ding",
+    "lemma": "Ding"
+  },
+  {
+    "rank": 642,
+    "surface": "niemals",
+    "lemma": "niemals"
+  },
+  {
+    "rank": 643,
+    "surface": "endlich",
+    "lemma": "endlich"
+  },
+  {
+    "rank": 644,
+    "surface": "Nimm",
+    "lemma": "nehmen"
+  },
+  {
+    "rank": 645,
+    "surface": "muß",
+    "lemma": "müssen"
+  },
+  {
+    "rank": 646,
+    "surface": "gehst",
+    "lemma": "gehen"
+  },
+  {
+    "rank": 647,
+    "surface": "Heute",
+    "lemma": "Heute"
+  },
+  {
+    "rank": 648,
+    "surface": "denkst",
+    "lemma": "denken"
+  },
+  {
+    "rank": 649,
+    "surface": "Herz",
+    "lemma": "Herz"
+  },
+  {
+    "rank": 650,
+    "surface": "Waffe",
+    "lemma": "Waffe"
+  },
+  {
+    "rank": 651,
+    "surface": "Soll",
+    "lemma": "Soll"
+  },
+  {
+    "rank": 652,
+    "surface": "tust",
+    "lemma": "tun"
+  },
+  {
+    "rank": 653,
+    "surface": "Dollar",
+    "lemma": "Dollar"
+  },
+  {
+    "rank": 654,
+    "surface": "nehme",
+    "lemma": "nehmen"
+  },
+  {
+    "rank": 655,
+    "surface": "Schau",
+    "lemma": "Schau"
+  },
+  {
+    "rank": 656,
+    "surface": "holen",
+    "lemma": "holen"
+  },
+  {
+    "rank": 657,
+    "surface": "oft",
+    "lemma": "oft"
+  },
+  {
+    "rank": 658,
+    "surface": "drauf",
+    "lemma": "drauf"
+  },
+  {
+    "rank": 659,
+    "surface": "anderes",
+    "lemma": "anderer"
+  },
+  {
+    "rank": 660,
+    "surface": "Niemand",
+    "lemma": "niemand"
+  },
+  {
+    "rank": 661,
+    "surface": "unten",
+    "lemma": "unten"
+  },
+  {
+    "rank": 662,
+    "surface": "Wagen",
+    "lemma": "Wagen"
+  },
+  {
+    "rank": 663,
+    "surface": "Yeah",
+    "lemma": "yeah"
+  },
+  {
+    "rank": 664,
+    "surface": "Schön",
+    "lemma": "schön"
+  },
+  {
+    "rank": 665,
+    "surface": "wichtig",
+    "lemma": "wichtig"
+  },
+  {
+    "rank": 666,
+    "surface": "Mrs",
+    "lemma": "Mrs"
+  },
+  {
+    "rank": 667,
+    "surface": "hättest",
+    "lemma": "haben"
+  },
+  {
+    "rank": 668,
+    "surface": "allen",
+    "lemma": "alle"
+  },
+  {
+    "rank": 669,
+    "surface": "Miss",
+    "lemma": "Miss"
+  },
+  {
+    "rank": 670,
+    "surface": "ihrer",
+    "lemma": "ihre"
+  },
+  {
+    "rank": 671,
+    "surface": "gedacht",
+    "lemma": "denken"
+  },
+  {
+    "rank": 672,
+    "surface": "Nummer",
+    "lemma": "Nummer"
+  },
+  {
+    "rank": 673,
+    "surface": "würdest",
+    "lemma": "werden"
+  },
+  {
+    "rank": 674,
+    "surface": "erzählen",
+    "lemma": "erzählen"
+  },
+  {
+    "rank": 675,
+    "surface": "bleibt",
+    "lemma": "bleiben"
+  },
+  {
+    "rank": 676,
+    "surface": "Auch",
+    "lemma": "auch"
+  },
+  {
+    "rank": 677,
+    "surface": "Hände",
+    "lemma": "Hand"
+  },
+  {
+    "rank": 678,
+    "surface": "Blut",
+    "lemma": "Blut"
+  },
+  {
+    "rank": 679,
+    "surface": "Sehen",
+    "lemma": "Sehen"
+  },
+  {
+    "rank": 680,
+    "surface": "bloß",
+    "lemma": "bloß"
+  },
+  {
+    "rank": 681,
+    "surface": "recht",
+    "lemma": "recht"
+  },
+  {
+    "rank": 682,
+    "surface": "bringt",
+    "lemma": "bringen"
+  },
+  {
+    "rank": 683,
+    "surface": "Bett",
+    "lemma": "Bett"
+  },
+  {
+    "rank": 684,
+    "surface": "Lassen",
+    "lemma": "lassen"
+  },
+  {
+    "rank": 685,
+    "surface": "Eltern",
+    "lemma": "Eltern"
+  },
+  {
+    "rank": 686,
+    "surface": "gefällt",
+    "lemma": "gefallen"
+  },
+  {
+    "rank": 687,
+    "surface": "Schuld",
+    "lemma": "Schuld"
+  },
+  {
+    "rank": 688,
+    "surface": "eure",
+    "lemma": "euer"
+  },
+  {
+    "rank": 689,
+    "surface": "Plan",
+    "lemma": "Plan"
+  },
+  {
+    "rank": 690,
+    "surface": "Krieg",
+    "lemma": "Krieg"
+  },
+  {
+    "rank": 691,
+    "surface": "neuen",
+    "lemma": "neu"
+  },
+  {
+    "rank": 692,
+    "surface": "Klar",
+    "lemma": "klar"
+  },
+  {
+    "rank": 693,
+    "surface": "retten",
+    "lemma": "retten"
+  },
+  {
+    "rank": 694,
+    "surface": "guter",
+    "lemma": "gut"
+  },
+  {
+    "rank": 695,
+    "surface": "während",
+    "lemma": "während"
+  },
+  {
+    "rank": 696,
+    "surface": "ihrem",
+    "lemma": "ihr"
+  },
+  {
+    "rank": 697,
+    "surface": "wären",
+    "lemma": "sein"
+  },
+  {
+    "rank": 698,
+    "surface": "Fehler",
+    "lemma": "Fehler"
+  },
+  {
+    "rank": 699,
+    "surface": "scheint",
+    "lemma": "scheinen"
+  },
+  {
+    "rank": 700,
+    "surface": "Lasst",
+    "lemma": "lassen"
+  },
+  {
+    "rank": 701,
+    "surface": "gegeben",
+    "lemma": "geben"
+  },
+  {
+    "rank": 702,
+    "surface": "An",
+    "lemma": "an"
+  },
+  {
+    "rank": 703,
+    "surface": "hör",
+    "lemma": "hören"
+  },
+  {
+    "rank": 704,
+    "surface": "glücklich",
+    "lemma": "glücklich"
+  },
+  {
+    "rank": 705,
+    "surface": "verdammt",
+    "lemma": "verdammen"
+  },
+  {
+    "rank": 706,
+    "surface": "alt",
+    "lemma": "alt"
+  },
+  {
+    "rank": 707,
+    "surface": "Platz",
+    "lemma": "Platz"
+  },
+  {
+    "rank": 708,
+    "surface": "darum",
+    "lemma": "darum"
+  },
+  {
+    "rank": 709,
+    "surface": "Vielen",
+    "lemma": "viele"
+  },
+  {
+    "rank": 710,
+    "surface": "falsch",
+    "lemma": "falsch"
+  },
+  {
+    "rank": 711,
+    "surface": "unseren",
+    "lemma": "unser"
+  },
+  {
+    "rank": 712,
+    "surface": "schlafen",
+    "lemma": "schlafen"
+  },
+  {
+    "rank": 713,
+    "surface": "Sagen",
+    "lemma": "Sagen"
+  },
+  {
+    "rank": 714,
+    "surface": "nächsten",
+    "lemma": "nächster"
+  },
+  {
+    "rank": 715,
+    "surface": "fünf",
+    "lemma": "fünf"
+  },
+  {
+    "rank": 716,
+    "surface": "frei",
+    "lemma": "frei"
+  },
+  {
+    "rank": 717,
+    "surface": "Sorge",
+    "lemma": "Sorge"
+  },
+  {
+    "rank": 718,
+    "surface": "Vor",
+    "lemma": "vor"
+  },
+  {
+    "rank": 719,
+    "surface": "fest",
+    "lemma": "fest"
+  },
+  {
+    "rank": 720,
+    "surface": "bereits",
+    "lemma": "bereits"
+  },
+  {
+    "rank": 721,
+    "surface": "alleine",
+    "lemma": "allein"
+  },
+  {
+    "rank": 722,
+    "surface": "Denn",
+    "lemma": "denn"
+  },
+  {
+    "rank": 723,
+    "surface": "Zwei",
+    "lemma": "zwei"
+  },
+  {
+    "rank": 724,
+    "surface": "Fragen",
+    "lemma": "Frage"
+  },
+  {
+    "rank": 725,
+    "surface": "möglich",
+    "lemma": "möglich"
+  },
+  {
+    "rank": 726,
+    "surface": "irgendwie",
+    "lemma": "irgendwie"
+  },
+  {
+    "rank": 727,
+    "surface": "Papa",
+    "lemma": "Papa"
+  },
+  {
+    "rank": 728,
+    "surface": "lernen",
+    "lemma": "lernen"
+  },
+  {
+    "rank": 729,
+    "surface": "gestern",
+    "lemma": "gestern"
+  },
+  {
+    "rank": 730,
+    "surface": "hierher",
+    "lemma": "hierher"
+  },
+  {
+    "rank": 731,
+    "surface": "Schiff",
+    "lemma": "Schiff"
+  },
+  {
+    "rank": 732,
+    "surface": "vier",
+    "lemma": "vier"
+  },
+  {
+    "rank": 733,
+    "surface": "irgendwas",
+    "lemma": "irgendwas"
+  },
+  {
+    "rank": 734,
+    "surface": "Stimmt",
+    "lemma": "stimmen"
+  },
+  {
+    "rank": 735,
+    "surface": "Menge",
+    "lemma": "Menge"
+  },
+  {
+    "rank": 736,
+    "surface": "keiner",
+    "lemma": "kein"
+  },
+  {
+    "rank": 737,
+    "surface": "brauchst",
+    "lemma": "brauchen"
+  },
+  {
+    "rank": 738,
+    "surface": "Typen",
+    "lemma": "Typ"
+  },
+  {
+    "rank": 739,
+    "surface": "Dass",
+    "lemma": "dass"
+  },
+  {
+    "rank": 740,
+    "surface": "Stunde",
+    "lemma": "Stunde"
+  },
+  {
+    "rank": 741,
+    "surface": "Szene",
+    "lemma": "Szene"
+  },
+  {
+    "rank": 742,
+    "surface": "Hölle",
+    "lemma": "Hölle"
+  },
+  {
+    "rank": 743,
+    "surface": "einige",
+    "lemma": "einige"
+  },
+  {
+    "rank": 744,
+    "surface": "Deshalb",
+    "lemma": "deshalb"
+  },
+  {
+    "rank": 745,
+    "surface": "geworden",
+    "lemma": "werden"
+  },
+  {
+    "rank": 746,
+    "surface": "Telefon",
+    "lemma": "Telefon"
+  },
+  {
+    "rank": 747,
+    "surface": "Darf",
+    "lemma": "dürfen"
+  },
+  {
+    "rank": 748,
+    "surface": "Feuer",
+    "lemma": "Feuer"
+  },
+  {
+    "rank": 749,
+    "surface": "Wollen",
+    "lemma": "wollen"
+  },
+  {
+    "rank": 750,
+    "surface": "Bin",
+    "lemma": "sein"
+  },
+  {
+    "rank": 751,
+    "surface": "Alter",
+    "lemma": "Alter"
+  },
+  {
+    "rank": 752,
+    "surface": "Captain",
+    "lemma": "Captain"
+  },
+  {
+    "rank": 753,
+    "surface": "Aus",
+    "lemma": "aus"
+  },
+  {
+    "rank": 754,
+    "surface": "Dieses",
+    "lemma": "dieser"
+  },
+  {
+    "rank": 755,
+    "surface": "Probleme",
+    "lemma": "Problem"
+  },
+  {
+    "rank": 756,
+    "surface": "Jeder",
+    "lemma": "jeder"
+  },
+  {
+    "rank": 757,
+    "surface": "verstanden",
+    "lemma": "verstehen"
+  },
+  {
+    "rank": 758,
+    "surface": "wann",
+    "lemma": "wann"
+  },
+  {
+    "rank": 759,
+    "surface": "alten",
+    "lemma": "alt"
+  },
+  {
+    "rank": 760,
+    "surface": "gibt's",
+    "lemma": "es"
+  },
+  {
+    "rank": 761,
+    "surface": "sondern",
+    "lemma": "sondern"
+  },
+  {
+    "rank": 762,
+    "surface": "guten",
+    "lemma": "gut"
+  },
+  {
+    "rank": 763,
+    "surface": "zwar",
+    "lemma": "zwar"
+  },
+  {
+    "rank": 764,
+    "surface": "eigenen",
+    "lemma": "eigener"
+  },
+  {
+    "rank": 765,
+    "surface": "New",
+    "lemma": "New"
+  },
+  {
+    "rank": 766,
+    "surface": "Körper",
+    "lemma": "Körper"
+  },
+  {
+    "rank": 767,
+    "surface": "hört",
+    "lemma": "hören"
+  },
+  {
+    "rank": 768,
+    "surface": "Zum",
+    "lemma": "zu"
+  },
+  {
+    "rank": 769,
+    "surface": "gebe",
+    "lemma": "geben"
+  },
+  {
+    "rank": 770,
+    "surface": "Kumpel",
+    "lemma": "Kumpel"
+  },
+  {
+    "rank": 771,
+    "surface": "Hund",
+    "lemma": "Hund"
+  },
+  {
+    "rank": 772,
+    "surface": "nochmal",
+    "lemma": "nochmal"
+  },
+  {
+    "rank": 773,
+    "surface": "hab's",
+    "lemma": "es"
+  },
+  {
+    "rank": 774,
+    "surface": "früh",
+    "lemma": "früh"
+  },
+  {
+    "rank": 775,
+    "surface": "Hören",
+    "lemma": "Hören"
+  },
+  {
+    "rank": 776,
+    "surface": "trinken",
+    "lemma": "trinken"
+  },
+  {
+    "rank": 777,
+    "surface": "besten",
+    "lemma": "gut"
+  },
+  {
+    "rank": 778,
+    "surface": "meines",
+    "lemma": "mein"
+  },
+  {
+    "rank": 779,
+    "surface": "schaffen",
+    "lemma": "schaffen"
+  },
+  {
+    "rank": 780,
+    "surface": "alte",
+    "lemma": "alt"
+  },
+  {
+    "rank": 781,
+    "surface": "Luft",
+    "lemma": "Luft"
+  },
+  {
+    "rank": 782,
+    "surface": "Jemand",
+    "lemma": "jemand"
+  },
+  {
+    "rank": 783,
+    "surface": "dürfen",
+    "lemma": "dürfen"
+  },
+  {
+    "rank": 784,
+    "surface": "Meister",
+    "lemma": "Meister"
+  },
+  {
+    "rank": 785,
+    "surface": "Erde",
+    "lemma": "Erde"
+  },
+  {
+    "rank": 786,
+    "surface": "Seit",
+    "lemma": "seit"
+  },
+  {
+    "rank": 787,
+    "surface": "Sicher",
+    "lemma": "sicher"
+  },
+  {
+    "rank": 788,
+    "surface": "Hört",
+    "lemma": "hören"
+  },
+  {
+    "rank": 789,
+    "surface": "Zukunft",
+    "lemma": "Zukunft"
+  },
+  {
+    "rank": 790,
+    "surface": "kaum",
+    "lemma": "kaum"
+  },
+  {
+    "rank": 791,
+    "surface": "funktioniert",
+    "lemma": "funktionieren"
+  },
+  {
+    "rank": 792,
+    "surface": "voll",
+    "lemma": "voll"
+  },
+  {
+    "rank": 793,
+    "surface": "Bleib",
+    "lemma": "bleiben"
+  },
+  {
+    "rank": 794,
+    "surface": "reicht",
+    "lemma": "reichen"
+  },
+  {
+    "rank": 795,
+    "surface": "weh",
+    "lemma": "weh"
+  },
+  {
+    "rank": 796,
+    "surface": "stellen",
+    "lemma": "stellen"
+  },
+  {
+    "rank": 797,
+    "surface": "Siehst",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 798,
+    "surface": "kleiner",
+    "lemma": "klein"
+  },
+  {
+    "rank": 799,
+    "surface": "großen",
+    "lemma": "groß"
+  },
+  {
+    "rank": 800,
+    "surface": "Waffen",
+    "lemma": "Waffe"
+  },
+  {
+    "rank": 801,
+    "surface": "Büro",
+    "lemma": "Büro"
+  },
+  {
+    "rank": 802,
+    "surface": "Wahl",
+    "lemma": "Wahl"
+  },
+  {
+    "rank": 803,
+    "surface": "verlieren",
+    "lemma": "verlieren"
+  },
+  {
+    "rank": 804,
+    "surface": "Wochen",
+    "lemma": "Woche"
+  },
+  {
+    "rank": 805,
+    "surface": "Damit",
+    "lemma": "damit"
+  },
+  {
+    "rank": 806,
+    "surface": "Stück",
+    "lemma": "Stück"
+  },
+  {
+    "rank": 807,
+    "surface": "lieben",
+    "lemma": "lieber"
+  },
+  {
+    "rank": 808,
+    "surface": "allem",
+    "lemma": "alles"
+  },
+  {
+    "rank": 809,
+    "surface": "getroffen",
+    "lemma": "treffen"
+  },
+  {
+    "rank": 810,
+    "surface": "äh",
+    "lemma": "äh"
+  },
+  {
+    "rank": 811,
+    "surface": "Am",
+    "lemma": "an"
+  },
+  {
+    "rank": 812,
+    "surface": "geschafft",
+    "lemma": "schaffen"
+  },
+  {
+    "rank": 813,
+    "surface": "tue",
+    "lemma": "tun"
+  },
+  {
+    "rank": 814,
+    "surface": "gefallen",
+    "lemma": "fallen"
+  },
+  {
+    "rank": 815,
+    "surface": "Tja",
+    "lemma": "tja"
+  },
+  {
+    "rank": 816,
+    "surface": "Boss",
+    "lemma": "Boss"
+  },
+  {
+    "rank": 817,
+    "surface": "überall",
+    "lemma": "überall"
+  },
+  {
+    "rank": 818,
+    "surface": "Sieht",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 819,
+    "surface": "passieren",
+    "lemma": "passieren"
+  },
+  {
+    "rank": 820,
+    "surface": "lustig",
+    "lemma": "lustig"
+  },
+  {
+    "rank": 821,
+    "surface": "Licht",
+    "lemma": "Licht"
+  },
+  {
+    "rank": 822,
+    "surface": "gebracht",
+    "lemma": "bringen"
+  },
+  {
+    "rank": 823,
+    "surface": "nennen",
+    "lemma": "nennen"
+  },
+  {
+    "rank": 824,
+    "surface": "Folge",
+    "lemma": "Folge"
+  },
+  {
+    "rank": 825,
+    "surface": "Gefühl",
+    "lemma": "Gefühl"
+  },
+  {
+    "rank": 826,
+    "surface": "völlig",
+    "lemma": "völlig"
+  },
+  {
+    "rank": 827,
+    "surface": "denkt",
+    "lemma": "denken"
+  },
+  {
+    "rank": 828,
+    "surface": "Schlüssel",
+    "lemma": "Schlüssel"
+  },
+  {
+    "rank": 829,
+    "surface": "drüben",
+    "lemma": "drüben"
+  },
+  {
+    "rank": 830,
+    "surface": "Richtig",
+    "lemma": "richtig"
+  },
+  {
+    "rank": 831,
+    "surface": "wieso",
+    "lemma": "wieso"
+  },
+  {
+    "rank": 832,
+    "surface": "Leuten",
+    "lemma": "Leute"
+  },
+  {
+    "rank": 833,
+    "surface": "Buch",
+    "lemma": "Buch"
+  },
+  {
+    "rank": 834,
+    "surface": "laufen",
+    "lemma": "laufen"
+  },
+  {
+    "rank": 835,
+    "surface": "spielt",
+    "lemma": "spielen"
+  },
+  {
+    "rank": 836,
+    "surface": "früher",
+    "lemma": "früher"
+  },
+  {
+    "rank": 837,
+    "surface": "Sein",
+    "lemma": "Sein"
+  },
+  {
+    "rank": 838,
+    "surface": "krank",
+    "lemma": "krank"
+  },
+  {
+    "rank": 839,
+    "surface": "gegangen",
+    "lemma": "gehen"
+  },
+  {
+    "rank": 840,
+    "surface": "fand",
+    "lemma": "finden"
+  },
+  {
+    "rank": 841,
+    "surface": "Seine",
+    "lemma": "sein"
+  },
+  {
+    "rank": 842,
+    "surface": "Pass",
+    "lemma": "Pass"
+  },
+  {
+    "rank": 843,
+    "surface": "fühle",
+    "lemma": "fühlen"
+  },
+  {
+    "rank": 844,
+    "surface": "Himmel",
+    "lemma": "Himmel"
+  },
+  {
+    "rank": 845,
+    "surface": "froh",
+    "lemma": "froh"
+  },
+  {
+    "rank": 846,
+    "surface": "leicht",
+    "lemma": "leicht"
+  },
+  {
+    "rank": 847,
+    "surface": "direkt",
+    "lemma": "direkt"
+  },
+  {
+    "rank": 848,
+    "surface": "langsam",
+    "lemma": "langsam"
+  },
+  {
+    "rank": 849,
+    "surface": "wolltest",
+    "lemma": "wollen"
+  },
+  {
+    "rank": 850,
+    "surface": "erinnern",
+    "lemma": "erinnern"
+  },
+  {
+    "rank": 851,
+    "surface": "zuerst",
+    "lemma": "zuerst"
+  },
+  {
+    "rank": 852,
+    "surface": "Krankenhaus",
+    "lemma": "Krankenhaus"
+  },
+  {
+    "rank": 853,
+    "surface": "Viel",
+    "lemma": "viel"
+  },
+  {
+    "rank": 854,
+    "surface": "beste",
+    "lemma": "gut"
+  },
+  {
+    "rank": 855,
+    "surface": "welche",
+    "lemma": "welcher"
+  },
+  {
+    "rank": 856,
+    "surface": "genommen",
+    "lemma": "nehmen"
+  },
+  {
+    "rank": 857,
+    "surface": "Arzt",
+    "lemma": "Arzt"
+  },
+  {
+    "rank": 858,
+    "surface": "unserem",
+    "lemma": "unser"
+  },
+  {
+    "rank": 859,
+    "surface": "Idiot",
+    "lemma": "Idiot"
+  },
+  {
+    "rank": 860,
+    "surface": "Machen",
+    "lemma": "machen"
+  },
+  {
+    "rank": 861,
+    "surface": "glaubst",
+    "lemma": "glauben"
+  },
+  {
+    "rank": 862,
+    "surface": "jede",
+    "lemma": "jeder"
+  },
+  {
+    "rank": 863,
+    "surface": "Ohne",
+    "lemma": "ohne"
+  },
+  {
+    "rank": 864,
+    "surface": "groß",
+    "lemma": "groß"
+  },
+  {
+    "rank": 865,
+    "surface": "hattest",
+    "lemma": "haben"
+  },
+  {
+    "rank": 866,
+    "surface": "Äh",
+    "lemma": "äh"
+  },
+  {
+    "rank": 867,
+    "surface": "Jungen",
+    "lemma": "Junge"
+  },
+  {
+    "rank": 868,
+    "surface": "Rest",
+    "lemma": "Rest"
+  },
+  {
+    "rank": 869,
+    "surface": "Unsere",
+    "lemma": "unser"
+  },
+  {
+    "rank": 870,
+    "surface": "versuche",
+    "lemma": "versuchen"
+  },
+  {
+    "rank": 871,
+    "surface": "Tagen",
+    "lemma": "tagen"
+  },
+  {
+    "rank": 872,
+    "surface": "nächste",
+    "lemma": "nächster"
+  },
+  {
+    "rank": 873,
+    "surface": "Entschuldigen",
+    "lemma": "entschuldigen"
+  },
+  {
+    "rank": 874,
+    "surface": "Doktor",
+    "lemma": "Doktor"
+  },
+  {
+    "rank": 875,
+    "surface": "spricht",
+    "lemma": "sprechen"
+  },
+  {
+    "rank": 876,
+    "surface": "könnt",
+    "lemma": "können"
+  },
+  {
+    "rank": 877,
+    "surface": "hält",
+    "lemma": "halten"
+  },
+  {
+    "rank": 878,
+    "surface": "Team",
+    "lemma": "Team"
+  },
+  {
+    "rank": 879,
+    "surface": "Verstanden",
+    "lemma": "verstehen"
+  },
+  {
+    "rank": 880,
+    "surface": "kämpfen",
+    "lemma": "kämpfen"
+  },
+  {
+    "rank": 881,
+    "surface": "heiraten",
+    "lemma": "heiraten"
+  },
+  {
+    "rank": 882,
+    "surface": "könntest",
+    "lemma": "können"
+  },
+  {
+    "rank": 883,
+    "surface": "Wow",
+    "lemma": "wow"
+  },
+  {
+    "rank": 884,
+    "surface": "Etwas",
+    "lemma": "etwas"
+  },
+  {
+    "rank": 885,
+    "surface": "Straße",
+    "lemma": "Straße"
+  },
+  {
+    "rank": 886,
+    "surface": "Mist",
+    "lemma": "Mist"
+  },
+  {
+    "rank": 887,
+    "surface": "König",
+    "lemma": "König"
+  },
+  {
+    "rank": 888,
+    "surface": "redest",
+    "lemma": "reden"
+  },
+  {
+    "rank": 889,
+    "surface": "kleines",
+    "lemma": "klein"
+  },
+  {
+    "rank": 890,
+    "surface": "lebt",
+    "lemma": "leben"
+  },
+  {
+    "rank": 891,
+    "surface": "erklären",
+    "lemma": "erklären"
+  },
+  {
+    "rank": 892,
+    "surface": "worden",
+    "lemma": "werden"
+  },
+  {
+    "rank": 893,
+    "surface": "Millionen",
+    "lemma": "Million"
+  },
+  {
+    "rank": 894,
+    "surface": "Wiedersehen",
+    "lemma": "Wiedersehen"
+  },
+  {
+    "rank": 895,
+    "surface": "Onkel",
+    "lemma": "Onkel"
+  },
+  {
+    "rank": 896,
+    "surface": "kennst",
+    "lemma": "kennen"
+  },
+  {
+    "rank": 897,
+    "surface": "sitzen",
+    "lemma": "sitzen"
+  },
+  {
+    "rank": 898,
+    "surface": "dies",
+    "lemma": "dieser"
+  },
+  {
+    "rank": 899,
+    "surface": "weniger",
+    "lemma": "wenig"
+  },
+  {
+    "rank": 900,
+    "surface": "Kaffee",
+    "lemma": "Kaffee"
+  },
+  {
+    "rank": 901,
+    "surface": "ernst",
+    "lemma": "ernst"
+  },
+  {
+    "rank": 902,
+    "surface": "wollt",
+    "lemma": "wollen"
+  },
+  {
+    "rank": 903,
+    "surface": "tragen",
+    "lemma": "tragen"
+  },
+  {
+    "rank": 904,
+    "surface": "Zeug",
+    "lemma": "Zeug"
+  },
+  {
+    "rank": 905,
+    "surface": "trotzdem",
+    "lemma": "trotzdem"
+  },
+  {
+    "rank": 906,
+    "surface": "Ihren",
+    "lemma": "Ihr"
+  },
+  {
+    "rank": 907,
+    "surface": "kaufen",
+    "lemma": "kaufen"
+  },
+  {
+    "rank": 908,
+    "surface": "Liste",
+    "lemma": "Liste"
+  },
+  {
+    "rank": 909,
+    "surface": "ändern",
+    "lemma": "ändern"
+  },
+  {
+    "rank": 910,
+    "surface": "Kampf",
+    "lemma": "Kampf"
+  },
+  {
+    "rank": 911,
+    "surface": "hasse",
+    "lemma": "hassen"
+  },
+  {
+    "rank": 912,
+    "surface": "Person",
+    "lemma": "Person"
+  },
+  {
+    "rank": 913,
+    "surface": "Mund",
+    "lemma": "Mund"
+  },
+  {
+    "rank": 914,
+    "surface": "umbringen",
+    "lemma": "umbringen"
+  },
+  {
+    "rank": 915,
+    "surface": "Präsident",
+    "lemma": "Präsident"
+  },
+  {
+    "rank": 916,
+    "surface": "Boden",
+    "lemma": "Boden"
+  },
+  {
+    "rank": 917,
+    "surface": "Wohin",
+    "lemma": "wohin"
+  },
+  {
+    "rank": 918,
+    "surface": "machte",
+    "lemma": "machen"
+  },
+  {
+    "rank": 919,
+    "surface": "Party",
+    "lemma": "Party"
+  },
+  {
+    "rank": 920,
+    "surface": "gefragt",
+    "lemma": "fragen"
+  },
+  {
+    "rank": 921,
+    "surface": "Seht",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 922,
+    "surface": "irgendwo",
+    "lemma": "irgendwo"
+  },
+  {
+    "rank": 923,
+    "surface": "kümmern",
+    "lemma": "kümmern"
+  },
+  {
+    "rank": 924,
+    "surface": "kennt",
+    "lemma": "kennen"
+  },
+  {
+    "rank": 925,
+    "surface": "verletzt",
+    "lemma": "verletzen"
+  },
+  {
+    "rank": 926,
+    "surface": "Habt",
+    "lemma": "haben"
+  },
+  {
+    "rank": 927,
+    "surface": "Nachricht",
+    "lemma": "Nachricht"
+  },
+  {
+    "rank": 928,
+    "surface": "Willkommen",
+    "lemma": "Willkommen"
+  },
+  {
+    "rank": 929,
+    "surface": "vielen",
+    "lemma": "viele"
+  },
+  {
+    "rank": 930,
+    "surface": "hart",
+    "lemma": "hart"
+  },
+  {
+    "rank": 931,
+    "surface": "lasse",
+    "lemma": "lassen"
+  },
+  {
+    "rank": 932,
+    "surface": "total",
+    "lemma": "total"
+  },
+  {
+    "rank": 933,
+    "surface": "Gefängnis",
+    "lemma": "Gefängnis"
+  },
+  {
+    "rank": 934,
+    "surface": "außer",
+    "lemma": "außer"
+  },
+  {
+    "rank": 935,
+    "surface": "Sicherheit",
+    "lemma": "Sicherheit"
+  },
+  {
+    "rank": 936,
+    "surface": "Schnell",
+    "lemma": "schnell"
+  },
+  {
+    "rank": 937,
+    "surface": "wem",
+    "lemma": "wer"
+  },
+  {
+    "rank": 938,
+    "surface": "ehrlich",
+    "lemma": "ehrlich"
+  },
+  {
+    "rank": 939,
+    "surface": "interessiert",
+    "lemma": "interessieren"
+  },
+  {
+    "rank": 940,
+    "surface": "Sex",
+    "lemma": "Sex"
+  },
+  {
+    "rank": 941,
+    "surface": "sagten",
+    "lemma": "sagen"
+  },
+  {
+    "rank": 942,
+    "surface": "ziehen",
+    "lemma": "ziehen"
+  },
+  {
+    "rank": 943,
+    "surface": "Welche",
+    "lemma": "welcher"
+  },
+  {
+    "rank": 944,
+    "surface": "Unser",
+    "lemma": "unser"
+  },
+  {
+    "rank": 945,
+    "surface": "Augenblick",
+    "lemma": "Augenblick"
+  },
+  {
+    "rank": 946,
+    "surface": "angerufen",
+    "lemma": "anrufen"
+  },
+  {
+    "rank": 947,
+    "surface": "aufhören",
+    "lemma": "aufhören"
+  },
+  {
+    "rank": 948,
+    "surface": "Klasse",
+    "lemma": "Klasse"
+  },
+  {
+    "rank": 949,
+    "surface": "Bild",
+    "lemma": "Bild"
+  },
+  {
+    "rank": 950,
+    "surface": "stark",
+    "lemma": "stark"
+  },
+  {
+    "rank": 951,
+    "surface": "Dies",
+    "lemma": "dieser"
+  },
+  {
+    "rank": 952,
+    "surface": "Eure",
+    "lemma": "euer"
+  },
+  {
+    "rank": 953,
+    "surface": "zehn",
+    "lemma": "zehn"
+  },
+  {
+    "rank": 954,
+    "surface": "Sinn",
+    "lemma": "Sinn"
+  },
+  {
+    "rank": 955,
+    "surface": "vorstellen",
+    "lemma": "vorstellen"
+  },
+  {
+    "rank": 956,
+    "surface": "Traum",
+    "lemma": "Traum"
+  },
+  {
+    "rank": 957,
+    "surface": "länger",
+    "lemma": "lang"
+  },
+  {
+    "rank": 958,
+    "surface": "manchmal",
+    "lemma": "manchmal"
+  },
+  {
+    "rank": 959,
+    "surface": "anrufen",
+    "lemma": "anrufen"
+  },
+  {
+    "rank": 960,
+    "surface": "sechs",
+    "lemma": "sechs"
+  },
+  {
+    "rank": 961,
+    "surface": "Arschloch",
+    "lemma": "Arschloch"
+  },
+  {
+    "rank": 962,
+    "surface": "sollst",
+    "lemma": "sollen"
+  },
+  {
+    "rank": 963,
+    "surface": "gestorben",
+    "lemma": "sterben"
+  },
+  {
+    "rank": 964,
+    "surface": "Tages",
+    "lemma": "Tag"
+  },
+  {
+    "rank": 965,
+    "surface": "war's",
+    "lemma": "es"
+  },
+  {
+    "rank": 966,
+    "surface": "verschwinden",
+    "lemma": "verschwinden"
+  },
+  {
+    "rank": 967,
+    "surface": "Kraft",
+    "lemma": "Kraft"
+  },
+  {
+    "rank": 968,
+    "surface": "gesprochen",
+    "lemma": "sprechen"
+  },
+  {
+    "rank": 969,
+    "surface": "heraus",
+    "lemma": "heraus"
+  },
+  {
+    "rank": 970,
+    "surface": "genauso",
+    "lemma": "genauso"
+  },
+  {
+    "rank": 971,
+    "surface": "wärst",
+    "lemma": "sein"
+  },
+  {
+    "rank": 972,
+    "surface": "Eins",
+    "lemma": "eins"
+  },
+  {
+    "rank": 973,
+    "surface": "damals",
+    "lemma": "damals"
+  },
+  {
+    "rank": 974,
+    "surface": "heißen",
+    "lemma": "heißen"
+  },
+  {
+    "rank": 975,
+    "surface": "Liebling",
+    "lemma": "Liebling"
+  },
+  {
+    "rank": 976,
+    "surface": "wahrscheinlich",
+    "lemma": "wahrscheinlich"
+  },
+  {
+    "rank": 977,
+    "surface": "deshalb",
+    "lemma": "deshalb"
+  },
+  {
+    "rank": 978,
+    "surface": "Stelle",
+    "lemma": "Stelle"
+  },
+  {
+    "rank": 979,
+    "surface": "halt",
+    "lemma": "halten"
+  },
+  {
+    "rank": 980,
+    "surface": "erwartet",
+    "lemma": "erwarten"
+  },
+  {
+    "rank": 981,
+    "surface": "solche",
+    "lemma": "solcher"
+  },
+  {
+    "rank": 982,
+    "surface": "meisten",
+    "lemma": "meisten"
+  },
+  {
+    "rank": 983,
+    "surface": "bringe",
+    "lemma": "bringen"
+  },
+  {
+    "rank": 984,
+    "surface": "still",
+    "lemma": "still"
+  },
+  {
+    "rank": 985,
+    "surface": "umgebracht",
+    "lemma": "umbringen"
+  },
+  {
+    "rank": 986,
+    "surface": "Stimme",
+    "lemma": "Stimme"
+  },
+  {
+    "rank": 987,
+    "surface": "General",
+    "lemma": "General"
+  },
+  {
+    "rank": 988,
+    "surface": "Geben",
+    "lemma": "Geben"
+  },
+  {
+    "rank": 989,
+    "surface": "Entschuldige",
+    "lemma": "entschuldigen"
+  },
+  {
+    "rank": 990,
+    "surface": "Vergiss",
+    "lemma": "vergessen"
+  },
+  {
+    "rank": 991,
+    "surface": "rede",
+    "lemma": "reden"
+  },
+  {
+    "rank": 992,
+    "surface": "führen",
+    "lemma": "führen"
+  },
+  {
+    "rank": 993,
+    "surface": "Bewegung",
+    "lemma": "Bewegung"
+  },
+  {
+    "rank": 994,
+    "surface": "höre",
+    "lemma": "hören"
+  },
+  {
+    "rank": 995,
+    "surface": "Sonst",
+    "lemma": "sonst"
+  },
+  {
+    "rank": 996,
+    "surface": "Geschäft",
+    "lemma": "Geschäft"
+  },
+  {
+    "rank": 997,
+    "surface": "werdet",
+    "lemma": "werden"
+  },
+  {
+    "rank": 998,
+    "surface": "konnten",
+    "lemma": "können"
+  },
+  {
+    "rank": 999,
+    "surface": "wartet",
+    "lemma": "warten"
+  },
+  {
+    "rank": 1000,
+    "surface": "Raus",
+    "lemma": "raus"
+  },
+  {
+    "rank": 1001,
+    "surface": "anfangen",
+    "lemma": "anfangen"
+  },
+  {
+    "rank": 1002,
+    "surface": "Habe",
+    "lemma": "Habe"
+  },
+  {
+    "rank": 1003,
+    "surface": "hinten",
+    "lemma": "hinten"
+  },
+  {
+    "rank": 1004,
+    "surface": "fällt",
+    "lemma": "fallen"
+  },
+  {
+    "rank": 1005,
+    "surface": "wen",
+    "lemma": "wer"
+  },
+  {
+    "rank": 1006,
+    "surface": "Sekunden",
+    "lemma": "Sekunde"
+  },
+  {
+    "rank": 1007,
+    "surface": "Manchmal",
+    "lemma": "manchmal"
+  },
+  {
+    "rank": 1008,
+    "surface": "gerettet",
+    "lemma": "retten"
+  },
+  {
+    "rank": 1009,
+    "surface": "Naja",
+    "lemma": "naja"
+  },
+  {
+    "rank": 1010,
+    "surface": "Gibt",
+    "lemma": "geben"
+  },
+  {
+    "rank": 1011,
+    "surface": "jemals",
+    "lemma": "jemals"
+  },
+  {
+    "rank": 1012,
+    "surface": "Meinung",
+    "lemma": "Meinung"
+  },
+  {
+    "rank": 1013,
+    "surface": "geschehen",
+    "lemma": "geschehen"
+  },
+  {
+    "rank": 1014,
+    "surface": "Antwort",
+    "lemma": "Antwort"
+  },
+  {
+    "rank": 1015,
+    "surface": "schlimm",
+    "lemma": "schlimm"
+  },
+  {
+    "rank": 1016,
+    "surface": "Eigentlich",
+    "lemma": "eigentlich"
+  },
+  {
+    "rank": 1017,
+    "surface": "findet",
+    "lemma": "finden"
+  },
+  {
+    "rank": 1018,
+    "surface": "Scheiß",
+    "lemma": "Scheiße"
+  },
+  {
+    "rank": 1019,
+    "surface": "gewinnen",
+    "lemma": "gewinnen"
+  },
+  {
+    "rank": 1020,
+    "surface": "Tu",
+    "lemma": "tun"
+  },
+  {
+    "rank": 1021,
+    "surface": "Gedanken",
+    "lemma": "Gedanke"
+  },
+  {
+    "rank": 1022,
+    "surface": "erinnere",
+    "lemma": "erinnern"
+  },
+  {
+    "rank": 1023,
+    "surface": "mögen",
+    "lemma": "mögen"
+  },
+  {
+    "rank": 1024,
+    "surface": "Herren",
+    "lemma": "Herr"
+  },
+  {
+    "rank": 1025,
+    "surface": "klingt",
+    "lemma": "klingen"
+  },
+  {
+    "rank": 1026,
+    "surface": "vorher",
+    "lemma": "vorher"
+  },
+  {
+    "rank": 1027,
+    "surface": "Auge",
+    "lemma": "Auge"
+  },
+  {
+    "rank": 1028,
+    "surface": "hab'",
+    "lemma": "habe"
+  },
+  {
+    "rank": 1029,
+    "surface": "setzen",
+    "lemma": "setzen"
+  },
+  {
+    "rank": 1030,
+    "surface": "cool",
+    "lemma": "cool"
+  },
+  {
+    "rank": 1031,
+    "surface": "Anfang",
+    "lemma": "Anfang"
+  },
+  {
+    "rank": 1032,
+    "surface": "Immer",
+    "lemma": "immer"
+  },
+  {
+    "rank": 1033,
+    "surface": "danach",
+    "lemma": "danach"
+  },
+  {
+    "rank": 1034,
+    "surface": "Monate",
+    "lemma": "Monat"
+  },
+  {
+    "rank": 1035,
+    "surface": "Lebens",
+    "lemma": "Leben"
+  },
+  {
+    "rank": 1036,
+    "surface": "Beste",
+    "lemma": "gut"
+  },
+  {
+    "rank": 1037,
+    "surface": "benutzen",
+    "lemma": "benutzen"
+  },
+  {
+    "rank": 1038,
+    "surface": "Nehmen",
+    "lemma": "nehmen"
+  },
+  {
+    "rank": 1039,
+    "surface": "fühlen",
+    "lemma": "fühlen"
+  },
+  {
+    "rank": 1040,
+    "surface": "Ärger",
+    "lemma": "Ärger"
+  },
+  {
+    "rank": 1041,
+    "surface": "arbeite",
+    "lemma": "arbeiten"
+  },
+  {
+    "rank": 1042,
+    "surface": "Rolle",
+    "lemma": "Rolle"
+  },
+  {
+    "rank": 1043,
+    "surface": "gefährlich",
+    "lemma": "gefährlich"
+  },
+  {
+    "rank": 1044,
+    "surface": "Dort",
+    "lemma": "dort"
+  },
+  {
+    "rank": 1045,
+    "surface": "gelernt",
+    "lemma": "lernen"
+  },
+  {
+    "rank": 1046,
+    "surface": "fallen",
+    "lemma": "fallen"
+  },
+  {
+    "rank": 1047,
+    "surface": "böse",
+    "lemma": "böse"
+  },
+  {
+    "rank": 1048,
+    "surface": "werd",
+    "lemma": "werden"
+  },
+  {
+    "rank": 1049,
+    "surface": "Nähe",
+    "lemma": "Nähe"
+  },
+  {
+    "rank": 1050,
+    "surface": "geschickt",
+    "lemma": "geschickt"
+  },
+  {
+    "rank": 1051,
+    "surface": "liebt",
+    "lemma": "lieben"
+  },
+  {
+    "rank": 1052,
+    "surface": "Tisch",
+    "lemma": "Tisch"
+  },
+  {
+    "rank": 1053,
+    "surface": "Mehr",
+    "lemma": "mehr"
+  },
+  {
+    "rank": 1054,
+    "surface": "Ziel",
+    "lemma": "Ziel"
+  },
+  {
+    "rank": 1055,
+    "surface": "Raum",
+    "lemma": "Raum"
+  },
+  {
+    "rank": 1056,
+    "surface": "jedem",
+    "lemma": "jeder"
+  },
+  {
+    "rank": 1057,
+    "surface": "fliegen",
+    "lemma": "fliegen"
+  },
+  {
+    "rank": 1058,
+    "surface": "Wohnung",
+    "lemma": "Wohnung"
+  },
+  {
+    "rank": 1059,
+    "surface": "Dafür",
+    "lemma": "dafür"
+  },
+  {
+    "rank": 1060,
+    "surface": "erfahren",
+    "lemma": "erfahren"
+  },
+  {
+    "rank": 1061,
+    "surface": "dumm",
+    "lemma": "dumm"
+  },
+  {
+    "rank": 1062,
+    "surface": "eher",
+    "lemma": "eher"
+  },
+  {
+    "rank": 1063,
+    "surface": "vorsichtig",
+    "lemma": "vorsichtig"
+  },
+  {
+    "rank": 1064,
+    "surface": "herum",
+    "lemma": "herum"
+  },
+  {
+    "rank": 1065,
+    "surface": "Klappe",
+    "lemma": "Klappe"
+  },
+  {
+    "rank": 1066,
+    "surface": "schicken",
+    "lemma": "schicken"
+  },
+  {
+    "rank": 1067,
+    "surface": "Laden",
+    "lemma": "Laden"
+  },
+  {
+    "rank": 1068,
+    "surface": "aufs",
+    "lemma": "auf"
+  },
+  {
+    "rank": 1069,
+    "surface": "Wird",
+    "lemma": "werden"
+  },
+  {
+    "rank": 1070,
+    "surface": "Warten",
+    "lemma": "Warten"
+  },
+  {
+    "rank": 1071,
+    "surface": "großer",
+    "lemma": "groß"
+  },
+  {
+    "rank": 1072,
+    "surface": "arbeitet",
+    "lemma": "arbeiten"
+  },
+  {
+    "rank": 1073,
+    "surface": "Euer",
+    "lemma": "euer"
+  },
+  {
+    "rank": 1074,
+    "surface": "Worte",
+    "lemma": "Wort"
+  },
+  {
+    "rank": 1075,
+    "surface": "richtige",
+    "lemma": "richtig"
+  },
+  {
+    "rank": 1076,
+    "surface": "Flugzeug",
+    "lemma": "Flugzeug"
+  },
+  {
+    "rank": 1077,
+    "surface": "Firma",
+    "lemma": "Firma"
+  },
+  {
+    "rank": 1078,
+    "surface": "bezahlen",
+    "lemma": "bezahlen"
+  },
+  {
+    "rank": 1079,
+    "surface": "Einer",
+    "lemma": "einer"
+  },
+  {
+    "rank": 1080,
+    "surface": "Glaubst",
+    "lemma": "glauben"
+  },
+  {
+    "rank": 1081,
+    "surface": "falls",
+    "lemma": "falls"
+  },
+  {
+    "rank": 1082,
+    "surface": "schreiben",
+    "lemma": "schreiben"
+  },
+  {
+    "rank": 1083,
+    "surface": "tat",
+    "lemma": "tun"
+  },
+  {
+    "rank": 1084,
+    "surface": "Darum",
+    "lemma": "darum"
+  },
+  {
+    "rank": 1085,
+    "surface": "starb",
+    "lemma": "sterben"
+  },
+  {
+    "rank": 1086,
+    "surface": "Schluss",
+    "lemma": "Schluss"
+  },
+  {
+    "rank": 1087,
+    "surface": "Fenster",
+    "lemma": "Fenster"
+  },
+  {
+    "rank": 1088,
+    "surface": "liegen",
+    "lemma": "liegen"
+  },
+  {
+    "rank": 1089,
+    "surface": "wär's",
+    "lemma": "sein"
+  },
+  {
+    "rank": 1090,
+    "surface": "Verzeihung",
+    "lemma": "Verzeihung"
+  },
+  {
+    "rank": 1091,
+    "surface": "niemanden",
+    "lemma": "niemand"
+  },
+  {
+    "rank": 1092,
+    "surface": "neues",
+    "lemma": "neu"
+  },
+  {
+    "rank": 1093,
+    "surface": "Weiß",
+    "lemma": "wissen"
+  },
+  {
+    "rank": 1094,
+    "surface": "benutzt",
+    "lemma": "benutzen"
+  },
+  {
+    "rank": 1095,
+    "surface": "'nen",
+    "lemma": "einen"
+  },
+  {
+    "rank": 1096,
+    "surface": "jedes",
+    "lemma": "jeder"
+  },
+  {
+    "rank": 1097,
+    "surface": "schätze",
+    "lemma": "schätzen"
+  },
+  {
+    "rank": 1098,
+    "surface": "Finger",
+    "lemma": "Finger"
+  },
+  {
+    "rank": 1099,
+    "surface": "wert",
+    "lemma": "wert"
+  },
+  {
+    "rank": 1100,
+    "surface": "rüber",
+    "lemma": "rüber"
+  },
+  {
+    "rank": 1101,
+    "surface": "halte",
+    "lemma": "halten"
+  },
+  {
+    "rank": 1102,
+    "surface": "Falls",
+    "lemma": "falls"
+  },
+  {
+    "rank": 1103,
+    "surface": "besonders",
+    "lemma": "besonders"
+  },
+  {
+    "rank": 1104,
+    "surface": "Daddy",
+    "lemma": "Daddy"
+  },
+  {
+    "rank": 1105,
+    "surface": "Witz",
+    "lemma": "Witz"
+  },
+  {
+    "rank": 1106,
+    "surface": "nachdem",
+    "lemma": "nachdem"
+  },
+  {
+    "rank": 1107,
+    "surface": "nimmt",
+    "lemma": "nehmen"
+  },
+  {
+    "rank": 1108,
+    "surface": "Kontrolle",
+    "lemma": "Kontrolle"
+  },
+  {
+    "rank": 1109,
+    "surface": "großartig",
+    "lemma": "großartig"
+  },
+  {
+    "rank": 1110,
+    "surface": "Herzen",
+    "lemma": "Herz"
+  },
+  {
+    "rank": 1111,
+    "surface": "gutes",
+    "lemma": "gut"
+  },
+  {
+    "rank": 1112,
+    "surface": "gewonnen",
+    "lemma": "gewinnen"
+  },
+  {
+    "rank": 1113,
+    "surface": "Bier",
+    "lemma": "Bier"
+  },
+  {
+    "rank": 1114,
+    "surface": "kamen",
+    "lemma": "kommen"
+  },
+  {
+    "rank": 1115,
+    "surface": "Drei",
+    "lemma": "drei"
+  },
+  {
+    "rank": 1116,
+    "surface": "stolz",
+    "lemma": "stolz"
+  },
+  {
+    "rank": 1117,
+    "surface": "Egal",
+    "lemma": "egal"
+  },
+  {
+    "rank": 1118,
+    "surface": "komisch",
+    "lemma": "komisch"
+  },
+  {
+    "rank": 1119,
+    "surface": "bitten",
+    "lemma": "bitten"
+  },
+  {
+    "rank": 1120,
+    "surface": "Ihrer",
+    "lemma": "Ihrer"
+  },
+  {
+    "rank": 1121,
+    "surface": "plötzlich",
+    "lemma": "plötzlich"
+  },
+  {
+    "rank": 1122,
+    "surface": "Bring",
+    "lemma": "bringen"
+  },
+  {
+    "rank": 1123,
+    "surface": "Informationen",
+    "lemma": "Information"
+  },
+  {
+    "rank": 1124,
+    "surface": "bring",
+    "lemma": "bringen"
+  },
+  {
+    "rank": 1125,
+    "surface": "neu",
+    "lemma": "neu"
+  },
+  {
+    "rank": 1126,
+    "surface": "glaubt",
+    "lemma": "glauben"
+  },
+  {
+    "rank": 1127,
+    "surface": "Seid",
+    "lemma": "sein"
+  },
+  {
+    "rank": 1128,
+    "surface": "hörte",
+    "lemma": "hören"
+  },
+  {
+    "rank": 1129,
+    "surface": "rum",
+    "lemma": "rum"
+  },
+  {
+    "rank": 1130,
+    "surface": "Lage",
+    "lemma": "Lage"
+  },
+  {
+    "rank": 1131,
+    "surface": "sowieso",
+    "lemma": "sowieso"
+  },
+  {
+    "rank": 1132,
+    "surface": "bekommt",
+    "lemma": "bekommen"
+  },
+  {
+    "rank": 1133,
+    "surface": "Ruf",
+    "lemma": "rufen"
+  },
+  {
+    "rank": 1134,
+    "surface": "dagegen",
+    "lemma": "dagegen"
+  },
+  {
+    "rank": 1135,
+    "surface": "Richtung",
+    "lemma": "Richtung"
+  },
+  {
+    "rank": 1136,
+    "surface": "nötig",
+    "lemma": "nötig"
+  },
+  {
+    "rank": 1137,
+    "surface": "Minute",
+    "lemma": "Minute"
+  },
+  {
+    "rank": 1138,
+    "surface": "lesen",
+    "lemma": "lesen"
+  },
+  {
+    "rank": 1139,
+    "surface": "behalten",
+    "lemma": "behalten"
+  },
+  {
+    "rank": 1140,
+    "surface": "selber",
+    "lemma": "selber"
+  },
+  {
+    "rank": 1141,
+    "surface": "verkaufen",
+    "lemma": "verkaufen"
+  },
+  {
+    "rank": 1142,
+    "surface": "geschrieben",
+    "lemma": "schreiben"
+  },
+  {
+    "rank": 1143,
+    "surface": "Entscheidung",
+    "lemma": "Entscheidung"
+  },
+  {
+    "rank": 1144,
+    "surface": "unterwegs",
+    "lemma": "unterwegs"
+  },
+  {
+    "rank": 1145,
+    "surface": "Insel",
+    "lemma": "Insel"
+  },
+  {
+    "rank": 1146,
+    "surface": "Hotel",
+    "lemma": "Hotel"
+  },
+  {
+    "rank": 1147,
+    "surface": "voller",
+    "lemma": "voll"
+  },
+  {
+    "rank": 1148,
+    "surface": "frage",
+    "lemma": "fragen"
+  },
+  {
+    "rank": 1149,
+    "surface": "Monat",
+    "lemma": "Monat"
+  },
+  {
+    "rank": 1150,
+    "surface": "rufe",
+    "lemma": "rufen"
+  },
+  {
+    "rank": 1151,
+    "surface": "verdient",
+    "lemma": "verdienen"
+  },
+  {
+    "rank": 1152,
+    "surface": "gearbeitet",
+    "lemma": "arbeiten"
+  },
+  {
+    "rank": 1153,
+    "surface": "wenigstens",
+    "lemma": "wenigstens"
+  },
+  {
+    "rank": 1154,
+    "surface": "wünschte",
+    "lemma": "wünschen"
+  },
+  {
+    "rank": 1155,
+    "surface": "tu",
+    "lemma": "tun"
+  },
+  {
+    "rank": 1156,
+    "surface": "schöne",
+    "lemma": "schön"
+  },
+  {
+    "rank": 1157,
+    "surface": "Selbst",
+    "lemma": "selbst"
+  },
+  {
+    "rank": 1158,
+    "surface": "Seele",
+    "lemma": "Seele"
+  },
+  {
+    "rank": 1159,
+    "surface": "stand",
+    "lemma": "stehen"
+  },
+  {
+    "rank": 1160,
+    "surface": "Geist",
+    "lemma": "Geist"
+  },
+  {
+    "rank": 1161,
+    "surface": "Gefahr",
+    "lemma": "Gefahr"
+  },
+  {
+    "rank": 1162,
+    "surface": "Gefallen",
+    "lemma": "fallen"
+  },
+  {
+    "rank": 1163,
+    "surface": "unmöglich",
+    "lemma": "unmöglich"
+  },
+  {
+    "rank": 1164,
+    "surface": "gelesen",
+    "lemma": "lesen"
+  },
+  {
+    "rank": 1165,
+    "surface": "glaub",
+    "lemma": "glauben"
+  },
+  {
+    "rank": 1166,
+    "surface": "Wegen",
+    "lemma": "wegen"
+  },
+  {
+    "rank": 1167,
+    "surface": "bezahlt",
+    "lemma": "bezahlen"
+  },
+  {
+    "rank": 1168,
+    "surface": "Schicksal",
+    "lemma": "Schicksal"
+  },
+  {
+    "rank": 1169,
+    "surface": "verstehst",
+    "lemma": "verstehen"
+  },
+  {
+    "rank": 1170,
+    "surface": "leider",
+    "lemma": "leider"
+  },
+  {
+    "rank": 1171,
+    "surface": "Monaten",
+    "lemma": "Monat"
+  },
+  {
+    "rank": 1172,
+    "surface": "Weile",
+    "lemma": "weilen"
+  },
+  {
+    "rank": 1173,
+    "surface": "verheiratet",
+    "lemma": "verheiraten"
+  },
+  {
+    "rank": 1174,
+    "surface": "mussten",
+    "lemma": "müssen"
+  },
+  {
+    "rank": 1175,
+    "surface": "Agent",
+    "lemma": "Agent"
+  },
+  {
+    "rank": 1176,
+    "surface": "rufen",
+    "lemma": "rufen"
+  },
+  {
+    "rank": 1177,
+    "surface": "jemandem",
+    "lemma": "jemand"
+  },
+  {
+    "rank": 1178,
+    "surface": "gib",
+    "lemma": "geben"
+  },
+  {
+    "rank": 1179,
+    "surface": "Beispiel",
+    "lemma": "Beispiel"
+  },
+  {
+    "rank": 1180,
+    "surface": "kalt",
+    "lemma": "kalt"
+  },
+  {
+    "rank": 1181,
+    "surface": "sitzt",
+    "lemma": "sitzen"
+  },
+  {
+    "rank": 1182,
+    "surface": "Anruf",
+    "lemma": "Anruf"
+  },
+  {
+    "rank": 1183,
+    "surface": "Sekunde",
+    "lemma": "Sekunde"
+  },
+  {
+    "rank": 1184,
+    "surface": "schneller",
+    "lemma": "schnell"
+  },
+  {
+    "rank": 1185,
+    "surface": "hey",
+    "lemma": "hey"
+  },
+  {
+    "rank": 1186,
+    "surface": "verdammte",
+    "lemma": "verdammen"
+  },
+  {
+    "rank": 1187,
+    "surface": "euer",
+    "lemma": "euer"
+  },
+  {
+    "rank": 1188,
+    "surface": "hole",
+    "lemma": "holen"
+  },
+  {
+    "rank": 1189,
+    "surface": "Denkst",
+    "lemma": "denken"
+  },
+  {
+    "rank": 1190,
+    "surface": "Bauer",
+    "lemma": "Bauer"
+  },
+  {
+    "rank": 1191,
+    "surface": "Karte",
+    "lemma": "Karte"
+  },
+  {
+    "rank": 1192,
+    "surface": "aller",
+    "lemma": "alle"
+  },
+  {
+    "rank": 1193,
+    "surface": "du's",
+    "lemma": "es"
+  },
+  {
+    "rank": 1194,
+    "surface": "Befehl",
+    "lemma": "befehlen"
+  },
+  {
+    "rank": 1195,
+    "surface": "darfst",
+    "lemma": "dürfen"
+  },
+  {
+    "rank": 1196,
+    "surface": "bekannt",
+    "lemma": "kennen"
+  },
+  {
+    "rank": 1197,
+    "surface": "Opfer",
+    "lemma": "Opfer"
+  },
+  {
+    "rank": 1198,
+    "surface": "unglaublich",
+    "lemma": "unglaublich"
+  },
+  {
+    "rank": 1199,
+    "surface": "steckt",
+    "lemma": "stecken"
+  },
+  {
+    "rank": 1200,
+    "surface": "Ernst",
+    "lemma": "Ernst"
+  },
+  {
+    "rank": 1201,
+    "surface": "unbedingt",
+    "lemma": "unbedingt"
+  },
+  {
+    "rank": 1202,
+    "surface": "Wen",
+    "lemma": "wen"
+  },
+  {
+    "rank": 1203,
+    "surface": "Zug",
+    "lemma": "Zug"
+  },
+  {
+    "rank": 1204,
+    "surface": "perfekt",
+    "lemma": "perfekt"
+  },
+  {
+    "rank": 1205,
+    "surface": "witzig",
+    "lemma": "witzig"
+  },
+  {
+    "rank": 1206,
+    "surface": "Amerika",
+    "lemma": "Amerika"
+  },
+  {
+    "rank": 1207,
+    "surface": "Keiner",
+    "lemma": "kein"
+  },
+  {
+    "rank": 1208,
+    "surface": "Kamera",
+    "lemma": "Kamera"
+  },
+  {
+    "rank": 1209,
+    "surface": "führt",
+    "lemma": "führen"
+  },
+  {
+    "rank": 1210,
+    "surface": "passt",
+    "lemma": "passen"
+  },
+  {
+    "rank": 1211,
+    "surface": "schlagen",
+    "lemma": "schlagen"
+  },
+  {
+    "rank": 1212,
+    "surface": "kriegt",
+    "lemma": "kriegen"
+  },
+  {
+    "rank": 1213,
+    "surface": "Glauben",
+    "lemma": "Glauben"
+  },
+  {
+    "rank": 1214,
+    "surface": "sieh",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 1215,
+    "surface": "nennt",
+    "lemma": "nennen"
+  },
+  {
+    "rank": 1216,
+    "surface": "bin's",
+    "lemma": "es"
+  },
+  {
+    "rank": 1217,
+    "surface": "Gefühle",
+    "lemma": "Gefühl"
+  },
+  {
+    "rank": 1218,
+    "surface": "ständig",
+    "lemma": "ständig"
+  },
+  {
+    "rank": 1219,
+    "surface": "verändert",
+    "lemma": "verändern"
+  },
+  {
+    "rank": 1220,
+    "surface": "tolle",
+    "lemma": "toll"
+  },
+  {
+    "rank": 1221,
+    "surface": "Gottes",
+    "lemma": "Gott"
+  },
+  {
+    "rank": 1222,
+    "surface": "heiß",
+    "lemma": "heißen"
+  },
+  {
+    "rank": 1223,
+    "surface": "Partner",
+    "lemma": "Partner"
+  },
+  {
+    "rank": 1224,
+    "surface": "Mörder",
+    "lemma": "Mörder"
+  },
+  {
+    "rank": 1225,
+    "surface": "folgen",
+    "lemma": "folgen"
+  },
+  {
+    "rank": 1226,
+    "surface": "Mich",
+    "lemma": "mich"
+  },
+  {
+    "rank": 1227,
+    "surface": "Computer",
+    "lemma": "Computer"
+  },
+  {
+    "rank": 1228,
+    "surface": "dahin",
+    "lemma": "dahin"
+  },
+  {
+    "rank": 1229,
+    "surface": "ansehen",
+    "lemma": "ansehen"
+  },
+  {
+    "rank": 1230,
+    "surface": "Außerdem",
+    "lemma": "außerdem"
+  },
+  {
+    "rank": 1231,
+    "surface": "Wovon",
+    "lemma": "wovon"
+  },
+  {
+    "rank": 1232,
+    "surface": "nimm",
+    "lemma": "nehmen"
+  },
+  {
+    "rank": 1233,
+    "surface": "klein",
+    "lemma": "klein"
+  },
+  {
+    "rank": 1234,
+    "surface": "zerstört",
+    "lemma": "zerstören"
+  },
+  {
+    "rank": 1235,
+    "surface": "suche",
+    "lemma": "suchen"
+  },
+  {
+    "rank": 1236,
+    "surface": "I",
+    "lemma": "i"
+  },
+  {
+    "rank": 1237,
+    "surface": "nämlich",
+    "lemma": "nämlich"
+  },
+  {
+    "rank": 1238,
+    "surface": "Versuch",
+    "lemma": "versuchen"
+  },
+  {
+    "rank": 1239,
+    "surface": "schlimmer",
+    "lemma": "schlimm"
+  },
+  {
+    "rank": 1240,
+    "surface": "Sheriff",
+    "lemma": "Sheriff"
+  },
+  {
+    "rank": 1241,
+    "surface": "Unfall",
+    "lemma": "Unfall"
+  },
+  {
+    "rank": 1242,
+    "surface": "müsste",
+    "lemma": "müssen"
+  },
+  {
+    "rank": 1243,
+    "surface": "entschuldigen",
+    "lemma": "entschuldigen"
+  },
+  {
+    "rank": 1244,
+    "surface": "Vorsicht",
+    "lemma": "Vorsicht"
+  },
+  {
+    "rank": 1245,
+    "surface": "Nase",
+    "lemma": "Nase"
+  },
+  {
+    "rank": 1246,
+    "surface": "sowas",
+    "lemma": "sowas"
+  },
+  {
+    "rank": 1247,
+    "surface": "schießen",
+    "lemma": "schießen"
+  },
+  {
+    "rank": 1248,
+    "surface": "alter",
+    "lemma": "alt"
+  },
+  {
+    "rank": 1249,
+    "surface": "Geburtstag",
+    "lemma": "Geburtstag"
+  },
+  {
+    "rank": 1250,
+    "surface": "beschützen",
+    "lemma": "beschützen"
+  },
+  {
+    "rank": 1251,
+    "surface": "Zurück",
+    "lemma": "zurück"
+  },
+  {
+    "rank": 1252,
+    "surface": "müde",
+    "lemma": "müde"
+  },
+  {
+    "rank": 1253,
+    "surface": "Beziehung",
+    "lemma": "Beziehung"
+  },
+  {
+    "rank": 1254,
+    "surface": "gestohlen",
+    "lemma": "stehlen"
+  },
+  {
+    "rank": 1255,
+    "surface": "stirbt",
+    "lemma": "sterben"
+  },
+  {
+    "rank": 1256,
+    "surface": "Geheimnis",
+    "lemma": "Geheimnis"
+  },
+  {
+    "rank": 1257,
+    "surface": "süß",
+    "lemma": "süß"
+  },
+  {
+    "rank": 1258,
+    "surface": "offen",
+    "lemma": "offen"
+  },
+  {
+    "rank": 1259,
+    "surface": "Ihrem",
+    "lemma": "Ihrem"
+  },
+  {
+    "rank": 1260,
+    "surface": "Geschenk",
+    "lemma": "Geschenk"
+  },
+  {
+    "rank": 1261,
+    "surface": "Punkt",
+    "lemma": "Punkt"
+  },
+  {
+    "rank": 1262,
+    "surface": "Über",
+    "lemma": "über"
+  },
+  {
+    "rank": 1263,
+    "surface": "hilft",
+    "lemma": "helfen"
+  },
+  {
+    "rank": 1264,
+    "surface": "Dame",
+    "lemma": "Dame"
+  },
+  {
+    "rank": 1265,
+    "surface": "bewegen",
+    "lemma": "bewegen"
+  },
+  {
+    "rank": 1266,
+    "surface": "solange",
+    "lemma": "solange"
+  },
+  {
+    "rank": 1267,
+    "surface": "sauer",
+    "lemma": "sauer"
+  },
+  {
+    "rank": 1268,
+    "surface": "Tasche",
+    "lemma": "Tasche"
+  },
+  {
+    "rank": 1269,
+    "surface": "Schritt",
+    "lemma": "Schritt"
+  },
+  {
+    "rank": 1270,
+    "surface": "Sie's",
+    "lemma": "es"
+  },
+  {
+    "rank": 1271,
+    "surface": "Setz",
+    "lemma": "setzen"
+  },
+  {
+    "rank": 1272,
+    "surface": "Arm",
+    "lemma": "Arm"
+  },
+  {
+    "rank": 1273,
+    "surface": "meinte",
+    "lemma": "meinen"
+  },
+  {
+    "rank": 1274,
+    "surface": "müsst",
+    "lemma": "müssen"
+  },
+  {
+    "rank": 1275,
+    "surface": "erwischt",
+    "lemma": "erwischen"
+  },
+  {
+    "rank": 1276,
+    "surface": "gehabt",
+    "lemma": "haben"
+  },
+  {
+    "rank": 1277,
+    "surface": "Bart",
+    "lemma": "Bart"
+  },
+  {
+    "rank": 1278,
+    "surface": "vertrauen",
+    "lemma": "vertrauen"
+  },
+  {
+    "rank": 1279,
+    "surface": "erreichen",
+    "lemma": "erreichen"
+  },
+  {
+    "rank": 1280,
+    "surface": "wär",
+    "lemma": "sein"
+  },
+  {
+    "rank": 1281,
+    "surface": "Gebäude",
+    "lemma": "Gebäude"
+  },
+  {
+    "rank": 1282,
+    "surface": "Ähm",
+    "lemma": "ähm"
+  },
+  {
+    "rank": 1283,
+    "surface": "versprochen",
+    "lemma": "versprechen"
+  },
+  {
+    "rank": 1284,
+    "surface": "O",
+    "lemma": "o"
+  },
+  {
+    "rank": 1285,
+    "surface": "fort",
+    "lemma": "fort"
+  },
+  {
+    "rank": 1286,
+    "surface": "erledigt",
+    "lemma": "erledigen"
+  },
+  {
+    "rank": 1287,
+    "surface": "Armee",
+    "lemma": "Armee"
+  },
+  {
+    "rank": 1288,
+    "surface": "nahm",
+    "lemma": "nehmen"
+  },
+  {
+    "rank": 1289,
+    "surface": "näher",
+    "lemma": "nah"
+  },
+  {
+    "rank": 1290,
+    "surface": "weitere",
+    "lemma": "weiterer"
+  },
+  {
+    "rank": 1291,
+    "surface": "Will",
+    "lemma": "wollen"
+  },
+  {
+    "rank": 1292,
+    "surface": "Rücken",
+    "lemma": "Rücken"
+  },
+  {
+    "rank": 1293,
+    "surface": "Chef",
+    "lemma": "Chef"
+  },
+  {
+    "rank": 1294,
+    "surface": "Regierung",
+    "lemma": "Regierung"
+  },
+  {
+    "rank": 1295,
+    "surface": "Preis",
+    "lemma": "Preis"
+  },
+  {
+    "rank": 1296,
+    "surface": "Hm",
+    "lemma": "hm"
+  },
+  {
+    "rank": 1297,
+    "surface": "Wunder",
+    "lemma": "Wunder"
+  },
+  {
+    "rank": 1298,
+    "surface": "Verbindung",
+    "lemma": "Verbindung"
+  },
+  {
+    "rank": 1299,
+    "surface": "Bescheid",
+    "lemma": "Bescheid"
+  },
+  {
+    "rank": 1300,
+    "surface": "Boot",
+    "lemma": "Boot"
+  },
+  {
+    "rank": 1301,
+    "surface": "Situation",
+    "lemma": "Situation"
+  },
+  {
+    "rank": 1302,
+    "surface": "normal",
+    "lemma": "normal"
+  },
+  {
+    "rank": 1303,
+    "surface": "erledigen",
+    "lemma": "erledigen"
+  },
+  {
+    "rank": 1304,
+    "surface": "mußt",
+    "lemma": "müssen"
+  },
+  {
+    "rank": 1305,
+    "surface": "Ehre",
+    "lemma": "ehren"
+  },
+  {
+    "rank": 1306,
+    "surface": "Planeten",
+    "lemma": "Planet"
+  },
+  {
+    "rank": 1307,
+    "surface": "fürs",
+    "lemma": "für"
+  },
+  {
+    "rank": 1308,
+    "surface": "darin",
+    "lemma": "darin"
+  },
+  {
+    "rank": 1309,
+    "surface": "kriegst",
+    "lemma": "kriegen"
+  },
+  {
+    "rank": 1310,
+    "surface": "ich's",
+    "lemma": "es"
+  },
+  {
+    "rank": 1311,
+    "surface": "drehen",
+    "lemma": "drehen"
+  },
+  {
+    "rank": 1312,
+    "surface": "Denk",
+    "lemma": "denken"
+  },
+  {
+    "rank": 1313,
+    "surface": "Prinzessin",
+    "lemma": "Prinzessin"
+  },
+  {
+    "rank": 1314,
+    "surface": "Drogen",
+    "lemma": "Droge"
+  },
+  {
+    "rank": 1315,
+    "surface": "Reise",
+    "lemma": "Reise"
+  },
+  {
+    "rank": 1316,
+    "surface": "Mord",
+    "lemma": "Mord"
+  },
+  {
+    "rank": 1317,
+    "surface": "Ob",
+    "lemma": "ob"
+  },
+  {
+    "rank": 1318,
+    "surface": "Toll",
+    "lemma": "toll"
+  },
+  {
+    "rank": 1319,
+    "surface": "schwöre",
+    "lemma": "schwören"
+  },
+  {
+    "rank": 1320,
+    "surface": "Zeiten",
+    "lemma": "Zeit"
+  },
+  {
+    "rank": 1321,
+    "surface": "Schlampe",
+    "lemma": "Schlampe"
+  },
+  {
+    "rank": 1322,
+    "surface": "Regeln",
+    "lemma": "Regel"
+  },
+  {
+    "rank": 1323,
+    "surface": "aussehen",
+    "lemma": "aussehen"
+  },
+  {
+    "rank": 1324,
+    "surface": "Rede",
+    "lemma": "reden"
+  },
+  {
+    "rank": 1325,
+    "surface": "verliebt",
+    "lemma": "verlieben"
+  },
+  {
+    "rank": 1326,
+    "surface": "Position",
+    "lemma": "Position"
+  },
+  {
+    "rank": 1327,
+    "surface": "redet",
+    "lemma": "reden"
+  },
+  {
+    "rank": 1328,
+    "surface": "Scheisse",
+    "lemma": "Scheisse"
+  },
+  {
+    "rank": 1329,
+    "surface": "Möglichkeit",
+    "lemma": "Möglichkeit"
+  },
+  {
+    "rank": 1330,
+    "surface": "Sonne",
+    "lemma": "Sonne"
+  },
+  {
+    "rank": 1331,
+    "surface": "hol",
+    "lemma": "holen"
+  },
+  {
+    "rank": 1332,
+    "surface": "letzter",
+    "lemma": "letzter"
+  },
+  {
+    "rank": 1333,
+    "surface": "Kontakt",
+    "lemma": "Kontakt"
+  },
+  {
+    "rank": 1334,
+    "surface": "Könnte",
+    "lemma": "können"
+  },
+  {
+    "rank": 1335,
+    "surface": "Damen",
+    "lemma": "Dame"
+  },
+  {
+    "rank": 1336,
+    "surface": "deswegen",
+    "lemma": "deswegen"
+  },
+  {
+    "rank": 1337,
+    "surface": "ähm",
+    "lemma": "ähm"
+  },
+  {
+    "rank": 1338,
+    "surface": "gekauft",
+    "lemma": "kaufen"
+  },
+  {
+    "rank": 1339,
+    "surface": "Schwert",
+    "lemma": "Schwert"
+  },
+  {
+    "rank": 1340,
+    "surface": "Hunger",
+    "lemma": "Hunger"
+  },
+  {
+    "rank": 1341,
+    "surface": "Frieden",
+    "lemma": "Frieden"
+  },
+  {
+    "rank": 1342,
+    "surface": "persönlich",
+    "lemma": "persönlich"
+  },
+  {
+    "rank": 1343,
+    "surface": "Blick",
+    "lemma": "Blick"
+  },
+  {
+    "rank": 1344,
+    "surface": "Einzige",
+    "lemma": "einziger"
+  },
+  {
+    "rank": 1345,
+    "surface": "Nachrichten",
+    "lemma": "Nachricht"
+  },
+  {
+    "rank": 1346,
+    "surface": "Maul",
+    "lemma": "Maul"
+  },
+  {
+    "rank": 1347,
+    "surface": "verraten",
+    "lemma": "verraten"
+  },
+  {
+    "rank": 1348,
+    "surface": "Hoffnung",
+    "lemma": "Hoffnung"
+  },
+  {
+    "rank": 1349,
+    "surface": "geboren",
+    "lemma": "gebären"
+  },
+  {
+    "rank": 1350,
+    "surface": "Untertitel",
+    "lemma": "Untertitel"
+  },
+  {
+    "rank": 1351,
+    "surface": "kaputt",
+    "lemma": "kaputt"
+  },
+  {
+    "rank": 1352,
+    "surface": "Soldaten",
+    "lemma": "Soldat"
+  },
+  {
+    "rank": 1353,
+    "surface": "eigene",
+    "lemma": "eigener"
+  },
+  {
+    "rank": 1354,
+    "surface": "ans",
+    "lemma": "ans"
+  },
+  {
+    "rank": 1355,
+    "surface": "übrig",
+    "lemma": "übrig"
+  },
+  {
+    "rank": 1356,
+    "surface": "Muss",
+    "lemma": "müssen"
+  },
+  {
+    "rank": 1357,
+    "surface": "hältst",
+    "lemma": "halten"
+  },
+  {
+    "rank": 1358,
+    "surface": "aufhalten",
+    "lemma": "aufhalten"
+  },
+  {
+    "rank": 1359,
+    "surface": "Zeichen",
+    "lemma": "Zeichen"
+  },
+  {
+    "rank": 1360,
+    "surface": "Sofort",
+    "lemma": "sofort"
+  },
+  {
+    "rank": 1361,
+    "surface": "dauert",
+    "lemma": "dauern"
+  },
+  {
+    "rank": 1362,
+    "surface": "versteckt",
+    "lemma": "verstecken"
+  },
+  {
+    "rank": 1363,
+    "surface": "tatsächlich",
+    "lemma": "tatsächlich"
+  },
+  {
+    "rank": 1364,
+    "surface": "Schwein",
+    "lemma": "Schwein"
+  },
+  {
+    "rank": 1365,
+    "surface": "Band",
+    "lemma": "binden"
+  },
+  {
+    "rank": 1366,
+    "surface": "Laß",
+    "lemma": "lassen"
+  },
+  {
+    "rank": 1367,
+    "surface": "Haare",
+    "lemma": "Haar"
+  },
+  {
+    "rank": 1368,
+    "surface": "wütend",
+    "lemma": "wütend"
+  },
+  {
+    "rank": 1369,
+    "surface": "Hochzeit",
+    "lemma": "Hochzeit"
+  },
+  {
+    "rank": 1370,
+    "surface": "schrecklich",
+    "lemma": "schrecklich"
+  },
+  {
+    "rank": 1371,
+    "surface": "fühlt",
+    "lemma": "fühlen"
+  },
+  {
+    "rank": 1372,
+    "surface": "Energie",
+    "lemma": "Energie"
+  },
+  {
+    "rank": 1373,
+    "surface": "traurig",
+    "lemma": "traurig"
+  },
+  {
+    "rank": 1374,
+    "surface": "sauber",
+    "lemma": "sauber"
+  },
+  {
+    "rank": 1375,
+    "surface": "Leiche",
+    "lemma": "Leiche"
+  },
+  {
+    "rank": 1376,
+    "surface": "links",
+    "lemma": "links"
+  },
+  {
+    "rank": 1377,
+    "surface": "Kleine",
+    "lemma": "klein"
+  },
+  {
+    "rank": 1378,
+    "surface": "super",
+    "lemma": "super"
+  },
+  {
+    "rank": 1379,
+    "surface": "Bord",
+    "lemma": "Bord"
+  },
+  {
+    "rank": 1380,
+    "surface": "möchten",
+    "lemma": "mögen"
+  },
+  {
+    "rank": 1381,
+    "surface": "Erst",
+    "lemma": "erst"
+  },
+  {
+    "rank": 1382,
+    "surface": "magst",
+    "lemma": "mögen"
+  },
+  {
+    "rank": 1383,
+    "surface": "fangen",
+    "lemma": "fangen"
+  },
+  {
+    "rank": 1384,
+    "surface": "gesucht",
+    "lemma": "suchen"
+  },
+  {
+    "rank": 1385,
+    "surface": "beschäftigt",
+    "lemma": "beschäftigen"
+  },
+  {
+    "rank": 1386,
+    "surface": "wisst",
+    "lemma": "wissen"
+  },
+  {
+    "rank": 1387,
+    "surface": "weisst",
+    "lemma": "wissen"
+  },
+  {
+    "rank": 1388,
+    "surface": "Wartet",
+    "lemma": "warten"
+  },
+  {
+    "rank": 1389,
+    "surface": "erwarten",
+    "lemma": "erwarten"
+  },
+  {
+    "rank": 1390,
+    "surface": "verschwunden",
+    "lemma": "verschwinden"
+  },
+  {
+    "rank": 1391,
+    "surface": "Professor",
+    "lemma": "Professor"
+  },
+  {
+    "rank": 1392,
+    "surface": "sobald",
+    "lemma": "sobald"
+  },
+  {
+    "rank": 1393,
+    "surface": "geredet",
+    "lemma": "reden"
+  },
+  {
+    "rank": 1394,
+    "surface": "Brief",
+    "lemma": "Brief"
+  },
+  {
+    "rank": 1395,
+    "surface": "acht",
+    "lemma": "acht"
+  },
+  {
+    "rank": 1396,
+    "surface": "Lauf",
+    "lemma": "laufen"
+  },
+  {
+    "rank": 1397,
+    "surface": "zeigt",
+    "lemma": "zeigen"
+  },
+  {
+    "rank": 1398,
+    "surface": "Show",
+    "lemma": "Show"
+  },
+  {
+    "rank": 1399,
+    "surface": "hübsch",
+    "lemma": "hübsch"
+  },
+  {
+    "rank": 1400,
+    "surface": "sucht",
+    "lemma": "suchen"
+  },
+  {
+    "rank": 1401,
+    "surface": "verkauft",
+    "lemma": "verkaufen"
+  },
+  {
+    "rank": 1402,
+    "surface": "sagtest",
+    "lemma": "sagen"
+  },
+  {
+    "rank": 1403,
+    "surface": "namens",
+    "lemma": "namens"
+  },
+  {
+    "rank": 1404,
+    "surface": "Fernsehen",
+    "lemma": "Fernsehen"
+  },
+  {
+    "rank": 1405,
+    "surface": "wohin",
+    "lemma": "wohin"
+  },
+  {
+    "rank": 1406,
+    "surface": "Hol",
+    "lemma": "holen"
+  },
+  {
+    "rank": 1407,
+    "surface": "ließ",
+    "lemma": "lesen"
+  },
+  {
+    "rank": 1408,
+    "surface": "heiße",
+    "lemma": "heißen"
+  },
+  {
+    "rank": 1409,
+    "surface": "fährt",
+    "lemma": "fahren"
+  },
+  {
+    "rank": 1410,
+    "surface": "tanzen",
+    "lemma": "tanzen"
+  },
+  {
+    "rank": 1411,
+    "surface": "nervös",
+    "lemma": "nervös"
+  },
+  {
+    "rank": 1412,
+    "surface": "findest",
+    "lemma": "finden"
+  },
+  {
+    "rank": 1413,
+    "surface": "gegessen",
+    "lemma": "essen"
+  },
+  {
+    "rank": 1414,
+    "surface": "fehlt",
+    "lemma": "fehlen"
+  },
+  {
+    "rank": 1415,
+    "surface": "Vergangenheit",
+    "lemma": "Vergangenheit"
+  },
+  {
+    "rank": 1416,
+    "surface": "miteinander",
+    "lemma": "miteinander"
+  },
+  {
+    "rank": 1417,
+    "surface": "deines",
+    "lemma": "dein"
+  },
+  {
+    "rank": 1418,
+    "surface": "neben",
+    "lemma": "neben"
+  },
+  {
+    "rank": 1419,
+    "surface": "Handy",
+    "lemma": "Handy"
+  },
+  {
+    "rank": 1420,
+    "surface": "anderer",
+    "lemma": "anderer"
+  },
+  {
+    "rank": 1421,
+    "surface": "tief",
+    "lemma": "tief"
+  },
+  {
+    "rank": 1422,
+    "surface": "ran",
+    "lemma": "ran"
+  },
+  {
+    "rank": 1423,
+    "surface": "Runter",
+    "lemma": "runter"
+  },
+  {
+    "rank": 1424,
+    "surface": "Aufgabe",
+    "lemma": "Aufgabe"
+  },
+  {
+    "rank": 1425,
+    "surface": "richtigen",
+    "lemma": "richtig"
+  },
+  {
+    "rank": 1426,
+    "surface": "Foto",
+    "lemma": "Foto"
+  },
+  {
+    "rank": 1427,
+    "surface": "schau",
+    "lemma": "schauen"
+  },
+  {
+    "rank": 1428,
+    "surface": "verdammten",
+    "lemma": "verdammen"
+  },
+  {
+    "rank": 1429,
+    "surface": "Tee",
+    "lemma": "Tee"
+  },
+  {
+    "rank": 1430,
+    "surface": "sieben",
+    "lemma": "sieben"
+  },
+  {
+    "rank": 1431,
+    "surface": "Fuß",
+    "lemma": "Fuß"
+  },
+  {
+    "rank": 1432,
+    "surface": "geschlafen",
+    "lemma": "schlafen"
+  },
+  {
+    "rank": 1433,
+    "surface": "brauch",
+    "lemma": "brauchen"
+  },
+  {
+    "rank": 1434,
+    "surface": "Kindern",
+    "lemma": "Kinder"
+  },
+  {
+    "rank": 1435,
+    "surface": "Beine",
+    "lemma": "Bein"
+  },
+  {
+    "rank": 1436,
+    "surface": "ewig",
+    "lemma": "ewig"
+  },
+  {
+    "rank": 1437,
+    "surface": "absolut",
+    "lemma": "absolut"
+  },
+  {
+    "rank": 1438,
+    "surface": "hm",
+    "lemma": "hm"
+  },
+  {
+    "rank": 1439,
+    "surface": "schlechte",
+    "lemma": "schlecht"
+  },
+  {
+    "rank": 1440,
+    "surface": "Unsinn",
+    "lemma": "Unsinn"
+  },
+  {
+    "rank": 1441,
+    "surface": "ruf",
+    "lemma": "rufen"
+  },
+  {
+    "rank": 1442,
+    "surface": "Treffen",
+    "lemma": "Treffen"
+  },
+  {
+    "rank": 1443,
+    "surface": "irgendetwas",
+    "lemma": "irgendetwas"
+  },
+  {
+    "rank": 1444,
+    "surface": "hörst",
+    "lemma": "hören"
+  },
+  {
+    "rank": 1445,
+    "surface": "Bombe",
+    "lemma": "Bombe"
+  },
+  {
+    "rank": 1446,
+    "surface": "bekam",
+    "lemma": "bekommen"
+  },
+  {
+    "rank": 1447,
+    "surface": "Herrn",
+    "lemma": "Herr"
+  },
+  {
+    "rank": 1448,
+    "surface": "Halten",
+    "lemma": "halten"
+  },
+  {
+    "rank": 1449,
+    "surface": "gelassen",
+    "lemma": "lassen"
+  },
+  {
+    "rank": 1450,
+    "surface": "Tante",
+    "lemma": "Tante"
+  },
+  {
+    "rank": 1451,
+    "surface": "angefangen",
+    "lemma": "anfangen"
+  },
+  {
+    "rank": 1452,
+    "surface": "Hals",
+    "lemma": "Hals"
+  },
+  {
+    "rank": 1453,
+    "surface": "vorne",
+    "lemma": "vorne"
+  },
+  {
+    "rank": 1454,
+    "surface": "Bullen",
+    "lemma": "Bulle"
+  },
+  {
+    "rank": 1455,
+    "surface": "Bank",
+    "lemma": "Bank"
+  },
+  {
+    "rank": 1456,
+    "surface": "Weise",
+    "lemma": "Weise"
+  },
+  {
+    "rank": 1457,
+    "surface": "verantwortlich",
+    "lemma": "verantwortlich"
+  },
+  {
+    "rank": 1458,
+    "surface": "öffnen",
+    "lemma": "öffnen"
+  },
+  {
+    "rank": 1459,
+    "surface": "schwierig",
+    "lemma": "schwierig"
+  },
+  {
+    "rank": 1460,
+    "surface": "seh",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 1461,
+    "surface": "bleibe",
+    "lemma": "bleiben"
+  },
+  {
+    "rank": 1462,
+    "surface": "rechts",
+    "lemma": "rechts"
+  },
+  {
+    "rank": 1463,
+    "surface": "Operation",
+    "lemma": "Operation"
+  },
+  {
+    "rank": 1464,
+    "surface": "Sollen",
+    "lemma": "sollen"
+  },
+  {
+    "rank": 1465,
+    "surface": "Anwalt",
+    "lemma": "Anwalt"
+  },
+  {
+    "rank": 1466,
+    "surface": "verspreche",
+    "lemma": "versprechen"
+  },
+  {
+    "rank": 1467,
+    "surface": "bleibst",
+    "lemma": "bleiben"
+  },
+  {
+    "rank": 1468,
+    "surface": "a",
+    "lemma": "a"
+  },
+  {
+    "rank": 1469,
+    "surface": "Glückwunsch",
+    "lemma": "Glückwunsch"
+  },
+  {
+    "rank": 1470,
+    "surface": "entscheiden",
+    "lemma": "entscheiden"
+  },
+  {
+    "rank": 1471,
+    "surface": "entfernt",
+    "lemma": "entfernen"
+  },
+  {
+    "rank": 1472,
+    "surface": "brachte",
+    "lemma": "bringen"
+  },
+  {
+    "rank": 1473,
+    "surface": "zerstören",
+    "lemma": "zerstören"
+  },
+  {
+    "rank": 1474,
+    "surface": "Wahrscheinlich",
+    "lemma": "wahrscheinlich"
+  },
+  {
+    "rank": 1475,
+    "surface": "Lied",
+    "lemma": "Lied"
+  },
+  {
+    "rank": 1476,
+    "surface": "gespielt",
+    "lemma": "spielen"
+  },
+  {
+    "rank": 1477,
+    "surface": "aussieht",
+    "lemma": "aussehen"
+  },
+  {
+    "rank": 1478,
+    "surface": "Tun",
+    "lemma": "Tun"
+  },
+  {
+    "rank": 1479,
+    "surface": "Lust",
+    "lemma": "Lust"
+  },
+  {
+    "rank": 1480,
+    "surface": "Vaters",
+    "lemma": "Vater"
+  },
+  {
+    "rank": 1481,
+    "surface": "Uh",
+    "lemma": "uh"
+  },
+  {
+    "rank": 1482,
+    "surface": "Meinst",
+    "lemma": "meinen"
+  },
+  {
+    "rank": 1483,
+    "surface": "Bilder",
+    "lemma": "Bild"
+  },
+  {
+    "rank": 1484,
+    "surface": "uh",
+    "lemma": "uh"
+  },
+  {
+    "rank": 1485,
+    "surface": "kriege",
+    "lemma": "kriegen"
+  },
+  {
+    "rank": 1486,
+    "surface": "Feind",
+    "lemma": "Feind"
+  },
+  {
+    "rank": 1487,
+    "surface": "Händen",
+    "lemma": "Hand"
+  },
+  {
+    "rank": 1488,
+    "surface": "jung",
+    "lemma": "jung"
+  },
+  {
+    "rank": 1489,
+    "surface": "Ball",
+    "lemma": "Ball"
+  },
+  {
+    "rank": 1490,
+    "surface": "stecken",
+    "lemma": "stecken"
+  },
+  {
+    "rank": 1491,
+    "surface": "Sobald",
+    "lemma": "sobald"
+  },
+  {
+    "rank": 1492,
+    "surface": "Reden",
+    "lemma": "reden"
+  },
+  {
+    "rank": 1493,
+    "surface": "geholfen",
+    "lemma": "helfen"
+  },
+  {
+    "rank": 1494,
+    "surface": "gleichen",
+    "lemma": "gleich"
+  },
+  {
+    "rank": 1495,
+    "surface": "gehören",
+    "lemma": "gehören"
+  },
+  {
+    "rank": 1496,
+    "surface": "wach",
+    "lemma": "wach"
+  },
+  {
+    "rank": 1497,
+    "surface": "genannt",
+    "lemma": "nennen"
+  },
+  {
+    "rank": 1498,
+    "surface": "zahlen",
+    "lemma": "zahlen"
+  },
+  {
+    "rank": 1499,
+    "surface": "nahe",
+    "lemma": "nahe"
+  },
+  {
+    "rank": 1500,
+    "surface": "Aufnahme",
+    "lemma": "Aufnahme"
+  },
+  {
+    "rank": 1501,
+    "surface": "Achtung",
+    "lemma": "Achtung"
+  },
+  {
+    "rank": 1502,
+    "surface": "gleiche",
+    "lemma": "gleich"
+  },
+  {
+    "rank": 1503,
+    "surface": "Viele",
+    "lemma": "viel"
+  },
+  {
+    "rank": 1504,
+    "surface": "Mission",
+    "lemma": "Mission"
+  },
+  {
+    "rank": 1505,
+    "surface": "bekomme",
+    "lemma": "bekommen"
+  },
+  {
+    "rank": 1506,
+    "surface": "laut",
+    "lemma": "laut"
+  },
+  {
+    "rank": 1507,
+    "surface": "Schmerz",
+    "lemma": "Schmerz"
+  },
+  {
+    "rank": 1508,
+    "surface": "Ehrlich",
+    "lemma": "ehrlich"
+  },
+  {
+    "rank": 1509,
+    "surface": "Schlag",
+    "lemma": "schlagen"
+  },
+  {
+    "rank": 1510,
+    "surface": "Jawohl",
+    "lemma": "jawohl"
+  },
+  {
+    "rank": 1511,
+    "surface": "Fleisch",
+    "lemma": "Fleisch"
+  },
+  {
+    "rank": 1512,
+    "surface": "legen",
+    "lemma": "legen"
+  },
+  {
+    "rank": 1513,
+    "surface": "möchtest",
+    "lemma": "mögen"
+  },
+  {
+    "rank": 1514,
+    "surface": "Verstehst",
+    "lemma": "verstehen"
+  },
+  {
+    "rank": 1515,
+    "surface": "Wozu",
+    "lemma": "wozu"
+  },
+  {
+    "rank": 1516,
+    "surface": "Weihnachten",
+    "lemma": "Weihnachten"
+  },
+  {
+    "rank": 1517,
+    "surface": "Erinnerst",
+    "lemma": "erinnern"
+  },
+  {
+    "rank": 1518,
+    "surface": "Zieh",
+    "lemma": "ziehen"
+  },
+  {
+    "rank": 1519,
+    "surface": "Schwierigkeiten",
+    "lemma": "Schwierigkeit"
+  },
+  {
+    "rank": 1520,
+    "surface": "Park",
+    "lemma": "Park"
+  },
+  {
+    "rank": 1521,
+    "surface": "Durch",
+    "lemma": "durch"
+  },
+  {
+    "rank": 1522,
+    "surface": "Bleiben",
+    "lemma": "bleiben"
+  },
+  {
+    "rank": 1523,
+    "surface": "wussten",
+    "lemma": "wissen"
+  },
+  {
+    "rank": 1524,
+    "surface": "meint",
+    "lemma": "meinen"
+  },
+  {
+    "rank": 1525,
+    "surface": "Gesellschaft",
+    "lemma": "Gesellschaft"
+  },
+  {
+    "rank": 1526,
+    "surface": "gebeten",
+    "lemma": "bitten"
+  },
+  {
+    "rank": 1527,
+    "surface": "erhalten",
+    "lemma": "erhalten"
+  },
+  {
+    "rank": 1528,
+    "surface": "bedeuten",
+    "lemma": "bedeuten"
+  },
+  {
+    "rank": 1529,
+    "surface": "Kennst",
+    "lemma": "kennen"
+  },
+  {
+    "rank": 1530,
+    "surface": "verstecken",
+    "lemma": "verstecken"
+  },
+  {
+    "rank": 1531,
+    "surface": "Respekt",
+    "lemma": "Respekt"
+  },
+  {
+    "rank": 1532,
+    "surface": "dasselbe",
+    "lemma": "dasselbe"
+  },
+  {
+    "rank": 1533,
+    "surface": "Gehirn",
+    "lemma": "Gehirn"
+  },
+  {
+    "rank": 1534,
+    "surface": "entschieden",
+    "lemma": "entscheiden"
+  },
+  {
+    "rank": 1535,
+    "surface": "zieht",
+    "lemma": "ziehen"
+  },
+  {
+    "rank": 1536,
+    "surface": "liebst",
+    "lemma": "lieben"
+  },
+  {
+    "rank": 1537,
+    "surface": "dachten",
+    "lemma": "denken"
+  },
+  {
+    "rank": 1538,
+    "surface": "Witze",
+    "lemma": "Witz"
+  },
+  {
+    "rank": 1539,
+    "surface": "na",
+    "lemma": "na"
+  },
+  {
+    "rank": 1540,
+    "surface": "sorgen",
+    "lemma": "sorgen"
+  },
+  {
+    "rank": 1541,
+    "surface": "All",
+    "lemma": "all"
+  },
+  {
+    "rank": 1542,
+    "surface": "Volk",
+    "lemma": "Volk"
+  },
+  {
+    "rank": 1543,
+    "surface": "Rat",
+    "lemma": "raten"
+  },
+  {
+    "rank": 1544,
+    "surface": "lebe",
+    "lemma": "leben"
+  },
+  {
+    "rank": 1545,
+    "surface": "Präsidenten",
+    "lemma": "Präsident"
+  },
+  {
+    "rank": 1546,
+    "surface": "Schuhe",
+    "lemma": "Schuh"
+  },
+  {
+    "rank": 1547,
+    "surface": "Monster",
+    "lemma": "Monster"
+  },
+  {
+    "rank": 1548,
+    "surface": "dauern",
+    "lemma": "dauern"
+  },
+  {
+    "rank": 1549,
+    "surface": "Beweise",
+    "lemma": "Beweis"
+  },
+  {
+    "rank": 1550,
+    "surface": "Hälfte",
+    "lemma": "Hälfte"
+  },
+  {
+    "rank": 1551,
+    "surface": "schauen",
+    "lemma": "schauen"
+  },
+  {
+    "rank": 1552,
+    "surface": "Kirche",
+    "lemma": "Kirche"
+  },
+  {
+    "rank": 1553,
+    "surface": "Eines",
+    "lemma": "eines"
+  },
+  {
+    "rank": 1554,
+    "surface": "Hintern",
+    "lemma": "Hintern"
+  },
+  {
+    "rank": 1555,
+    "surface": "Spur",
+    "lemma": "Spur"
+  },
+  {
+    "rank": 1556,
+    "surface": "Lehrer",
+    "lemma": "Lehrer"
+  },
+  {
+    "rank": 1557,
+    "surface": "Hilf",
+    "lemma": "helfen"
+  },
+  {
+    "rank": 1558,
+    "surface": "Gold",
+    "lemma": "Gold"
+  },
+  {
+    "rank": 1559,
+    "surface": "Denken",
+    "lemma": "Denken"
+  },
+  {
+    "rank": 1560,
+    "surface": "lieb",
+    "lemma": "lieben"
+  },
+  {
+    "rank": 1561,
+    "surface": "wunderbar",
+    "lemma": "wunderbar"
+  },
+  {
+    "rank": 1562,
+    "surface": "Güte",
+    "lemma": "Güte"
+  },
+  {
+    "rank": 1563,
+    "surface": "lasst",
+    "lemma": "lassen"
+  },
+  {
+    "rank": 1564,
+    "surface": "geliebt",
+    "lemma": "lieben"
+  },
+  {
+    "rank": 1565,
+    "surface": "fahre",
+    "lemma": "fahren"
+  },
+  {
+    "rank": 1566,
+    "surface": "Loch",
+    "lemma": "Loch"
+  },
+  {
+    "rank": 1567,
+    "surface": "geschlagen",
+    "lemma": "schlagen"
+  },
+  {
+    "rank": 1568,
+    "surface": "ganzes",
+    "lemma": "ganz"
+  },
+  {
+    "rank": 1569,
+    "surface": "wunderschön",
+    "lemma": "wunderschön"
+  },
+  {
+    "rank": 1570,
+    "surface": "lachen",
+    "lemma": "lachen"
+  },
+  {
+    "rank": 1571,
+    "surface": "beweisen",
+    "lemma": "beweisen"
+  },
+  {
+    "rank": 1572,
+    "surface": "Zeig",
+    "lemma": "zeigen"
+  },
+  {
+    "rank": 1573,
+    "surface": "Kleiner",
+    "lemma": "klein"
+  },
+  {
+    "rank": 1574,
+    "surface": "gegenüber",
+    "lemma": "gegenüber"
+  },
+  {
+    "rank": 1575,
+    "surface": "Bus",
+    "lemma": "Bus"
+  },
+  {
+    "rank": 1576,
+    "surface": "großes",
+    "lemma": "groß"
+  },
+  {
+    "rank": 1577,
+    "surface": "Verstand",
+    "lemma": "verstehen"
+  },
+  {
+    "rank": 1578,
+    "surface": "trägt",
+    "lemma": "tragen"
+  },
+  {
+    "rank": 1579,
+    "surface": "herausfinden",
+    "lemma": "herausfinden"
+  },
+  {
+    "rank": 1580,
+    "surface": "gewartet",
+    "lemma": "warten"
+  },
+  {
+    "rank": 1581,
+    "surface": "niemandem",
+    "lemma": "niemand"
+  },
+  {
+    "rank": 1582,
+    "surface": "Gegend",
+    "lemma": "Gegend"
+  },
+  {
+    "rank": 1583,
+    "surface": "Bevor",
+    "lemma": "bevor"
+  },
+  {
+    "rank": 1584,
+    "surface": "schönen",
+    "lemma": "schönen"
+  },
+  {
+    "rank": 1585,
+    "surface": "seltsam",
+    "lemma": "seltsam"
+  },
+  {
+    "rank": 1586,
+    "surface": "bewegt",
+    "lemma": "bewegen"
+  },
+  {
+    "rank": 1587,
+    "surface": "Haut",
+    "lemma": "Haut"
+  },
+  {
+    "rank": 1588,
+    "surface": "Fotos",
+    "lemma": "Foto"
+  },
+  {
+    "rank": 1589,
+    "surface": "nah",
+    "lemma": "nah"
+  },
+  {
+    "rank": 1590,
+    "surface": "Angriff",
+    "lemma": "Angriff"
+  },
+  {
+    "rank": 1591,
+    "surface": "Erzähl",
+    "lemma": "erzählen"
+  },
+  {
+    "rank": 1592,
+    "surface": "interessant",
+    "lemma": "interessant"
+  },
+  {
+    "rank": 1593,
+    "surface": "Schlaf",
+    "lemma": "schlafen"
+  },
+  {
+    "rank": 1594,
+    "surface": "Wind",
+    "lemma": "Wind"
+  },
+  {
+    "rank": 1595,
+    "surface": "Messer",
+    "lemma": "Messer"
+  },
+  {
+    "rank": 1596,
+    "surface": "lag",
+    "lemma": "liegen"
+  },
+  {
+    "rank": 1597,
+    "surface": "fürchte",
+    "lemma": "fürchten"
+  },
+  {
+    "rank": 1598,
+    "surface": "beginnt",
+    "lemma": "beginnen"
+  },
+  {
+    "rank": 1599,
+    "surface": "Weiter",
+    "lemma": "weit"
+  },
+  {
+    "rank": 1600,
+    "surface": "überrascht",
+    "lemma": "überraschen"
+  },
+  {
+    "rank": 1601,
+    "surface": "Stell",
+    "lemma": "stellen"
+  },
+  {
+    "rank": 1602,
+    "surface": "gefangen",
+    "lemma": "fangen"
+  },
+  {
+    "rank": 1603,
+    "surface": "bleib",
+    "lemma": "bleiben"
+  },
+  {
+    "rank": 1604,
+    "surface": "Bein",
+    "lemma": "Bein"
+  },
+  {
+    "rank": 1605,
+    "surface": "Eier",
+    "lemma": "Ei"
+  },
+  {
+    "rank": 1606,
+    "surface": "singen",
+    "lemma": "singen"
+  },
+  {
+    "rank": 1607,
+    "surface": "seht",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 1608,
+    "surface": "Überraschung",
+    "lemma": "Überraschung"
+  },
+  {
+    "rank": 1609,
+    "surface": "Dorf",
+    "lemma": "Dorf"
+  },
+  {
+    "rank": 1610,
+    "surface": "besorgen",
+    "lemma": "besorgen"
+  },
+  {
+    "rank": 1611,
+    "surface": "Glas",
+    "lemma": "Glas"
+  },
+  {
+    "rank": 1612,
+    "surface": "Fünf",
+    "lemma": "fünf"
+  },
+  {
+    "rank": 1613,
+    "surface": "Einfach",
+    "lemma": "einfach"
+  },
+  {
+    "rank": 1614,
+    "surface": "besuchen",
+    "lemma": "besuchen"
+  },
+  {
+    "rank": 1615,
+    "surface": "geändert",
+    "lemma": "ändern"
+  },
+  {
+    "rank": 1616,
+    "surface": "beginnen",
+    "lemma": "beginnen"
+  },
+  {
+    "rank": 1617,
+    "surface": "echte",
+    "lemma": "echt"
+  },
+  {
+    "rank": 1618,
+    "surface": "Pferd",
+    "lemma": "Pferd"
+  },
+  {
+    "rank": 1619,
+    "surface": "Held",
+    "lemma": "Held"
+  },
+  {
+    "rank": 1620,
+    "surface": "Taxi",
+    "lemma": "Taxi"
+  },
+  {
+    "rank": 1621,
+    "surface": "Freunden",
+    "lemma": "Freund"
+  },
+  {
+    "rank": 1622,
+    "surface": "mitnehmen",
+    "lemma": "mitnehmen"
+  },
+  {
+    "rank": 1623,
+    "surface": "Gruppe",
+    "lemma": "Gruppe"
+  },
+  {
+    "rank": 1624,
+    "surface": "Sorry",
+    "lemma": "sorry"
+  },
+  {
+    "rank": 1625,
+    "surface": "besorgt",
+    "lemma": "besorgen"
+  },
+  {
+    "rank": 1626,
+    "surface": "System",
+    "lemma": "System"
+  },
+  {
+    "rank": 1627,
+    "surface": "Gleich",
+    "lemma": "gleich"
+  },
+  {
+    "rank": 1628,
+    "surface": "Würde",
+    "lemma": "werden"
+  },
+  {
+    "rank": 1629,
+    "surface": "ruft",
+    "lemma": "rufen"
+  },
+  {
+    "rank": 1630,
+    "surface": "Fahren",
+    "lemma": "Fahren"
+  },
+  {
+    "rank": 1631,
+    "surface": "Steh",
+    "lemma": "stehen"
+  },
+  {
+    "rank": 1632,
+    "surface": "nimmst",
+    "lemma": "nehmen"
+  },
+  {
+    "rank": 1633,
+    "surface": "Obwohl",
+    "lemma": "obwohl"
+  },
+  {
+    "rank": 1634,
+    "surface": "Bringt",
+    "lemma": "bringen"
+  },
+  {
+    "rank": 1635,
+    "surface": "falschen",
+    "lemma": "falsch"
+  },
+  {
+    "rank": 1636,
+    "surface": "leisten",
+    "lemma": "leisten"
+  },
+  {
+    "rank": 1637,
+    "surface": "schwanger",
+    "lemma": "schwanger"
+  },
+  {
+    "rank": 1638,
+    "surface": "Fahr",
+    "lemma": "fahren"
+  },
+  {
+    "rank": 1639,
+    "surface": "Adresse",
+    "lemma": "Adresse"
+  },
+  {
+    "rank": 1640,
+    "surface": "gemeinsam",
+    "lemma": "gemeinsam"
+  },
+  {
+    "rank": 1641,
+    "surface": "entkommen",
+    "lemma": "entkommen"
+  },
+  {
+    "rank": 1642,
+    "surface": "übel",
+    "lemma": "übel"
+  },
+  {
+    "rank": 1643,
+    "surface": "vermisst",
+    "lemma": "vermissen"
+  },
+  {
+    "rank": 1644,
+    "surface": "Lady",
+    "lemma": "Lady"
+  },
+  {
+    "rank": 1645,
+    "surface": "Küche",
+    "lemma": "Küche"
+  },
+  {
+    "rank": 1646,
+    "surface": "Flug",
+    "lemma": "Flug"
+  },
+  {
+    "rank": 1647,
+    "surface": "Besuch",
+    "lemma": "Besuch"
+  },
+  {
+    "rank": 1648,
+    "surface": "hängt",
+    "lemma": "hängen"
+  },
+  {
+    "rank": 1649,
+    "surface": "werfen",
+    "lemma": "werfen"
+  },
+  {
+    "rank": 1650,
+    "surface": "falsche",
+    "lemma": "falsch"
+  },
+  {
+    "rank": 1651,
+    "surface": "Sogar",
+    "lemma": "sogar"
+  },
+  {
+    "rank": 1652,
+    "surface": "Ring",
+    "lemma": "Ring"
+  },
+  {
+    "rank": 1653,
+    "surface": "Verschwinde",
+    "lemma": "verschwinden"
+  },
+  {
+    "rank": 1654,
+    "surface": "überleben",
+    "lemma": "überleben"
+  },
+  {
+    "rank": 1655,
+    "surface": "Gesetz",
+    "lemma": "Gesetz"
+  },
+  {
+    "rank": 1656,
+    "surface": "Tor",
+    "lemma": "Tor"
+  },
+  {
+    "rank": 1657,
+    "surface": "Wald",
+    "lemma": "Wald"
+  },
+  {
+    "rank": 1658,
+    "surface": "ungefähr",
+    "lemma": "ungefähr"
+  },
+  {
+    "rank": 1659,
+    "surface": "Patienten",
+    "lemma": "Patient"
+  },
+  {
+    "rank": 1660,
+    "surface": "Maschine",
+    "lemma": "Maschine"
+  },
+  {
+    "rank": 1661,
+    "surface": "Könnten",
+    "lemma": "können"
+  },
+  {
+    "rank": 1662,
+    "surface": "junge",
+    "lemma": "jung"
+  },
+  {
+    "rank": 1663,
+    "surface": "Fräulein",
+    "lemma": "Fräulein"
+  },
+  {
+    "rank": 1664,
+    "surface": "gehts",
+    "lemma": "gehen"
+  },
+  {
+    "rank": 1665,
+    "surface": "Ehe",
+    "lemma": "Ehe"
+  },
+  {
+    "rank": 1666,
+    "surface": "Würden",
+    "lemma": "werden"
+  },
+  {
+    "rank": 1667,
+    "surface": "Schauspieler",
+    "lemma": "Schauspieler"
+  },
+  {
+    "rank": 1668,
+    "surface": "Dach",
+    "lemma": "Dach"
+  },
+  {
+    "rank": 1669,
+    "surface": "Übersetzung",
+    "lemma": "Übersetzung"
+  },
+  {
+    "rank": 1670,
+    "surface": "kannte",
+    "lemma": "kennen"
+  },
+  {
+    "rank": 1671,
+    "surface": "Bringen",
+    "lemma": "bringen"
+  },
+  {
+    "rank": 1672,
+    "surface": "wir's",
+    "lemma": "es"
+  },
+  {
+    "rank": 1673,
+    "surface": "drinnen",
+    "lemma": "drinnen"
+  },
+  {
+    "rank": 1674,
+    "surface": "Wisst",
+    "lemma": "wissen"
+  },
+  {
+    "rank": 1675,
+    "surface": "Während",
+    "lemma": "während"
+  },
+  {
+    "rank": 1676,
+    "surface": "Tat",
+    "lemma": "tun"
+  },
+  {
+    "rank": 1677,
+    "surface": "Suche",
+    "lemma": "suchen"
+  },
+  {
+    "rank": 1678,
+    "surface": "Letzte",
+    "lemma": "letzter"
+  },
+  {
+    "rank": 1679,
+    "surface": "blöd",
+    "lemma": "blöd"
+  },
+  {
+    "rank": 1680,
+    "surface": "Blumen",
+    "lemma": "Blume"
+  },
+  {
+    "rank": 1681,
+    "surface": "Setzen",
+    "lemma": "setzen"
+  },
+  {
+    "rank": 1682,
+    "surface": "Freiheit",
+    "lemma": "Freiheit"
+  },
+  {
+    "rank": 1683,
+    "surface": "seines",
+    "lemma": "sein"
+  },
+  {
+    "rank": 1684,
+    "surface": "Ecke",
+    "lemma": "Ecke"
+  },
+  {
+    "rank": 1685,
+    "surface": "Wäre",
+    "lemma": "sein"
+  },
+  {
+    "rank": 1686,
+    "surface": "Knast",
+    "lemma": "Knast"
+  },
+  {
+    "rank": 1687,
+    "surface": "Karten",
+    "lemma": "Karte"
+  },
+  {
+    "rank": 1688,
+    "surface": "pro",
+    "lemma": "pro"
+  },
+  {
+    "rank": 1689,
+    "surface": "Leg",
+    "lemma": "legen"
+  },
+  {
+    "rank": 1690,
+    "surface": "helfe",
+    "lemma": "helfen"
+  },
+  {
+    "rank": 1691,
+    "surface": "oh",
+    "lemma": "oh"
+  },
+  {
+    "rank": 1692,
+    "surface": "Wein",
+    "lemma": "weinen"
+  },
+  {
+    "rank": 1693,
+    "surface": "wette",
+    "lemma": "wetten"
+  },
+  {
+    "rank": 1694,
+    "surface": "Vergnügen",
+    "lemma": "Vergnügen"
+  },
+  {
+    "rank": 1695,
+    "surface": "Uns",
+    "lemma": "uns"
+  },
+  {
+    "rank": 1696,
+    "surface": "Unterschied",
+    "lemma": "Unterschied"
+  },
+  {
+    "rank": 1697,
+    "surface": "Lieber",
+    "lemma": "lieb"
+  },
+  {
+    "rank": 1698,
+    "surface": "Verbrechen",
+    "lemma": "Verbrechen"
+  },
+  {
+    "rank": 1699,
+    "surface": "gibst",
+    "lemma": "geben"
+  },
+  {
+    "rank": 1700,
+    "surface": "Vertrauen",
+    "lemma": "Vertrauen"
+  },
+  {
+    "rank": 1701,
+    "surface": "gesund",
+    "lemma": "gesund"
+  },
+  {
+    "rank": 1702,
+    "surface": "Deswegen",
+    "lemma": "deswegen"
+  },
+  {
+    "rank": 1703,
+    "surface": "zweite",
+    "lemma": "zweiter"
+  },
+  {
+    "rank": 1704,
+    "surface": "Hörst",
+    "lemma": "hören"
+  },
+  {
+    "rank": 1705,
+    "surface": "erkennen",
+    "lemma": "erkennen"
+  },
+  {
+    "rank": 1706,
+    "surface": "Meter",
+    "lemma": "Meter"
+  },
+  {
+    "rank": 1707,
+    "surface": "euren",
+    "lemma": "euer"
+  },
+  {
+    "rank": 1708,
+    "surface": "weder",
+    "lemma": "weder"
+  },
+  {
+    "rank": 1709,
+    "surface": "Schüler",
+    "lemma": "Schüler"
+  },
+  {
+    "rank": 1710,
+    "surface": "obwohl",
+    "lemma": "obwohl"
+  },
+  {
+    "rank": 1711,
+    "surface": "bisher",
+    "lemma": "bisher"
+  },
+  {
+    "rank": 1712,
+    "surface": "welcher",
+    "lemma": "welcher"
+  },
+  {
+    "rank": 1713,
+    "surface": "Mut",
+    "lemma": "Mut"
+  },
+  {
+    "rank": 1714,
+    "surface": "davor",
+    "lemma": "davor"
+  },
+  {
+    "rank": 1715,
+    "surface": "Bar",
+    "lemma": "Bar"
+  },
+  {
+    "rank": 1716,
+    "surface": "wohnen",
+    "lemma": "wohnen"
+  },
+  {
+    "rank": 1717,
+    "surface": "Dem",
+    "lemma": "der"
+  },
+  {
+    "rank": 1718,
+    "surface": "Echt",
+    "lemma": "echt"
+  },
+  {
+    "rank": 1719,
+    "surface": "statt",
+    "lemma": "statt"
+  },
+  {
+    "rank": 1720,
+    "surface": "Pause",
+    "lemma": "Pause"
+  },
+  {
+    "rank": 1721,
+    "surface": "Neues",
+    "lemma": "neu"
+  },
+  {
+    "rank": 1722,
+    "surface": "Auftrag",
+    "lemma": "Auftrag"
+  },
+  {
+    "rank": 1723,
+    "surface": "Hoffentlich",
+    "lemma": "hoffentlich"
+  },
+  {
+    "rank": 1724,
+    "surface": "Tschüss",
+    "lemma": "tschüss"
+  },
+  {
+    "rank": 1725,
+    "surface": "Wand",
+    "lemma": "Wand"
+  },
+  {
+    "rank": 1726,
+    "surface": "schreit",
+    "lemma": "schreien"
+  },
+  {
+    "rank": 1727,
+    "surface": "Männern",
+    "lemma": "Mann"
+  },
+  {
+    "rank": 1728,
+    "surface": "Kennen",
+    "lemma": "kennen"
+  },
+  {
+    "rank": 1729,
+    "surface": "spreche",
+    "lemma": "sprechen"
+  },
+  {
+    "rank": 1730,
+    "surface": "kostet",
+    "lemma": "kosten"
+  },
+  {
+    "rank": 1731,
+    "surface": "Zuerst",
+    "lemma": "zuerst"
+  },
+  {
+    "rank": 1732,
+    "surface": "Erfolg",
+    "lemma": "Erfolg"
+  },
+  {
+    "rank": 1733,
+    "surface": "Wofür",
+    "lemma": "wofür"
+  },
+  {
+    "rank": 1734,
+    "surface": "soweit",
+    "lemma": "soweit"
+  },
+  {
+    "rank": 1735,
+    "surface": "Möchtest",
+    "lemma": "mögen"
+  },
+  {
+    "rank": 1736,
+    "surface": "Meinen",
+    "lemma": "mein"
+  },
+  {
+    "rank": 1737,
+    "surface": "teilen",
+    "lemma": "teilen"
+  },
+  {
+    "rank": 1738,
+    "surface": "erschossen",
+    "lemma": "erschießen"
+  },
+  {
+    "rank": 1739,
+    "surface": "entlang",
+    "lemma": "entlang"
+  },
+  {
+    "rank": 1740,
+    "surface": "Eis",
+    "lemma": "Eis"
+  },
+  {
+    "rank": 1741,
+    "surface": "'nem",
+    "lemma": "ein"
+  },
+  {
+    "rank": 1742,
+    "surface": "Amerikaner",
+    "lemma": "Amerikaner"
+  },
+  {
+    "rank": 1743,
+    "surface": "Abendessen",
+    "lemma": "Abendessen"
+  },
+  {
+    "rank": 1744,
+    "surface": "Mistkerl",
+    "lemma": "Mistkerl"
+  },
+  {
+    "rank": 1745,
+    "surface": "übernehmen",
+    "lemma": "übernehmen"
+  },
+  {
+    "rank": 1746,
+    "surface": "Irgendwas",
+    "lemma": "irgendwas"
+  },
+  {
+    "rank": 1747,
+    "surface": "danken",
+    "lemma": "danken"
+  },
+  {
+    "rank": 1748,
+    "surface": "irgendwann",
+    "lemma": "irgendwann"
+  },
+  {
+    "rank": 1749,
+    "surface": "gebaut",
+    "lemma": "bauen"
+  },
+  {
+    "rank": 1750,
+    "surface": "schützen",
+    "lemma": "schützen"
+  },
+  {
+    "rank": 1751,
+    "surface": "beenden",
+    "lemma": "beenden"
+  },
+  {
+    "rank": 1752,
+    "surface": "Super",
+    "lemma": "Super"
+  },
+  {
+    "rank": 1753,
+    "surface": "Polizist",
+    "lemma": "Polizist"
+  },
+  {
+    "rank": 1754,
+    "surface": "gefahren",
+    "lemma": "fahren"
+  },
+  {
+    "rank": 1755,
+    "surface": "Bericht",
+    "lemma": "Bericht"
+  },
+  {
+    "rank": 1756,
+    "surface": "wovon",
+    "lemma": "wovon"
+  },
+  {
+    "rank": 1757,
+    "surface": "Test",
+    "lemma": "Test"
+  },
+  {
+    "rank": 1758,
+    "surface": "Monsieur",
+    "lemma": "Monsieur"
+  },
+  {
+    "rank": 1759,
+    "surface": "Arme",
+    "lemma": "arm"
+  },
+  {
+    "rank": 1760,
+    "surface": "wüsste",
+    "lemma": "wissen"
+  },
+  {
+    "rank": 1761,
+    "surface": "woher",
+    "lemma": "woher"
+  },
+  {
+    "rank": 1762,
+    "surface": "Majestät",
+    "lemma": "Majestät"
+  },
+  {
+    "rank": 1763,
+    "surface": "Fertig",
+    "lemma": "fertig"
+  },
+  {
+    "rank": 1764,
+    "surface": "versteht",
+    "lemma": "verstehen"
+  },
+  {
+    "rank": 1765,
+    "surface": "trifft",
+    "lemma": "treffen"
+  },
+  {
+    "rank": 1766,
+    "surface": "Meer",
+    "lemma": "Meer"
+  },
+  {
+    "rank": 1767,
+    "surface": "Hut",
+    "lemma": "Hut"
+  },
+  {
+    "rank": 1768,
+    "surface": "zuvor",
+    "lemma": "zuvor"
+  },
+  {
+    "rank": 1769,
+    "surface": "lief",
+    "lemma": "laufen"
+  },
+  {
+    "rank": 1770,
+    "surface": "Haltet",
+    "lemma": "halten"
+  },
+  {
+    "rank": 1771,
+    "surface": "Zeitung",
+    "lemma": "Zeitung"
+  },
+  {
+    "rank": 1772,
+    "surface": "Mami",
+    "lemma": "Mami"
+  },
+  {
+    "rank": 1773,
+    "surface": "schuldig",
+    "lemma": "schuldig"
+  },
+  {
+    "rank": 1774,
+    "surface": "bauen",
+    "lemma": "bauen"
+  },
+  {
+    "rank": 1775,
+    "surface": "Freude",
+    "lemma": "Freude"
+  },
+  {
+    "rank": 1776,
+    "surface": "zufrieden",
+    "lemma": "zufrieden"
+  },
+  {
+    "rank": 1777,
+    "surface": "Zuhause",
+    "lemma": "Zuhause"
+  },
+  {
+    "rank": 1778,
+    "surface": "versuchte",
+    "lemma": "versuchen"
+  },
+  {
+    "rank": 1779,
+    "surface": "Drink",
+    "lemma": "Drink"
+  },
+  {
+    "rank": 1780,
+    "surface": "Niemals",
+    "lemma": "niemals"
+  },
+  {
+    "rank": 1781,
+    "surface": "sprach",
+    "lemma": "sprechen"
+  },
+  {
+    "rank": 1782,
+    "surface": "indem",
+    "lemma": "indem"
+  },
+  {
+    "rank": 1783,
+    "surface": "gemeint",
+    "lemma": "meinen"
+  },
+  {
+    "rank": 1784,
+    "surface": "fühlst",
+    "lemma": "fühlen"
+  },
+  {
+    "rank": 1785,
+    "surface": "deren",
+    "lemma": "deren"
+  },
+  {
+    "rank": 1786,
+    "surface": "Quatsch",
+    "lemma": "Quatsch"
+  },
+  {
+    "rank": 1787,
+    "surface": "Kugel",
+    "lemma": "Kugel"
+  },
+  {
+    "rank": 1788,
+    "surface": "Klingt",
+    "lemma": "klingen"
+  },
+  {
+    "rank": 1789,
+    "surface": "hielt",
+    "lemma": "halten"
+  },
+  {
+    "rank": 1790,
+    "surface": "Gericht",
+    "lemma": "Gericht"
+  },
+  {
+    "rank": 1791,
+    "surface": "furchtbar",
+    "lemma": "furchtbar"
+  },
+  {
+    "rank": 1792,
+    "surface": "Würdest",
+    "lemma": "werden"
+  },
+  {
+    "rank": 1793,
+    "surface": "Wirst",
+    "lemma": "werden"
+  },
+  {
+    "rank": 1794,
+    "surface": "verpasst",
+    "lemma": "verpassen"
+  },
+  {
+    "rank": 1795,
+    "surface": "Ohren",
+    "lemma": "Ohr"
+  },
+  {
+    "rank": 1796,
+    "surface": "Rose",
+    "lemma": "Rose"
+  },
+  {
+    "rank": 1797,
+    "surface": "neuer",
+    "lemma": "neu"
+  },
+  {
+    "rank": 1798,
+    "surface": "fanden",
+    "lemma": "finden"
+  },
+  {
+    "rank": 1799,
+    "surface": "Haufen",
+    "lemma": "Haufen"
+  },
+  {
+    "rank": 1800,
+    "surface": "Drehbuch",
+    "lemma": "Drehbuch"
+  },
+  {
+    "rank": 1801,
+    "surface": "Gutes",
+    "lemma": "gut"
+  },
+  {
+    "rank": 1802,
+    "surface": "Schätzchen",
+    "lemma": "Schätzchen"
+  },
+  {
+    "rank": 1803,
+    "surface": "Deal",
+    "lemma": "Deal"
+  },
+  {
+    "rank": 1804,
+    "surface": "Ma'am",
+    "lemma": "Ma'am"
+  },
+  {
+    "rank": 1805,
+    "surface": "Haar",
+    "lemma": "Haar"
+  },
+  {
+    "rank": 1806,
+    "surface": "stehe",
+    "lemma": "stehen"
+  },
+  {
+    "rank": 1807,
+    "surface": "fassen",
+    "lemma": "fassen"
+  },
+  {
+    "rank": 1808,
+    "surface": "Ehemann",
+    "lemma": "Ehemann"
+  },
+  {
+    "rank": 1809,
+    "surface": "funktionieren",
+    "lemma": "funktionieren"
+  },
+  {
+    "rank": 1810,
+    "surface": "fragte",
+    "lemma": "fragen"
+  },
+  {
+    "rank": 1811,
+    "surface": "verhaftet",
+    "lemma": "verhaften"
+  },
+  {
+    "rank": 1812,
+    "surface": "drüber",
+    "lemma": "drüber"
+  },
+  {
+    "rank": 1813,
+    "surface": "Sergeant",
+    "lemma": "Sergeant"
+  },
+  {
+    "rank": 1814,
+    "surface": "stimmt's",
+    "lemma": "es"
+  },
+  {
+    "rank": 1815,
+    "surface": "Verantwortung",
+    "lemma": "Verantwortung"
+  },
+  {
+    "rank": 1816,
+    "surface": "Major",
+    "lemma": "Major"
+  },
+  {
+    "rank": 1817,
+    "surface": "feiern",
+    "lemma": "feiern"
+  },
+  {
+    "rank": 1818,
+    "surface": "Bücher",
+    "lemma": "Buch"
+  },
+  {
+    "rank": 1819,
+    "surface": "kümmere",
+    "lemma": "kümmern"
+  },
+  {
+    "rank": 1820,
+    "surface": "ähnlich",
+    "lemma": "ähnlich"
+  },
+  {
+    "rank": 1821,
+    "surface": "unterhalten",
+    "lemma": "unterhalten"
+  },
+  {
+    "rank": 1822,
+    "surface": "Stein",
+    "lemma": "Stein"
+  },
+  {
+    "rank": 1823,
+    "surface": "kümmert",
+    "lemma": "kümmern"
+  },
+  {
+    "rank": 1824,
+    "surface": "nächstes",
+    "lemma": "nächster"
+  },
+  {
+    "rank": 1825,
+    "surface": "gewusst",
+    "lemma": "wissen"
+  },
+  {
+    "rank": 1826,
+    "surface": "Beim",
+    "lemma": "bei"
+  },
+  {
+    "rank": 1827,
+    "surface": "schöner",
+    "lemma": "schön"
+  },
+  {
+    "rank": 1828,
+    "surface": "aufpassen",
+    "lemma": "aufpassen"
+  },
+  {
+    "rank": 1829,
+    "surface": "Unglaublich",
+    "lemma": "unglaublich"
+  },
+  {
+    "rank": 1830,
+    "surface": "Katze",
+    "lemma": "Katze"
+  },
+  {
+    "rank": 1831,
+    "surface": "geschieht",
+    "lemma": "geschehen"
+  },
+  {
+    "rank": 1832,
+    "surface": "Brüder",
+    "lemma": "Bruder"
+  },
+  {
+    "rank": 1833,
+    "surface": "mitgebracht",
+    "lemma": "mitbringen"
+  },
+  {
+    "rank": 1834,
+    "surface": "unseres",
+    "lemma": "unser"
+  },
+  {
+    "rank": 1835,
+    "surface": "Verstehe",
+    "lemma": "verstehen"
+  },
+  {
+    "rank": 1836,
+    "surface": "Lord",
+    "lemma": "Lord"
+  },
+  {
+    "rank": 1837,
+    "surface": "letztes",
+    "lemma": "letzter"
+  },
+  {
+    "rank": 1838,
+    "surface": "dessen",
+    "lemma": "dessen"
+  },
+  {
+    "rank": 1839,
+    "surface": "Vier",
+    "lemma": "vier"
+  },
+  {
+    "rank": 1840,
+    "surface": "mitten",
+    "lemma": "mitten"
+  },
+  {
+    "rank": 1841,
+    "surface": "erinnert",
+    "lemma": "erinnern"
+  },
+  {
+    "rank": 1842,
+    "surface": "Wahnsinn",
+    "lemma": "Wahnsinn"
+  },
+  {
+    "rank": 1843,
+    "surface": "vorhin",
+    "lemma": "vorhin"
+  },
+  {
+    "rank": 1844,
+    "surface": "Neuigkeiten",
+    "lemma": "Neuigkeit"
+  },
+  {
+    "rank": 1845,
+    "surface": "setzt",
+    "lemma": "setzen"
+  },
+  {
+    "rank": 1846,
+    "surface": "klasse",
+    "lemma": "klasse"
+  },
+  {
+    "rank": 1847,
+    "surface": "Einige",
+    "lemma": "einige"
+  },
+  {
+    "rank": 1848,
+    "surface": "zufällig",
+    "lemma": "zufällig"
+  },
+  {
+    "rank": 1849,
+    "surface": "Kleid",
+    "lemma": "Kleid"
+  },
+  {
+    "rank": 1850,
+    "surface": "Jedenfalls",
+    "lemma": "jedenfalls"
+  },
+  {
+    "rank": 1851,
+    "surface": "Angebot",
+    "lemma": "Angebot"
+  },
+  {
+    "rank": 1852,
+    "surface": "erklärt",
+    "lemma": "erklären"
+  },
+  {
+    "rank": 1853,
+    "surface": "stellt",
+    "lemma": "stellen"
+  },
+  {
+    "rank": 1854,
+    "surface": "Restaurant",
+    "lemma": "Restaurant"
+  },
+  {
+    "rank": 1855,
+    "surface": "Kommst",
+    "lemma": "kommen"
+  },
+  {
+    "rank": 1856,
+    "surface": "Zur",
+    "lemma": "zu"
+  },
+  {
+    "rank": 1857,
+    "surface": "Serie",
+    "lemma": "Serie"
+  },
+  {
+    "rank": 1858,
+    "surface": "melden",
+    "lemma": "melden"
+  },
+  {
+    "rank": 1859,
+    "surface": "Brücke",
+    "lemma": "Brücke"
+  },
+  {
+    "rank": 1860,
+    "surface": "Erinnerungen",
+    "lemma": "Erinnerung"
+  },
+  {
+    "rank": 1861,
+    "surface": "gestellt",
+    "lemma": "stellen"
+  },
+  {
+    "rank": 1862,
+    "surface": "Sagt",
+    "lemma": "sagen"
+  },
+  {
+    "rank": 1863,
+    "surface": "Schmerzen",
+    "lemma": "Schmerz"
+  },
+  {
+    "rank": 1864,
+    "surface": "besteht",
+    "lemma": "bestehen"
+  },
+  {
+    "rank": 1865,
+    "surface": "verdienen",
+    "lemma": "verdienen"
+  },
+  {
+    "rank": 1866,
+    "surface": "hallo",
+    "lemma": "hallo"
+  },
+  {
+    "rank": 1867,
+    "surface": "offensichtlich",
+    "lemma": "offensichtlich"
+  },
+  {
+    "rank": 1868,
+    "surface": "Fisch",
+    "lemma": "Fisch"
+  },
+  {
+    "rank": 1869,
+    "surface": "hängen",
+    "lemma": "hängen"
+  },
+  {
+    "rank": 1870,
+    "surface": "Gelegenheit",
+    "lemma": "Gelegenheit"
+  },
+  {
+    "rank": 1871,
+    "surface": "Endlich",
+    "lemma": "endlich"
+  },
+  {
+    "rank": 1872,
+    "surface": "Möchten",
+    "lemma": "mögen"
+  },
+  {
+    "rank": 1873,
+    "surface": "konntest",
+    "lemma": "können"
+  },
+  {
+    "rank": 1874,
+    "surface": "bekommst",
+    "lemma": "bekommen"
+  },
+  {
+    "rank": 1875,
+    "surface": "Idioten",
+    "lemma": "Idiot"
+  },
+  {
+    "rank": 1876,
+    "surface": "Virus",
+    "lemma": "Virus"
+  },
+  {
+    "rank": 1877,
+    "surface": "größte",
+    "lemma": "groß"
+  },
+  {
+    "rank": 1878,
+    "surface": "gingen",
+    "lemma": "gehen"
+  },
+  {
+    "rank": 1879,
+    "surface": "Strand",
+    "lemma": "Strand"
+  },
+  {
+    "rank": 1880,
+    "surface": "geplant",
+    "lemma": "planen"
+  },
+  {
+    "rank": 1881,
+    "surface": "betrunken",
+    "lemma": "trinken"
+  },
+  {
+    "rank": 1882,
+    "surface": "fängt",
+    "lemma": "fangen"
+  },
+  {
+    "rank": 1883,
+    "surface": "keinem",
+    "lemma": "kein"
+  },
+  {
+    "rank": 1884,
+    "surface": "bringst",
+    "lemma": "bringen"
+  },
+  {
+    "rank": 1885,
+    "surface": "Süße",
+    "lemma": "süß"
+  },
+  {
+    "rank": 1886,
+    "surface": "irgendwelche",
+    "lemma": "irgendwelche"
+  },
+  {
+    "rank": 1887,
+    "surface": "Thema",
+    "lemma": "Thema"
+  },
+  {
+    "rank": 1888,
+    "surface": "Date",
+    "lemma": "Date"
+  },
+  {
+    "rank": 1889,
+    "surface": "Stellen",
+    "lemma": "stellen"
+  },
+  {
+    "rank": 1890,
+    "surface": "machten",
+    "lemma": "machen"
+  },
+  {
+    "rank": 1891,
+    "surface": "diesmal",
+    "lemma": "diesmal"
+  },
+  {
+    "rank": 1892,
+    "surface": "Guck",
+    "lemma": "gucken"
+  },
+  {
+    "rank": 1893,
+    "surface": "Figur",
+    "lemma": "Figur"
+  },
+  {
+    "rank": 1894,
+    "surface": "Weisst",
+    "lemma": "wissen"
+  },
+  {
+    "rank": 1895,
+    "surface": "ne",
+    "lemma": "ne"
+  },
+  {
+    "rank": 1896,
+    "surface": "brechen",
+    "lemma": "brechen"
+  },
+  {
+    "rank": 1897,
+    "surface": "lacht",
+    "lemma": "lachen"
+  },
+  {
+    "rank": 1898,
+    "surface": "Gar",
+    "lemma": "gar"
+  },
+  {
+    "rank": 1899,
+    "surface": "angetan",
+    "lemma": "angetan"
+  },
+  {
+    "rank": 1900,
+    "surface": "Paar",
+    "lemma": "Paar"
+  },
+  {
+    "rank": 1901,
+    "surface": "Druck",
+    "lemma": "drucken"
+  },
+  {
+    "rank": 1902,
+    "surface": "mitkommen",
+    "lemma": "mitkommen"
+  },
+  {
+    "rank": 1903,
+    "surface": "reich",
+    "lemma": "reich"
+  },
+  {
+    "rank": 1904,
+    "surface": "Nie",
+    "lemma": "nie"
+  },
+  {
+    "rank": 1905,
+    "surface": "Fluss",
+    "lemma": "Fluss"
+  },
+  {
+    "rank": 1906,
+    "surface": "wirkt",
+    "lemma": "wirken"
+  },
+  {
+    "rank": 1907,
+    "surface": "Werden",
+    "lemma": "werden"
+  },
+  {
+    "rank": 1908,
+    "surface": "traf",
+    "lemma": "treffen"
+  },
+  {
+    "rank": 1909,
+    "surface": "schließlich",
+    "lemma": "schließlich"
+  },
+  {
+    "rank": 1910,
+    "surface": "Richtige",
+    "lemma": "richtig"
+  },
+  {
+    "rank": 1911,
+    "surface": "Gewalt",
+    "lemma": "Gewalt"
+  },
+  {
+    "rank": 1912,
+    "surface": "gelaufen",
+    "lemma": "laufen"
+  },
+  {
+    "rank": 1913,
+    "surface": "Daten",
+    "lemma": "Daten"
+  },
+  {
+    "rank": 1914,
+    "surface": "Hunde",
+    "lemma": "Hund"
+  },
+  {
+    "rank": 1915,
+    "surface": "Großvater",
+    "lemma": "Großvater"
+  },
+  {
+    "rank": 1916,
+    "surface": "wahre",
+    "lemma": "wahr"
+  },
+  {
+    "rank": 1917,
+    "surface": "nachgedacht",
+    "lemma": "nachdenken"
+  },
+  {
+    "rank": 1918,
+    "surface": "Falle",
+    "lemma": "Falle"
+  },
+  {
+    "rank": 1919,
+    "surface": "eigenes",
+    "lemma": "eigener"
+  },
+  {
+    "rank": 1920,
+    "surface": "Gang",
+    "lemma": "gehen"
+  },
+  {
+    "rank": 1921,
+    "surface": "sahen",
+    "lemma": "sehen"
+  },
+  {
+    "rank": 1922,
+    "surface": "erreicht",
+    "lemma": "erreichen"
+  },
+  {
+    "rank": 1923,
+    "surface": "Willen",
+    "lemma": "Willen"
+  },
+  {
+    "rank": 1924,
+    "surface": "solchen",
+    "lemma": "solcher"
+  },
+  {
+    "rank": 1925,
+    "surface": "schlechter",
+    "lemma": "schlecht"
+  },
+  {
+    "rank": 1926,
+    "surface": "einzigen",
+    "lemma": "einziger"
+  },
+  {
+    "rank": 1927,
+    "surface": "willkommen",
+    "lemma": "willkommen"
+  },
+  {
+    "rank": 1928,
+    "surface": "ermordet",
+    "lemma": "ermorden"
+  },
+  {
+    "rank": 1929,
+    "surface": "Tiere",
+    "lemma": "Tier"
+  },
+  {
+    "rank": 1930,
+    "surface": "Sollte",
+    "lemma": "sollen"
+  },
+  {
+    "rank": 1931,
+    "surface": "'ner",
+    "lemma": "ein"
+  },
+  {
+    "rank": 1932,
+    "surface": "längst",
+    "lemma": "längst"
+  },
+  {
+    "rank": 1933,
+    "surface": "Autos",
+    "lemma": "Auto"
+  },
+  {
+    "rank": 1934,
+    "surface": "Hätte",
+    "lemma": "haben"
+  },
+  {
+    "rank": 1935,
+    "surface": "wohnt",
+    "lemma": "wohnen"
+  },
+  {
+    "rank": 1936,
+    "surface": "krieg",
+    "lemma": "kriegen"
+  },
+  {
+    "rank": 1937,
+    "surface": "fiel",
+    "lemma": "fallen"
+  },
+  {
+    "rank": 1938,
+    "surface": "Hose",
+    "lemma": "Hose"
+  },
+  {
+    "rank": 1939,
+    "surface": "leiden",
+    "lemma": "leiden"
+  },
+  {
+    "rank": 1940,
+    "surface": "Hau",
+    "lemma": "hauen"
+  },
+  {
+    "rank": 1941,
+    "surface": "sprichst",
+    "lemma": "sprechen"
+  },
+  {
+    "rank": 1942,
+    "surface": "freue",
+    "lemma": "freuen"
+  },
+  {
+    "rank": 1943,
+    "surface": "Außer",
+    "lemma": "außer"
+  },
+  {
+    "rank": 1944,
+    "surface": "gebrochen",
+    "lemma": "brechen"
+  },
+  {
+    "rank": 1945,
+    "surface": "Baum",
+    "lemma": "Baum"
+  },
+  {
+    "rank": 1946,
+    "surface": "gehalten",
+    "lemma": "halten"
+  },
+  {
+    "rank": 1947,
+    "surface": "Träume",
+    "lemma": "Traum"
+  },
+  {
+    "rank": 1948,
+    "surface": "Reihe",
+    "lemma": "Reihe"
+  },
+  {
+    "rank": 1949,
+    "surface": "stelle",
+    "lemma": "stellen"
+  },
+  {
+    "rank": 1950,
+    "surface": "Medizin",
+    "lemma": "Medizin"
+  },
+  {
+    "rank": 1951,
+    "surface": "halb",
+    "lemma": "halb"
+  },
+  {
+    "rank": 1952,
+    "surface": "gezeigt",
+    "lemma": "zeigen"
+  },
+  {
+    "rank": 1953,
+    "surface": "Meilen",
+    "lemma": "Meile"
+  },
+  {
+    "rank": 1954,
+    "surface": "Lieutenant",
+    "lemma": "Lieutenant"
+  },
+  {
+    "rank": 1955,
+    "surface": "hieß",
+    "lemma": "heißen"
+  },
+  {
+    "rank": 1956,
+    "surface": "Wunsch",
+    "lemma": "Wunsch"
+  },
+  {
+    "rank": 1957,
+    "surface": "erster",
+    "lemma": "erster"
+  },
+  {
+    "rank": 1958,
+    "surface": "Befehle",
+    "lemma": "Befehl"
+  },
+  {
+    "rank": 1959,
+    "surface": "Bastard",
+    "lemma": "Bastard"
+  },
+  {
+    "rank": 1960,
+    "surface": "rief",
+    "lemma": "rufen"
+  },
+  {
+    "rank": 1961,
+    "surface": "Nachdem",
+    "lemma": "nachdem"
+  },
+  {
+    "rank": 1962,
+    "surface": "Toten",
+    "lemma": "tot"
+  },
+  {
+    "rank": 1963,
+    "surface": "Frühstück",
+    "lemma": "Frühstück"
+  },
+  {
+    "rank": 1964,
+    "surface": "schaffst",
+    "lemma": "schaffen"
+  },
+  {
+    "rank": 1965,
+    "surface": "ihres",
+    "lemma": "ihr"
+  },
+  {
+    "rank": 1966,
+    "surface": "hat's",
+    "lemma": "es"
+  },
+  {
+    "rank": 1967,
+    "surface": "aufgeben",
+    "lemma": "aufgeben"
+  },
+  {
+    "rank": 1968,
+    "surface": "Gespräch",
+    "lemma": "Gespräch"
+  },
+  {
+    "rank": 1969,
+    "surface": "Engel",
+    "lemma": "Engel"
+  },
+  {
+    "rank": 1970,
+    "surface": "verbringen",
+    "lemma": "verbringen"
+  },
+  {
+    "rank": 1971,
+    "surface": "Terroristen",
+    "lemma": "Terrorist"
+  },
+  {
+    "rank": 1972,
+    "surface": "Erfahrung",
+    "lemma": "Erfahrung"
+  },
+  {
+    "rank": 1973,
+    "surface": "brauchte",
+    "lemma": "brauchen"
+  },
+  {
+    "rank": 1974,
+    "surface": "schätzen",
+    "lemma": "schätzen"
+  },
+  {
+    "rank": 1975,
+    "surface": "seien",
+    "lemma": "sein"
+  },
+  {
+    "rank": 1976,
+    "surface": "Nehmt",
+    "lemma": "nehmen"
+  },
+  {
+    "rank": 1977,
+    "surface": "Bad",
+    "lemma": "Bad"
+  },
+  {
+    "rank": 1978,
+    "surface": "Vogel",
+    "lemma": "Vogel"
+  },
+  {
+    "rank": 1979,
+    "surface": "Wochenende",
+    "lemma": "Wochenende"
+  },
+  {
+    "rank": 1980,
+    "surface": "neun",
+    "lemma": "neun"
+  },
+  {
+    "rank": 1981,
+    "surface": "fantastisch",
+    "lemma": "fantastisch"
+  },
+  {
+    "rank": 1982,
+    "surface": "Bleibt",
+    "lemma": "bleiben"
+  },
+  {
+    "rank": 1983,
+    "surface": "zweiten",
+    "lemma": "zweiter"
+  },
+  {
+    "rank": 1984,
+    "surface": "vollkommen",
+    "lemma": "vollkommen"
+  },
+  {
+    "rank": 1985,
+    "surface": "Unter",
+    "lemma": "unter"
+  },
+  {
+    "rank": 1986,
+    "surface": "verfolgen",
+    "lemma": "verfolgen"
+  },
+  {
+    "rank": 1987,
+    "surface": "schläft",
+    "lemma": "schlafen"
+  },
+  {
+    "rank": 1988,
+    "surface": "bemerkt",
+    "lemma": "bemerken"
+  },
+  {
+    "rank": 1989,
+    "surface": "Marge",
+    "lemma": "Marge"
+  },
+  {
+    "rank": 1990,
+    "surface": "Erste",
+    "lemma": "erster"
+  },
+  {
+    "rank": 1991,
+    "surface": "erinnerst",
+    "lemma": "erinnern"
+  },
+  {
+    "rank": 1992,
+    "surface": "Deinen",
+    "lemma": "dein"
+  },
+  {
+    "rank": 1993,
+    "surface": "Wichser",
+    "lemma": "Wichser"
+  },
+  {
+    "rank": 1994,
+    "surface": "Signal",
+    "lemma": "Signal"
+  },
+  {
+    "rank": 1995,
+    "surface": "Wollt",
+    "lemma": "wollen"
+  },
+  {
+    "rank": 1996,
+    "surface": "Wieder",
+    "lemma": "wieder"
+  },
+  {
+    "rank": 1997,
+    "surface": "schließen",
+    "lemma": "schließen"
+  },
+  {
+    "rank": 1998,
+    "surface": "Pistole",
+    "lemma": "Pistole"
+  },
+  {
+    "rank": 1999,
+    "surface": "lächerlich",
+    "lemma": "lächerlich"
+  },
+  {
+    "rank": 2000,
+    "surface": "Filme",
+    "lemma": "Film"
+  }
+]
