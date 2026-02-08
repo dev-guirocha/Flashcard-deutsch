@@ -9,6 +9,11 @@
     },
     "ios": {
       "bundleIdentifier": "com.dev.guirocha.flashcard-deutsch"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "76a1e47b-e773-4903-a626-749d4f88fa11"
+      }
     }
   }
 }
