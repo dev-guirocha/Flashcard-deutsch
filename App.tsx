@@ -2,6 +2,7 @@ import React from "react";
 import { View, Text, ActivityIndicator, Platform } from "react-native";
 import { NavigationContainer, DarkTheme } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
+import { GestureHandlerRootView } from "react-native-gesture-handler";
 import { HomeScreen } from "./src/ui/screens/Home";
 import { GameScreen } from "./src/ui/screens/Game";
 import { RankingScreen } from "./src/ui/screens/Ranking";
@@ -37,59 +38,61 @@ export default function App() {
   }
 
   return (
-    <NavigationContainer theme={DarkTheme}>
-      <Stack.Navigator
-        screenOptions={{
-          headerStyle: { backgroundColor: "#121212" },
-          headerTitleStyle: { color: "white" },
-          contentStyle: { backgroundColor: "#121212" },
-        }}
-      >
-        <Stack.Screen name="Home" options={{ title: "Flashcard Deutsch" }}>
-          {(navProps) => (
-            <HomeScreen
-              wordCount={words.length}
-              onRanking={() => navProps.navigation.navigate("Ranking")}
-              onStart={(mode) => {
-                actions.startRun(mode);
-                navProps.navigation.navigate("Game");
-              }}
-            />
-          )}
-        </Stack.Screen>
-
-        <Stack.Screen name="Game" options={{ title: "Run" }}>
-          {(navProps) =>
-            run ? (
-              <GameScreen
-                run={run}
-                onAnswerMc={(id) => actions.answerMc(id)}
-                onAnswerType={(t) => actions.answerType(t)}
-                onNext={() => actions.next()}
-                onSkip={() => actions.doSkip()}
-                onExit={() => {
-                  actions.abandonRun();
-                  navProps.navigation.navigate("Home");
-                }}
-                onFinish={async () => {
-                  await actions.finishAndSave();
-                  navProps.navigation.navigate("Home");
+    <GestureHandlerRootView style={{ flex: 1 }}>
+      <NavigationContainer theme={DarkTheme}>
+        <Stack.Navigator
+          screenOptions={{
+            headerStyle: { backgroundColor: "#121212" },
+            headerTitleStyle: { color: "white" },
+            contentStyle: { backgroundColor: "#121212" },
+          }}
+        >
+          <Stack.Screen name="Home" options={{ title: "Flashcard Deutsch" }}>
+            {(navProps) => (
+              <HomeScreen
+                wordCount={words.length}
+                onRanking={() => navProps.navigation.navigate("Ranking")}
+                onStart={(mode) => {
+                  actions.startRun(mode);
+                  navProps.navigation.navigate("Game");
                 }}
               />
-            ) : (
-              <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
-                <Text style={{ color: "#bbb" }}>Sem run ativa.</Text>
-              </View>
-            )
-          }
-        </Stack.Screen>
+            )}
+          </Stack.Screen>
 
-        <Stack.Screen name="Ranking" options={{ title: "Ranking" }}>
-          {(navProps) => (
-            <RankingScreen scores={scores} onBack={() => navProps.navigation.goBack()} />
-          )}
-        </Stack.Screen>
-      </Stack.Navigator>
-    </NavigationContainer>
+          <Stack.Screen name="Game" options={{ title: "Run" }}>
+            {(navProps) =>
+              run ? (
+                <GameScreen
+                  run={run}
+                  onAnswerMc={(id) => actions.answerMc(id)}
+                  onAnswerType={(t) => actions.answerType(t)}
+                  onNext={() => actions.next()}
+                  onSkip={() => actions.doSkip()}
+                  onExit={() => {
+                    actions.abandonRun();
+                    navProps.navigation.navigate("Home");
+                  }}
+                  onFinish={async () => {
+                    await actions.finishAndSave();
+                    navProps.navigation.navigate("Home");
+                  }}
+                />
+              ) : (
+                <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
+                  <Text style={{ color: "#bbb" }}>Sem run ativa.</Text>
+                </View>
+              )
+            }
+          </Stack.Screen>
+
+          <Stack.Screen name="Ranking" options={{ title: "Ranking" }}>
+            {(navProps) => (
+              <RankingScreen scores={scores} onBack={() => navProps.navigation.goBack()} />
+            )}
+          </Stack.Screen>
+        </Stack.Navigator>
+      </NavigationContainer>
+    </GestureHandlerRootView>
   );
 }

@@ -2,7 +2,7 @@ import { allAsync, execAsync, runAsync } from "./db";
 import { Word } from "../types";
 
 // Bump this when you replace assets/words_v1.json
-export const SEED_VERSION = 4;
+export const SEED_VERSION = 5;
 
 function safeJsonArray(v: any): any[] {
   if (!v) return [];

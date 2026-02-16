@@ -74,12 +74,15 @@ export function GameScreen(props: {
 
           {card.correctWord.exampleDe ? (
             <View style={{ marginTop: 14, padding: 12, borderRadius: 12, backgroundColor: "#1f1f1f" }}>
-              <Text style={{ color: "#bbb", fontSize: 12, marginBottom: 6 }}>Example</Text>
+              <Text style={{ color: "#bbb", fontSize: 12, marginBottom: 6 }}>Example (DE)</Text>
               <Text style={{ color: "white", fontSize: 14 }}>{card.correctWord.exampleDe}</Text>
               {card.correctWord.exampleGloss ? (
-                <Text style={{ color: "#aaa", fontSize: 13, marginTop: 6 }}>
-                  {card.correctWord.exampleGloss}
-                </Text>
+                <View style={{ marginTop: 6 }}>
+                  <Text style={{ color: "#9a9a9a", fontSize: 12, marginBottom: 2 }}>
+                    Translation (EN)
+                  </Text>
+                  <Text style={{ color: "#aaa", fontSize: 13 }}>{card.correctWord.exampleGloss}</Text>
+                </View>
               ) : null}
             </View>
           ) : null}
