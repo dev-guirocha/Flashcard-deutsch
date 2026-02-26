@@ -17,7 +17,7 @@
     "@react-native-async-storage/async-storage": "2.2.0",
     "@react-navigation/native": "^6.1.18",
     "@react-navigation/native-stack": "^6.11.0",
-    "expo": "~54.0.33",
+    "expo": "~55.0.2",
     "expo-document-picker": "~14.0.8",
     "expo-file-system": "~19.0.17",
     "expo-sharing": "~14.0.7",
