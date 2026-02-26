@@ -1,0 +1,14 @@
+{
+  "originalCount": 1974,
+  "normalizedCount": 1640,
+  "removedDuplicates": 334,
+  "withPt": 1604,
+  "withExample": 1109,
+  "colloquial": 18,
+  "byPos": {
+    "NOUN": 591,
+    "OTHER": 1047,
+    "CONJ": 1,
+    "ADJ": 1
+  }
+}

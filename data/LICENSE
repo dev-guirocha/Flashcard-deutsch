@@ -1,0 +1,10 @@
+Deck and learning content license policy
+
+This repository separates software code from deck/content data.
+
+- Code license: see `/LICENSE` (MIT).
+- Deck/content files: each deck must declare its own source and license in
+  `data/SOURCES.md`.
+
+If a deck source requires attribution or share-alike, contributors must keep
+that requirement in derived decks and documentation.

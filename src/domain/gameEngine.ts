@@ -1,5 +1,5 @@
 import { Mode, Word } from "../types";
-import { normalizeDe, normalizePt } from "./normalizer";
+import { normalizeDe } from "./normalizer";
 import { scoreForCorrect } from "./scoring";
 
 export type McCard = {
@@ -21,10 +21,11 @@ export type Card = McCard | TypeCard;
 
 export type RunState = {
   mode: Mode;
+  // `runSize <= 0` means endless session
   runSize: number;
   poolSize: number;
   remainingSkips: number;
-  index: number; // 0..runSize-1
+  index: number; // answered cards count
   score: number;
   streak: number;
   maxStreak: number;
@@ -32,6 +33,15 @@ export type RunState = {
   card: Card | null;
   feedback: { ok: boolean; correct: string; user?: string } | null;
   pool: Word[]; // pre-shuffled
+  dueSteps: Record<number, number>;
+  cursor: number;
+  lastWordId: number | null;
+};
+
+type BuildRunOptions = {
+  poolSize?: number;
+  runSize?: number;
+  shufflePool?: boolean;
 };
 
 function labelFor(w: Word) {
@@ -47,12 +57,16 @@ function shuffle<T>(arr: T[]) {
   return a;
 }
 
-export function buildRun(words: Word[], mode: Mode): RunState {
-  const poolSize = 60;
-  const runSize = 30;
+export function buildRun(words: Word[], mode: Mode, options: BuildRunOptions = {}): RunState {
+  const poolSize = options.poolSize ?? 60;
+  const runSize = options.runSize ?? 0;
+  const shufflePool = options.shufflePool ?? true;
   const filtered = words.filter((w) => labelFor(w).length > 0);
   const source = filtered.length > 0 ? filtered : words;
-  const pool = shuffle(source).slice(0, poolSize);
+  const ordered = shufflePool ? shuffle(source) : [...source];
+  const pool = ordered.slice(0, poolSize);
+  const dueSteps: Record<number, number> = {};
+  for (const word of pool) dueSteps[word.id] = 0;
 
   return {
     mode,
@@ -67,6 +81,9 @@ export function buildRun(words: Word[], mode: Mode): RunState {
     card: null,
     feedback: null,
     pool,
+    dueSteps,
+    cursor: 0,
+    lastWordId: null,
   };
 }
 
@@ -80,9 +97,44 @@ function pickDistractors(all: Word[], correct: Word, n = 3) {
 }
 
 export function nextCard(state: RunState): RunState {
-  if (state.index >= state.runSize) return state;
+  if (state.runSize > 0 && state.index >= state.runSize) return state;
+  if (state.pool.length === 0) return state;
 
-  const w = state.pool[state.index % state.pool.length];
+  const chooseIndex = (map: Record<number, number>) => {
+    const n = state.pool.length;
+    const allowRepeat = n === 1;
+    for (let i = 0; i < n; i++) {
+      const idx = (state.cursor + i) % n;
+      const word = state.pool[idx];
+      const due = map[word.id] ?? 0;
+      if (due <= 0 && (allowRepeat || word.id !== state.lastWordId)) return idx;
+    }
+    return -1;
+  };
+
+  const decDue = (map: Record<number, number>, step: number) => {
+    const out: Record<number, number> = {};
+    for (const [id, due] of Object.entries(map)) {
+      out[Number(id)] = Math.max((due ?? 0) - step, 0);
+    }
+    return out;
+  };
+
+  let dueSteps = { ...state.dueSteps };
+  let selectedIndex = chooseIndex(dueSteps);
+
+  if (selectedIndex < 0) {
+    const candidates = state.pool
+      .filter((w) => w.id !== state.lastWordId || state.pool.length === 1)
+      .map((w) => dueSteps[w.id] ?? 0);
+    const minDue = candidates.length > 0 ? Math.min(...candidates) : 0;
+    if (minDue > 0) dueSteps = decDue(dueSteps, minDue);
+    selectedIndex = chooseIndex(dueSteps);
+  }
+
+  if (selectedIndex < 0) selectedIndex = state.cursor % state.pool.length;
+
+  const w = state.pool[selectedIndex];
   if (!w) return state;
 
   if (state.mode === "MC_DE_TO_GLOSS") {
@@ -99,6 +151,8 @@ export function nextCard(state: RunState): RunState {
     const promptDe = w.deWithArticle || w.de;
     return {
       ...state,
+      dueSteps,
+      cursor: (selectedIndex + 1) % state.pool.length,
       feedback: null,
       card: {
         kind: "MC",
@@ -113,6 +167,8 @@ export function nextCard(state: RunState): RunState {
   // TYPE_GLOSS_TO_DE
   return {
     ...state,
+    dueSteps,
+    cursor: (selectedIndex + 1) % state.pool.length,
     feedback: null,
     card: {
       kind: "TYPE",
@@ -203,6 +259,38 @@ export function skip(state: RunState): RunState {
 }
 
 export function advance(state: RunState): RunState {
+  if (state.runSize > 0 && state.index >= state.runSize) return state;
+
+  const decDue = (step = 1) => {
+    const out: Record<number, number> = {};
+    for (const [id, due] of Object.entries(state.dueSteps)) {
+      out[Number(id)] = Math.max((due ?? 0) - step, 0);
+    }
+    return out;
+  };
+
+  let dueSteps = decDue(1);
+  let cursor = state.cursor;
+  let lastWordId = state.lastWordId;
+
+  if (state.card) {
+    const currentWordId = state.card.correctWord.id;
+    const gap = state.feedback === null ? 1 : state.feedback.ok ? Math.min(12, 4 + state.streak) : 2;
+    dueSteps[currentWordId] = gap;
+    lastWordId = currentWordId;
+
+    const currentIndex = state.pool.findIndex((w) => w.id === currentWordId);
+    if (currentIndex >= 0) cursor = (currentIndex + 1) % Math.max(state.pool.length, 1);
+  }
+
   const nextIndex = state.index + 1;
-  return { ...state, index: nextIndex, feedback: null, card: null };
+  return {
+    ...state,
+    index: nextIndex,
+    dueSteps,
+    cursor,
+    lastWordId,
+    feedback: null,
+    card: null,
+  };
 }

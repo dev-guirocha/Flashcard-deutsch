@@ -42,3 +42,37 @@ export type ScoreRow = {
   runSize: number;
   playerName?: string | null;
 };
+
+export type CardProgressRow = {
+  wordId: number;
+  box: number;
+  dueAt: number;
+  correct: number;
+  wrong: number;
+  lastReviewedAt?: number | null;
+};
+
+export type ReviewStats = {
+  dueCount: number;
+  trackedCount: number;
+  masteredCount: number;
+  newCount: number;
+};
+
+export type RunPreset = "STANDARD" | "REVIEW_DUE";
+
+export type BackupScore = {
+  points: number;
+  timestamp: number;
+  mode: Mode;
+  runSize: number;
+  playerName?: string | null;
+};
+
+export type BackupPayloadV1 = {
+  version: 1;
+  exportedAt: number;
+  words: Word[];
+  cardProgress: CardProgressRow[];
+  scores: BackupScore[];
+};

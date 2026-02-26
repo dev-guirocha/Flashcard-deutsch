@@ -1,82 +1,55 @@
----
+# Flashcard Deutsch
 
-# 🇩🇪 Flashcard Deutsch
+Aplicativo offline-first para treino de vocabulario em alemao com foco em repeticao ativa.
 
-### Domine o alemão, um card de cada vez.
+## Funcionalidades
+- Modos de treino: multipla escolha (DE -> gloss) e escrita (gloss -> DE)
+- SRS Lite (Leitner): progresso por palavra com caixas e data de revisao
+- Botao de revisao de vencidos na Home
+- Modo "So artigos" (somente palavras NOUN)
+- Deck minimo A1 de artigos (instalacao rapida pela Home)
+- Audio via TTS (`expo-speech`)
+- Ranking local de pontuacao
+- Banco local SQLite sem backend obrigatorio
+- Export/Import local: backup JSON completo e deck CSV
 
-O **Flashcard Deutsch** é um aplicativo mobile desenvolvido para transformar o aprendizado de vocabulário alemão em uma experiência dinâmica e gamificada. Através de múltiplos modos de interação, o app ajuda você a memorizar artigos, palavras e pronúncias de forma intuitiva.
+## Stack
+- Expo 54
+- React Native 0.81
+- TypeScript
+- React Navigation
+- expo-sqlite
 
----
-
-## 🚀 Funcionalidades Principais
-
-* **Modos de Jogo Duplos**: Desafie-se com questões de múltipla escolha (**MC**) para reconhecimento rápido ou o modo de **Escrita** para fixar a ortografia correta.
-* **Pronúncia Nativa (TTS)**: Ouça a pronúncia correta de cada palavra em alemão antes de responder, utilizando integração com `expo-speech`.
-* **Sistema de Feedback Instantâneo**: Saiba na hora se acertou ou errou, com correções visuais e indicação da resposta certa.
-* **Gamificação Real**: Acompanhe seu *Score*, mantenha seu *Streak* (sequência de acertos) e gerencie seus *Skips* (pulos) limitados para tornar o estudo um desafio constante.
-* **Banco de Dados Local**: Performance rápida e persistência de dados utilizando `expo-sqlite` para salvar seus recordes e progresso.
-* **Ranking**: Visualize suas melhores pontuações e acompanhe sua evolução no tempo.
-
----
-
-## 🛠️ Stack Tecnológica
-
-O projeto foi construído utilizando as tecnologias mais modernas do ecossistema React Native:
-
-* **Core**: React Native 0.81 & Expo 54
-* **Linguagem**: TypeScript para máxima segurança de tipos
-* **Navegação**: React Navigation (Native Stack)
-* **Persistência**: SQLite para armazenamento robusto
-* **Voz**: Expo Speech para síntese de fala
-
----
-
-## 📱 Interface (UI)
-
-O app conta com um **Dark Mode nativo** e minimalista, focado no que importa: o conteúdo.
-
-* **Home**: Ponto de partida para iniciar novas sessões de estudo.
-* **Game Screen**: Interface limpa com barras de progresso, exemplos de uso e tradução (gloss) para cada palavra.
-* **Ranking**: Tela dedicada para exibir os campeões de memorização.
-
----
-
-## ⚙️ Como Executar
-
-1. **Clone o repositório**:
-```bash
-git clone https://github.com/dev-guirocha/flashcard-deutsch.git
-
-```
-
-
-2. **Instale as dependências**:
+## Rodando localmente
 ```bash
 npm install
-
+npm run android
+npm run ios
+npm run web
 ```
 
-
-3. **Inicie o projeto**:
+## Decks e seed
+- Seed padrao do app: `assets/words_v2_skeleton.json`
+- Normalizar deck base:
 ```bash
-npm run android  # Para Android
-npm run ios      # Para iOS
+npm run deck:normalize
+```
+- Enriquecer com Kaikki (JSONL):
+```bash
+npm run deck:enrich -- /caminho/kaikki.org-dictionary-German.jsonl
+```
+- Saida esperada do enrich: `assets/words_v2_enriched.json`
 
+## Testes
+```bash
+npm test
 ```
 
+## Licencas
+- Codigo: `LICENSE` (MIT)
+- Conteudo/decks: `data/LICENSE` e `data/SOURCES.md`
 
-
----
-
-## 🧠 Arquitetura
-
-O projeto segue uma estrutura organizada para escalabilidade:
-
-* `/src/ui`: Componentes de interface e telas (Home, Game, Ranking).
-* `/src/state`: Gerenciamento de estado global da aplicação.
-* `/src/domain`: Lógica de negócio e motor do jogo.
-* `/src/services`: Integrações externas como Text-to-Speech.
-
----
-
-Desenvolvido com ❤️ por **Guilherme Rocha** (dev.guirocha).
+## Comunidade
+- Guia de contribuicao: `CONTRIBUTING.md`
+- Conduta: `CODE_OF_CONDUCT.md`
+- Seguranca: `SECURITY.md`

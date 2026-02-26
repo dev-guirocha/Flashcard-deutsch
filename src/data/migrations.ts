@@ -52,6 +52,21 @@ export async function migrate() {
     );
   `);
 
+  await execAsync(`
+    CREATE TABLE IF NOT EXISTS card_progress (
+      wordId INTEGER PRIMARY KEY NOT NULL,
+      box INTEGER NOT NULL DEFAULT 1,
+      dueAt INTEGER NOT NULL DEFAULT 0,
+      correct INTEGER NOT NULL DEFAULT 0,
+      wrong INTEGER NOT NULL DEFAULT 0,
+      lastReviewedAt INTEGER
+    );
+  `);
+
+  await execAsync(`
+    CREATE INDEX IF NOT EXISTS idx_progress_due ON card_progress(dueAt);
+  `);
+
   // Add new columns if database already exists
   const addColumn = async (sql: string) => {
     try {

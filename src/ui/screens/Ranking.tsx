@@ -34,6 +34,8 @@ export function RankingScreen(props: { scores: ScoreRow[]; onBack: () => void })
 
       <Pressable
         onPress={props.onBack}
+        accessibilityRole="button"
+        accessibilityLabel="Voltar para tela inicial"
         style={{ marginTop: "auto", padding: 14, borderRadius: 14, backgroundColor: "#2a2a2a" }}
       >
         <Text style={{ color: "white", textAlign: "center", fontWeight: "800" }}>Voltar</Text>
